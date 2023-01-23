@@ -1,4 +1,3 @@
-import java.util.HashMap;
 import java.util.Map;
 
 /**
@@ -28,7 +27,7 @@ public class Card {
      * Mapping of each rank to its respective numerical value.
      * The only exception is ace, which is given a flagged value of -1.
      */
-    private Map<Rank, Integer> values = Map.ofEntries(
+    private final Map<Rank, Integer> values = Map.ofEntries(
             Map.entry(Rank.ace, -1),
             Map.entry(Rank.two, 2),
             Map.entry(Rank.three, 3),

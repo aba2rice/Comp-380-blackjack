@@ -1,5 +1,5 @@
+import java.util.ArrayList;
 import java.util.List;
-import java.util.Map;
 
 /**
  * This class represents a player or dealer's hand of cards.
@@ -8,15 +8,39 @@ public class Hand {
     /**
      * The list of cards contained in the hand.
      */
-    private List<Card> hand;
+    private List<Card> cards;
 
     /**
-     * Constructor for a hand object.
+     * For initializing one-card (dealer) hand.
      *
-     * @param hand a List of Cards to become the hand.
+     * @param cardUnicode the unicode for the card
      */
-    public Hand(List<Card> hand){
-        this.hand = hand;
+    public Hand(String cardUnicode) {
+        this.cards = new ArrayList<>();
+        this.addCard(cardUnicode);
+    }
+
+    /**
+     * For initializing two-card (player) hand.
+     *
+     * @param card1Unicode the unicode for the first card
+     * @param card2Unicode the unicode for the second card
+     */
+    public Hand(String card1Unicode, String card2Unicode) {
+        this.cards = new ArrayList<>();
+        this.addCard(card1Unicode);
+        this.addCard(card2Unicode);
+    }
+
+    /**
+     * Adds the card to the hand if the cardUnicode is not the empty string.
+     *
+     * @param cardUnicode the unicode for a card
+     */
+    private void addCard(String cardUnicode) {
+        if (!cardUnicode.isEmpty()) {
+            this.cards.add(new Card(cardUnicode));
+        }
     }
 
     /**
@@ -26,7 +50,7 @@ public class Hand {
      */
     public int getHard() {
         int total = 0;
-        for(Card card: this.hand){      //iterate through cards in hand
+        for (Card card: this.cards) {      //iterate through cards in hand
             total += card.getValue() == -1 ? 1 : card.getValue();
         }
         return total;
@@ -39,7 +63,7 @@ public class Hand {
      */
     public int getSoft() {
         int total = 0;
-        for (Card card: this.hand) {      //iterate through cards in hand
+        for (Card card: this.cards) {      //iterate through cards in hand
             total += card.getValue() == -1 ? 11 : card.getValue();
         }
         return total;
