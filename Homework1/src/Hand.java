@@ -11,35 +11,17 @@ public class Hand {
     private List<Card> cards;
 
     /**
-     * For initializing one-card (dealer) hand.
+     * Constructs each card from a line of csv.
      *
-     * @param cardUnicode the unicode for the card
+     * @param csvLine a line of csv
      */
-    public Hand(String cardUnicode) {
+    public Hand(String csvLine) {
         this.cards = new ArrayList<>();
-        this.addCard(cardUnicode);
-    }
-
-    /**
-     * For initializing two-card (player) hand.
-     *
-     * @param card1Unicode the unicode for the first card
-     * @param card2Unicode the unicode for the second card
-     */
-    public Hand(String card1Unicode, String card2Unicode) {
-        this.cards = new ArrayList<>();
-        this.addCard(card1Unicode);
-        this.addCard(card2Unicode);
-    }
-
-    /**
-     * Adds the card to the hand if the cardUnicode is not the empty string.
-     *
-     * @param cardUnicode the unicode for a card
-     */
-    private void addCard(String cardUnicode) {
-        if (!cardUnicode.isEmpty()) {
-            this.cards.add(new Card(cardUnicode));
+        for (String cardUnicode : csvLine.split(",")) {
+            // If the card unicode is the empty string, there is no card to add.
+            if (!cardUnicode.isEmpty()) {
+                this.cards.add(new Card(cardUnicode));
+            }
         }
     }
 
@@ -51,7 +33,7 @@ public class Hand {
     public int getHard() {
         int total = 0;
         for (Card card: this.cards) {      //iterate through cards in hand
-            total += card.getValue() == -1 ? 1 : card.getValue();
+            total += (card.getValue() == -1) ? 1 : card.getValue();
         }
         return total;
     }
@@ -64,7 +46,7 @@ public class Hand {
     public int getSoft() {
         int total = 0;
         for (Card card: this.cards) {      //iterate through cards in hand
-            total += card.getValue() == -1 ? 11 : card.getValue();
+            total += (card.getValue() == -1) ? 11 : card.getValue();
         }
         return total;
     }
