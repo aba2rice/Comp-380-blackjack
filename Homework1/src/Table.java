@@ -12,7 +12,7 @@ public class Table {
     /**
      * The number of other players (doesn't include player 1 or the dealer).
      */
-    private final static int numOtherPlayers = 4;
+    private final static int numOtherPlayers = 3;
 
     /**
      * The hands appear in the same order as the csv file.
@@ -39,11 +39,13 @@ public class Table {
         // Add the other players' hands (excluding player 1).
         for (int i = 0; i < numOtherPlayers; i++) {
 
-            // This hand starts after the comma at the end of the previous hand.
-            handStartIdx = handEndIdx + 1;
+            int previousHandEndIdx = handEndIdx;
 
             // Each other player has two cards.
-            handEndIdx = findCommaAfter(findCommaAfter(handStartIdx, csvLine), csvLine);
+            handEndIdx = findCommaAfter(findCommaAfter(previousHandEndIdx, csvLine), csvLine);
+
+            // This hand starts after the comma at the end of the previous hand.
+            handStartIdx = previousHandEndIdx + 1;
 
             this.hands.add(new Hand(csvLine.substring(handStartIdx, handEndIdx)));
         }
@@ -72,7 +74,7 @@ public class Table {
      * @return the first index of a comma in the input string after the input index
      */
     private static int findCommaAfter(int idx, String str) {
-        return str.substring(idx + 1).indexOf(',');
+        return idx + 1 + str.substring(idx + 1).indexOf(',');
     }
 
 }

@@ -49,6 +49,9 @@ public class Card {
      *                to be created.
      */
     public Card(String unicode) {
+        // Ensure uppercase letters are used for the map
+        unicode = unicode.toUpperCase();
+
         char suitIndicator = unicode.charAt(3);
         char rankIndicator = unicode.charAt(4);
         Suit suit = null;
