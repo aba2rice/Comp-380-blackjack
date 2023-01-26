@@ -4,25 +4,31 @@ import java.util.Map;
  * This class represents a single card from a deck of cards.
  */
 public class Card {
+
     /**
-     * Custom types to define Rank and Suit
+     * Defines the possible suits of a card.
      */
     private enum Suit {
         hearts, spades, clubs, diamonds
     }
 
+    /**
+     * Defines the possible ranks of a card.
+     */
     private enum Rank {
         ace, two, three, four, five, six, seven, eight, nine, ten, jack, queen, king
     }
 
     /**
-     * The rank of the card
-     */
-    private final Rank rank;
-    /**
      * The suit of the card
      */
     private final Suit suit;
+
+    /**
+     * The rank of the card
+     */
+    private final Rank rank;
+
     /**
      * Mapping of each rank to its respective numerical value.
      * The only exception is ace, which is given a flagged value of -1.
@@ -43,25 +49,37 @@ public class Card {
             Map.entry(Rank.king, 10));
 
     /**
-     * Constructor to make a new card from unicode lines in a csv file.
+     * Constructor to make a new card from its unicode value.
      *
-     * @param unicode String representing the unicode value of the card
+     * @param unicode String holding the unicode value of the card
      *                to be created.
      */
     public Card(String unicode) {
-        // Ensure uppercase letters are used for the map
+
+        // Ensure uppercase letters are used for the map.
         unicode = unicode.toUpperCase();
 
         char suitIndicator = unicode.charAt(3);
         char rankIndicator = unicode.charAt(4);
+
+        /*
+         * These initial values of null are required since the
+         * compiler can't guarantee the suit and rank will be
+         * initialized in the switch statements below. If a card's
+         * suit or rank ever are null, that indicates an error.
+         */
         Suit suit = null;
         Rank rank = null;
+
+        // Set the card's suit.
         switch (suitIndicator) {
             case 'A' -> suit = Suit.spades;
             case 'B' -> suit = Suit.hearts;
             case 'C' -> suit = Suit.diamonds;
             case 'D' -> suit = Suit.clubs;
         }
+
+        // Set the card's rank.
         switch (rankIndicator) {
             case '1' -> rank = Rank.ace;
             case '2' -> rank = Rank.two;
@@ -78,8 +96,8 @@ public class Card {
             case 'E' -> rank = Rank.king;
         }
 
-        this.rank = rank;
         this.suit = suit;
+        this.rank = rank;
     }
 
     /**

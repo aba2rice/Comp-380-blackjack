@@ -41,11 +41,11 @@ public class Table {
 
             int previousHandEndIdx = handEndIdx;
 
-            // Each other player has two cards.
-            handEndIdx = findCommaAfter(findCommaAfter(previousHandEndIdx, csvLine), csvLine);
-
             // This hand starts after the comma at the end of the previous hand.
             handStartIdx = previousHandEndIdx + 1;
+
+            // Every player who is not player 1 has two cards.
+            handEndIdx = findCommaAfter(findCommaAfter(previousHandEndIdx, csvLine), csvLine);
 
             this.hands.add(new Hand(csvLine.substring(handStartIdx, handEndIdx)));
         }
