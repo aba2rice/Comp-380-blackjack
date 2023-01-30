@@ -52,7 +52,7 @@ STAY,1f0a2,,,,,,,1f0c3,1f0b8,1f0ce
 STAY,1f0da,1f0b3,1f0a9,1f0b2,1f0a6,,,1f0c6,1f0a7
 STAY,1f0d3,1f0a5,1f0bb,1f0b6,1f0de,,,1f0a1,1f0d1,1f0a2,1f0c6,1f0be
 STAY,1f0c4,,,,,,,1f0c1,1f0aa
-STAY,1f0c6,1f0a4,1f0c9,1f0a5,1f0be,1f0b1,1f0cd,1f0c1,1f0d1
+HIT,1f0c6,1f0a4,1f0c9,1f0a5,1f0be,1f0b1,1f0cd,1f0c1,1f0d1
 STAY,1f0ca,1f0b8,1f0a9,,,,,1f0a5,1f0db
 STAY,1f0c2,,,,,,,1f0a2,1f0b5,1f0da
 STAY,1f0cd,1f0a3,1f0db,,,,,1f0a2,1f0d3,1f0b8,1f0d8
@@ -198,7 +198,7 @@ HIT,1f0be,1f0a6,1f0aa,1f0a3,1f0d3,1f0b5,1f0d8,1f0d2,1f0b9
 STAY,1f0d8,,,,,,,1f0be,1f0ce
 STAY,1f0a7,1f0a1,1f0b2,,,,,1f0a3,1f0b4,1f0ae
 STAY,1f0b3,,,,,,,1f0c3,1f0c6,1f0d8
-STAY,1f0bb,1f0c5,1f0cd,1f0b4,1f0cb,,,1f0b1,1f0c1,1f0d1
+HIT,1f0bb,1f0c5,1f0cd,1f0b4,1f0cb,,,1f0b1,1f0c1,1f0d1
 STAY,1f0b8,,,,,,,1f0da,1f0bb
 STAY,1f0b4,,,,,,,1f0d3,1f0cd
 STAY,1f0c1,,,,,,,1f0c5,1f0b9
@@ -220,7 +220,7 @@ STAY,1f0bd,,,,,,,1f0a1,1f0cb,1f0dd
 STAY,1f0c3,,,,,,,1f0a1,1f0c1,1f0d6,1f0d9
 STAY,1f0c6,,,,,,,1f0d1,1f0ce,1f0de
 STAY,1f0d8,1f0d1,1f0b8,1f0b6,1f0be,,,1f0a4,1f0d7,1f0c8
-STAY,1f0ab,1f0b5,1f0ce,1f0b8,1f0da,,,1f0a1,1f0b1,1f0d1
+HIT,1f0ab,1f0b5,1f0ce,1f0b8,1f0da,,,1f0a1,1f0b1,1f0d1
 STAY,1f0ae,1f0d4,1f0c6,1f0ca,1f0dd,,,1f0b3,1f0cd
 HIT,1f0ad,,,,,,,1f0b4,1f0d5
 STAY,1f0cd,1f0d1,1f0c4,1f0be,1f0ce,1f0a3,1f0b8,1f0a1,1f0a8,1f0ae
@@ -351,7 +351,7 @@ STAY,1f0ad,1f0b2,1f0dd,1f0d3,1f0c6,1f0a9,1f0ab,1f0b1,1f0c3,1f0c8
 STAY,1f0b4,,,,,,,1f0d6,1f0cd
 STAY,1f0cb,,,,,,,1f0b8,1f0ba
 STAY,1f0d4,1f0b5,1f0b8,,,,,1f0b1,1f0a4,1f0b6,1f0a8
-STAY,1f0d2,1f0a3,1f0c6,1f0b8,1f0aa,1f0a4,1f0ce,1f0b1,1f0d1,1f0c3
+HIT,1f0d2,1f0a3,1f0c6,1f0b8,1f0aa,1f0a4,1f0ce,1f0b1,1f0d1,1f0c3
 STAY,1f0b9,,,,,,,1f0d1,1f0a9,1f0ba
 STAY,1f0d7,1f0b5,1f0c9,1f0d3,1f0d8,1f0b4,1f0d6,1f0a1,1f0a4,1f0db
 STAY,1f0a4,1f0c4,1f0c8,,,,,1f0d2,1f0b9,1f0cd
@@ -489,7 +489,7 @@ STAY,1f0cd,1f0c7,1f0ba,1f0a5,1f0d9,,,1f0c8,1f0ae
 HIT,1f0cb,1f0d1,1f0d4,1f0a8,1f0dd,1f0c2,1f0b4,1f0b2,1f0c4,1f0c5
 STAY,1f0d4,1f0b9,1f0bb,,,,,1f0d3,1f0d8,1f0ca
 STAY,1f0d8,1f0d4,1f0aa,1f0b8,1f0cb,,,1f0c2,1f0a6,1f0c6,1f0d6
-STAY,1f0ba,1f0c5,1f0d6,1f0d7,1f0b8,1f0b2,1f0d8,1f0a1,1f0d1
+HIT,1f0ba,1f0c5,1f0d6,1f0d7,1f0b8,1f0b2,1f0d8,1f0a1,1f0d1
 STAY,1f0dd,1f0d5,1f0b9,1f0a8,1f0cd,1f0a1,1f0a9,1f0b1,1f0c4,1f0b6,1f0bb
 STAY,1f0d7,1f0b4,1f0d6,1f0b7,1f0ab,1f0d9,1f0ae,1f0d3,1f0da
 STAY,1f0ae,,,,,,,1f0dd,1f0be
@@ -511,7 +511,7 @@ STAY,1f0ba,,,,,,,1f0d1,1f0ab,1f0db
 HIT,1f0c7,1f0c6,1f0b9,1f0b4,1f0db,,,1f0c2,1f0a4,1f0c5
 STAY,1f0a5,,,,,,,1f0c2,1f0a3,1f0a6,1f0ae
 STAY,1f0c3,1f0c6,1f0bb,1f0d3,1f0d9,1f0a9,1f0db,1f0a2,1f0be
-STAY,1f0ce,1f0b7,1f0dd,1f0c5,1f0cd,1f0d4,1f0bb,1f0b1,1f0c1
+HIT,1f0ce,1f0b7,1f0dd,1f0c5,1f0cd,1f0d4,1f0bb,1f0b1,1f0c1
 STAY,1f0b1,,,,,,,1f0d4,1f0a8
 STAY,1f0a7,1f0b3,1f0a5,,,,,1f0b6,1f0b9
 STAY,1f0b8,1f0c5,1f0a9,1f0a4,1f0a7,1f0ba,1f0ce,1f0b4,1f0c4,1f0d9
@@ -851,7 +851,7 @@ STAY,1f0ad,1f0aa,1f0ca,1f0c2,1f0d6,1f0c8,1f0bd,1f0d9,1f0ae
 STAY,1f0d6,,,,,,,1f0d9,1f0db
 STAY,1f0a9,1f0b5,1f0a8,1f0c4,1f0ad,,,1f0c9,1f0ce
 STAY,1f0c4,1f0d3,1f0de,1f0b5,1f0ca,,,1f0d4,1f0b8
-STAY,1f0c4,1f0c2,1f0bb,1f0b7,1f0b9,,,1f0a1,1f0b1,1f0d2
+HIT,1f0c4,1f0c2,1f0bb,1f0b7,1f0b9,,,1f0a1,1f0b1,1f0d2
 STAY,1f0a9,1f0a2,1f0ce,1f0d8,1f0d9,1f0c3,1f0de,1f0c1,1f0d7
 STAY,1f0b2,1f0b1,1f0cd,1f0a5,1f0ab,,,1f0b3,1f0a6,1f0ce
 STAY,1f0a3,1f0b2,1f0ab,,,,,1f0a8,1f0ba
@@ -1147,7 +1147,7 @@ STAY,1f0cd,1f0c8,1f0ca,,,,,1f0c3,1f0ae
 STAY,1f0d6,1f0b3,1f0ab,,,,,1f0d2,1f0c4,1f0d5,1f0b9
 STAY,1f0da,1f0a1,1f0bd,1f0b1,1f0a4,,,1f0b3,1f0ad
 STAY,1f0d9,1f0a4,1f0de,1f0d7,1f0a8,,,1f0c6,1f0ca
-STAY,1f0cd,1f0d2,1f0d6,1f0a5,1f0b9,,,1f0a1,1f0b1,1f0a2,1f0b2
+HIT,1f0cd,1f0d2,1f0d6,1f0a5,1f0b9,,,1f0a1,1f0b1,1f0a2,1f0b2
 STAY,1f0aa,,,,,,,1f0b1,1f0d3,1f0b9
 STAY,1f0db,,,,,,,1f0ab,1f0ae
 HIT,1f0c8,1f0b3,1f0ad,1f0aa,1f0ae,,,1f0d3,1f0d4
@@ -1254,7 +1254,7 @@ STAY,1f0c7,1f0d5,1f0bb,,,,,1f0b2,1f0a3,1f0aa
 STAY,1f0ba,1f0b2,1f0c9,,,,,1f0a3,1f0d6,1f0de
 HIT,1f0dd,1f0a5,1f0d5,1f0a7,1f0b9,,,1f0c1,1f0b3,1f0c3
 STAY,1f0bd,1f0c4,1f0b9,1f0a1,1f0a7,1f0bb,1f0ad,1f0d5,1f0ca
-STAY,1f0b9,,,,,,,1f0c1,1f0d1
+HIT,1f0b9,,,,,,,1f0c1,1f0d1
 STAY,1f0b5,1f0c3,1f0c5,1f0a1,1f0a7,,,1f0d1,1f0db,1f0be
 STAY,1f0ca,1f0a5,1f0d7,1f0b1,1f0b9,,,1f0c2,1f0b4,1f0c4,1f0de
 STAY,1f0a8,,,,,,,1f0d4,1f0b5,1f0de
@@ -1294,7 +1294,7 @@ STAY,1f0d1,1f0a7,1f0c9,1f0cb,1f0ce,1f0b1,1f0c1,1f0da,1f0de
 STAY,1f0b7,1f0d3,1f0c6,1f0b8,1f0ca,,,1f0d1,1f0de
 HIT,1f0c3,,,,,,,1f0a2,1f0d9
 STAY,1f0ad,1f0d3,1f0b7,1f0b3,1f0c3,,,1f0c1,1f0c6,1f0b8
-STAY,1f0bd,1f0ca,1f0ae,1f0c7,1f0ba,,,1f0b1,1f0c1,1f0b5
+HIT,1f0bd,1f0ca,1f0ae,1f0c7,1f0ba,,,1f0b1,1f0c1,1f0b5
 STAY,1f0b3,1f0d5,1f0d8,1f0a1,1f0be,,,1f0d1,1f0d2,1f0c7,1f0cb
 STAY,1f0a8,1f0d6,1f0bd,1f0a1,1f0ab,1f0d8,1f0bb,1f0a2,1f0a5,1f0c9
 STAY,1f0a4,1f0d4,1f0cd,1f0b7,1f0c9,1f0ce,1f0de,1f0d2,1f0d3,1f0dd
@@ -1504,7 +1504,7 @@ STAY,1f0b5,1f0c4,1f0a7,1f0c2,1f0a4,1f0b4,1f0d5,1f0aa,1f0ba
 STAY,1f0ae,,,,,,,1f0a4,1f0ce
 STAY,1f0b8,1f0bb,1f0bd,,,,,1f0d1,1f0db,1f0ce
 STAY,1f0d1,1f0b9,1f0bd,,,,,1f0ca,1f0cd
-STAY,1f0ca,1f0b2,1f0d3,1f0d7,1f0ab,,,1f0b1,1f0c1
+HIT,1f0ca,1f0b2,1f0d3,1f0d7,1f0ab,,,1f0b1,1f0c1
 HIT,1f0c2,1f0c8,1f0bb,,,,,1f0c3,1f0a4,1f0b4
 STAY,1f0c6,,,,,,,1f0d4,1f0b5,1f0b7
 STAY,1f0c5,1f0ca,1f0ce,1f0c2,1f0a8,1f0b1,1f0d3,1f0c1,1f0d2,1f0db
@@ -1541,7 +1541,7 @@ STAY,1f0ab,1f0a3,1f0da,,,,,1f0a6,1f0ad
 STAY,1f0d6,1f0a2,1f0a4,,,,,1f0a3,1f0ad
 STAY,1f0b9,,,,,,,1f0c8,1f0de
 STAY,1f0c1,1f0d7,1f0ad,1f0b1,1f0d6,1f0ab,1f0bd,1f0a1,1f0b2,1f0b3,1f0c6,1f0b8
-STAY,1f0aa,1f0c3,1f0c7,,,,,1f0a1,1f0d1,1f0a3
+HIT,1f0aa,1f0c3,1f0c7,,,,,1f0a1,1f0d1,1f0a3
 STAY,1f0c9,1f0c1,1f0ca,,,,,1f0b1,1f0a4,1f0c6,1f0ae
 HIT,1f0a6,1f0c7,1f0d8,1f0a4,1f0bd,1f0b1,1f0de,1f0c5,1f0d6
 HIT,1f0c1,1f0b4,1f0d5,1f0ab,1f0dd,1f0a5,1f0d6,1f0b3,1f0c5
@@ -1807,7 +1807,7 @@ STAY,1f0b3,1f0b6,1f0d6,1f0ce,1f0de,,,1f0c3,1f0d4,1f0b8
 HIT,1f0bd,1f0b9,1f0c9,1f0a4,1f0c7,,,1f0d2,1f0c5
 STAY,1f0a6,,,,,,,1f0b1,1f0a4,1f0ab
 STAY,1f0d5,1f0a7,1f0aa,1f0b5,1f0a8,1f0a2,1f0de,1f0c2,1f0b8,1f0ab
-STAY,1f0c4,1f0c3,1f0dd,,,,,1f0a1,1f0c1
+HIT,1f0c4,1f0c3,1f0dd,,,,,1f0a1,1f0c1
 STAY,1f0d7,1f0d6,1f0ba,,,,,1f0a1,1f0ce
 HIT,1f0d3,1f0b1,1f0c5,1f0d1,1f0a5,,,1f0b5,1f0b6
 STAY,1f0c1,1f0d8,1f0da,1f0b4,1f0c8,1f0a4,1f0d4,1f0c4,1f0ce
@@ -2029,7 +2029,7 @@ STAY,1f0a1,1f0b5,1f0a8,1f0d2,1f0b4,,,1f0c7,1f0c8
 STAY,1f0d6,1f0b2,1f0a5,1f0b9,1f0dd,,,1f0b5,1f0b7,1f0a8
 STAY,1f0db,,,,,,,1f0c1,1f0c2,1f0a3,1f0b6,1f0d6
 STAY,1f0c3,1f0bb,1f0dd,1f0ca,1f0ae,,,1f0d1,1f0c9,1f0ba
-STAY,1f0dd,1f0b8,1f0ce,1f0c5,1f0cd,,,1f0a1,1f0c1
+HIT,1f0dd,1f0b8,1f0ce,1f0c5,1f0cd,,,1f0a1,1f0c1
 STAY,1f0cd,1f0b4,1f0de,1f0d9,1f0da,1f0a4,1f0c7,1f0d8,1f0cb
 STAY,1f0c8,1f0c2,1f0d5,,,,,1f0d1,1f0a5,1f0de
 STAY,1f0d3,,,,,,,1f0cb,1f0ad
@@ -2575,7 +2575,7 @@ STAY,1f0b8,1f0c3,1f0a8,1f0a5,1f0d6,1f0d5,1f0db,1f0a1,1f0b3,1f0da
 STAY,1f0c5,,,,,,,1f0d3,1f0ce
 STAY,1f0b9,,,,,,,1f0a8,1f0cb
 STAY,1f0cd,1f0c1,1f0b7,1f0c5,1f0be,1f0c6,1f0d7,1f0b4,1f0b6,1f0ca
-STAY,1f0ca,,,,,,,1f0b1,1f0d1
+HIT,1f0ca,,,,,,,1f0b1,1f0d1
 STAY,1f0c3,1f0a6,1f0c6,1f0c7,1f0a9,,,1f0a1,1f0b5,1f0b6,1f0c8
 STAY,1f0b5,1f0a3,1f0ce,1f0c6,1f0ae,1f0a1,1f0b8,1f0d3,1f0dd
 STAY,1f0c1,1f0ab,1f0db,1f0a3,1f0d4,1f0c7,1f0b9,1f0a1,1f0dd
@@ -2767,7 +2767,7 @@ HIT,1f0c4,,,,,,,1f0b1,1f0c6
 STAY,1f0ca,1f0b2,1f0db,1f0c7,1f0be,1f0dd,1f0de,1f0b5,1f0d5,1f0b7
 HIT,1f0b6,1f0b2,1f0c9,1f0c3,1f0d4,,,1f0a4,1f0c7
 STAY,1f0d5,,,,,,,1f0b3,1f0be
-STAY,1f0b7,1f0a1,1f0d9,1f0c2,1f0d6,,,1f0b1,1f0d1
+HIT,1f0b7,1f0a1,1f0d9,1f0c2,1f0d6,,,1f0b1,1f0d1
 STAY,1f0a7,1f0d7,1f0de,1f0c8,1f0bb,1f0a3,1f0bd,1f0c1,1f0be
 HIT,1f0b8,1f0c5,1f0ae,1f0a7,1f0b7,,,1f0b1,1f0c2
 STAY,1f0b9,,,,,,,1f0c8,1f0ce
@@ -3118,7 +3118,7 @@ STAY,1f0b8,1f0a4,1f0dd,1f0d6,1f0d8,,,1f0d5,1f0a6,1f0d9
 STAY,1f0ce,,,,,,,1f0b5,1f0d7
 STAY,1f0a6,1f0b6,1f0cd,1f0d2,1f0a8,,,1f0d6,1f0c7
 STAY,1f0cb,,,,,,,1f0d7,1f0c9
-STAY,1f0bd,,,,,,,1f0a1,1f0c1,1f0d5
+HIT,1f0bd,,,,,,,1f0a1,1f0c1,1f0d5
 STAY,1f0bd,1f0ab,1f0de,1f0b1,1f0d3,1f0d2,1f0b8,1f0a1,1f0d1,1f0b2,1f0cb
 STAY,1f0ca,,,,,,,1f0a2,1f0b2,1f0a3,1f0a4,1f0a6
 STAY,1f0bb,1f0c1,1f0c9,1f0a6,1f0aa,1f0a9,1f0db,1f0a3,1f0c3,1f0a5,1f0c6
@@ -3428,7 +3428,7 @@ STAY,1f0db,1f0c2,1f0bb,,,,,1f0da,1f0ae
 STAY,1f0be,1f0c5,1f0ca,1f0c2,1f0b6,1f0b8,1f0bd,1f0a1,1f0c3,1f0c7,1f0d8
 STAY,1f0c3,1f0a2,1f0b2,1f0da,1f0dd,,,1f0a1,1f0d3,1f0c7
 STAY,1f0d8,1f0c2,1f0d9,1f0cb,1f0bd,,,1f0a4,1f0d6,1f0db
-STAY,1f0cb,1f0ae,1f0de,1f0a4,1f0db,,,1f0b1,1f0d1
+HIT,1f0cb,1f0ae,1f0de,1f0a4,1f0db,,,1f0b1,1f0d1
 STAY,1f0a3,1f0a6,1f0d9,1f0cb,1f0ae,,,1f0d3,1f0b7,1f0b9
 HIT,1f0de,1f0c3,1f0ca,,,,,1f0d1,1f0b2,1f0d3
 STAY,1f0b6,,,,,,,1f0a1,1f0bd,1f0dd
@@ -3580,7 +3580,7 @@ STAY,1f0a9,1f0ca,1f0cd,1f0d4,1f0c6,1f0c1,1f0b3,1f0b2,1f0d3,1f0d8
 STAY,1f0c9,1f0b3,1f0da,1f0aa,1f0ad,,,1f0c2,1f0c4,1f0b7
 STAY,1f0d8,1f0a4,1f0dd,1f0d1,1f0a2,,,1f0a1,1f0c1,1f0c7
 STAY,1f0b8,1f0a1,1f0aa,1f0a5,1f0da,,,1f0b5,1f0cd
-STAY,1f0da,1f0c5,1f0d7,1f0ba,1f0be,1f0bd,1f0de,1f0c1,1f0d1
+HIT,1f0da,1f0c5,1f0d7,1f0ba,1f0be,1f0bd,1f0de,1f0c1,1f0d1
 STAY,1f0db,1f0d7,1f0dd,1f0c4,1f0bb,,,1f0c2,1f0c3,1f0b5,1f0a7
 STAY,1f0b1,1f0d1,1f0b9,1f0d7,1f0a9,,,1f0a6,1f0a8
 STAY,1f0d7,1f0c6,1f0d9,1f0c2,1f0d2,,,1f0a1,1f0b7,1f0dd
@@ -3594,7 +3594,7 @@ STAY,1f0c8,1f0b8,1f0c9,1f0c7,1f0db,,,1f0a1,1f0aa
 STAY,1f0bb,1f0c5,1f0a8,,,,,1f0b1,1f0c3,1f0b4,1f0bd
 STAY,1f0d4,1f0a8,1f0ce,,,,,1f0c1,1f0b4,1f0c4,1f0ca
 STAY,1f0d2,1f0a7,1f0a9,1f0d5,1f0d6,1f0c5,1f0a6,1f0bb,1f0be
-STAY,1f0b2,,,,,,,1f0c1,1f0d1,1f0c5
+HIT,1f0b2,,,,,,,1f0c1,1f0d1,1f0c5
 STAY,1f0a2,1f0b3,1f0bb,1f0c6,1f0cd,,,1f0d8,1f0ce
 STAY,1f0b8,,,,,,,1f0b3,1f0d3,1f0dd
 STAY,1f0c4,1f0b9,1f0ab,1f0c5,1f0ca,1f0d8,1f0cd,1f0a1,1f0d1,1f0c2,1f0a4,1f0a9
@@ -3708,7 +3708,7 @@ STAY,1f0d3,1f0a4,1f0cd,,,,,1f0a9,1f0ba
 HIT,1f0a1,,,,,,,1f0c3,1f0a8
 HIT,1f0ae,1f0d5,1f0a9,1f0d9,1f0ce,1f0b3,1f0d4,1f0a4,1f0a6
 STAY,1f0d6,1f0d2,1f0dd,1f0d1,1f0ad,1f0a9,1f0ca,1f0d4,1f0a7,1f0ba
-STAY,1f0b6,,,,,,,1f0c1,1f0d1,1f0d4
+HIT,1f0b6,,,,,,,1f0c1,1f0d1,1f0d4
 STAY,1f0d9,1f0b6,1f0c6,1f0d4,1f0d7,1f0b4,1f0c8,1f0a4,1f0a5,1f0de
 STAY,1f0c1,1f0d4,1f0a8,1f0c5,1f0c6,,,1f0a1,1f0a5,1f0b8
 STAY,1f0a1,1f0c8,1f0ca,1f0a5,1f0a9,,,1f0b1,1f0ae
@@ -4002,7 +4002,7 @@ STAY,1f0a1,1f0c2,1f0bb,1f0c4,1f0cb,1f0ab,1f0be,1f0c1,1f0a2,1f0a8
 HIT,1f0b3,1f0ba,1f0ae,1f0b7,1f0a8,,,1f0a4,1f0a6
 STAY,1f0aa,1f0c2,1f0c8,,,,,1f0a8,1f0d9
 STAY,1f0ba,1f0c1,1f0a6,1f0db,1f0ce,1f0d5,1f0dd,1f0c4,1f0c6,1f0bb
-STAY,1f0b9,1f0a2,1f0a4,1f0a9,1f0be,,,1f0a1,1f0c1,1f0d3
+HIT,1f0b9,1f0a2,1f0a4,1f0a9,1f0be,,,1f0a1,1f0c1,1f0d3
 STAY,1f0a8,1f0c1,1f0cb,1f0d5,1f0ab,1f0a9,1f0de,1f0b7,1f0cd
 STAY,1f0ae,1f0b5,1f0c5,1f0b6,1f0c9,1f0ca,1f0ab,1f0a1,1f0c1,1f0a3,1f0cb
 STAY,1f0b4,1f0bd,1f0dd,1f0d5,1f0be,,,1f0c3,1f0a6,1f0cd
@@ -4033,7 +4033,7 @@ STAY,1f0ce,,,,,,,1f0b6,1f0db
 STAY,1f0a1,1f0da,1f0ce,1f0d4,1f0b7,1f0c6,1f0a9,1f0a8,1f0aa
 STAY,1f0a5,1f0d2,1f0b9,1f0b2,1f0bd,,,1f0a1,1f0a7
 STAY,1f0be,1f0b4,1f0c9,1f0a3,1f0b5,1f0ad,1f0de,1f0a6,1f0bb
-STAY,1f0b8,1f0b1,1f0bd,1f0c6,1f0d7,,,1f0a1,1f0c1,1f0a5
+HIT,1f0b8,1f0b1,1f0bd,1f0c6,1f0d7,,,1f0a1,1f0c1,1f0a5
 HIT,1f0b3,1f0ca,1f0de,,,,,1f0c5,1f0c6
 STAY,1f0ab,1f0d2,1f0de,1f0c3,1f0aa,1f0c2,1f0c7,1f0b4,1f0c5,1f0a8
 STAY,1f0a9,1f0c2,1f0c3,1f0b3,1f0de,1f0c5,1f0cb,1f0a2,1f0b2,1f0c4,1f0d9
@@ -4081,7 +4081,7 @@ STAY,1f0c2,1f0b4,1f0d9,,,,,1f0aa,1f0de
 STAY,1f0c5,1f0d6,1f0db,,,,,1f0b1,1f0d9
 HIT,1f0ca,,,,,,,1f0c1,1f0c6
 STAY,1f0a9,1f0a1,1f0db,1f0d1,1f0bd,,,1f0c3,1f0c6,1f0cb
-STAY,1f0a9,1f0b2,1f0ce,1f0d2,1f0ad,1f0b4,1f0ae,1f0a1,1f0c1
+HIT,1f0a9,1f0b2,1f0ce,1f0d2,1f0ad,1f0b4,1f0ae,1f0a1,1f0c1
 STAY,1f0c5,,,,,,,1f0a9,1f0d9
 STAY,1f0c2,1f0d9,1f0bd,,,,,1f0b1,1f0ba,1f0dd
 STAY,1f0d8,1f0d2,1f0c9,,,,,1f0d6,1f0c8
@@ -4108,7 +4108,7 @@ STAY,1f0a1,1f0a3,1f0d9,1f0d3,1f0d7,1f0d4,1f0c9,1f0b9,1f0bd
 STAY,1f0a4,,,,,,,1f0c9,1f0bd
 HIT,1f0a9,1f0a3,1f0b8,,,,,1f0b1,1f0a4
 STAY,1f0a7,1f0a5,1f0b7,,,,,1f0a2,1f0b2,1f0d4,1f0ae
-STAY,1f0d3,1f0a5,1f0db,1f0c6,1f0b7,1f0c3,1f0ca,1f0c1,1f0d1,1f0b4
+HIT,1f0d3,1f0a5,1f0db,1f0c6,1f0b7,1f0c3,1f0ca,1f0c1,1f0d1,1f0b4
 STAY,1f0a8,1f0d6,1f0b7,1f0c7,1f0b8,,,1f0c2,1f0c8,1f0d9
 HIT,1f0bb,1f0b3,1f0ca,1f0a1,1f0d2,,,1f0d1,1f0a6
 HIT,1f0d1,1f0d7,1f0ca,1f0a1,1f0a5,,,1f0a3,1f0a7
@@ -4307,7 +4307,7 @@ STAY,1f0a6,1f0a5,1f0ca,1f0b7,1f0ae,1f0b4,1f0cd,1f0a2,1f0d2,1f0d9
 STAY,1f0be,1f0c1,1f0ce,1f0a3,1f0d5,1f0a5,1f0c5,1f0d2,1f0c7,1f0c9
 STAY,1f0c6,1f0c3,1f0b7,,,,,1f0a1,1f0b1,1f0c1,1f0d3,1f0d4
 STAY,1f0b6,1f0b7,1f0d9,,,,,1f0a4,1f0bb
-STAY,1f0de,1f0b3,1f0be,,,,,1f0b1,1f0d1
+HIT,1f0de,1f0b3,1f0be,,,,,1f0b1,1f0d1
 STAY,1f0b8,1f0b3,1f0c9,1f0a1,1f0d1,,,1f0d3,1f0ad
 STAY,1f0de,,,,,,,1f0d9,1f0cd
 STAY,1f0aa,1f0a3,1f0ba,,,,,1f0b6,1f0d8
@@ -4441,10 +4441,10 @@ STAY,1f0d7,1f0c4,1f0ab,1f0a1,1f0ca,,,1f0c1,1f0a3,1f0ce
 STAY,1f0d4,,,,,,,1f0d3,1f0c5,1f0c7
 STAY,1f0c7,,,,,,,1f0c4,1f0a6,1f0c6
 STAY,1f0b8,1f0c3,1f0b4,1f0ba,1f0ab,1f0c7,1f0ce,1f0d3,1f0a7,1f0ae
-STAY,1f0a8,1f0a2,1f0b7,,,,,1f0a1,1f0b1,1f0d4
+HIT,1f0a8,1f0a2,1f0b7,,,,,1f0a1,1f0b1,1f0d4
 STAY,1f0bd,1f0a5,1f0d7,1f0c3,1f0b4,,,1f0a2,1f0c6,1f0cd
 STAY,1f0c5,,,,,,,1f0a1,1f0ad,1f0ae
-STAY,1f0b9,1f0d2,1f0b4,,,,,1f0b1,1f0c1
+HIT,1f0b9,1f0d2,1f0b4,,,,,1f0b1,1f0c1
 STAY,1f0cb,1f0a8,1f0ca,1f0a4,1f0bd,1f0a3,1f0d7,1f0d1,1f0b9
 HIT,1f0d1,,,,,,,1f0d3,1f0d8
 STAY,1f0cd,1f0a5,1f0db,1f0c3,1f0b9,1f0a2,1f0d2,1f0d9,1f0dd
@@ -4884,7 +4884,7 @@ STAY,1f0d6,1f0c6,1f0da,1f0a6,1f0ab,,,1f0d9,1f0de
 STAY,1f0d4,1f0c6,1f0be,1f0c4,1f0bb,1f0d6,1f0c7,1f0d5,1f0a7,1f0b7
 STAY,1f0aa,1f0da,1f0ae,1f0d4,1f0ce,1f0b5,1f0a8,1f0ab,1f0db
 STAY,1f0c7,1f0c2,1f0d5,,,,,1f0c8,1f0bd
-STAY,1f0a3,1f0b7,1f0c8,,,,,1f0b1,1f0c1
+HIT,1f0a3,1f0b7,1f0c8,,,,,1f0b1,1f0c1
 STAY,1f0aa,1f0dd,1f0ce,1f0ab,1f0cb,,,1f0a8,1f0b9
 STAY,1f0a7,,,,,,,1f0a1,1f0d1,1f0b2,1f0c9
 STAY,1f0d1,1f0c4,1f0cb,1f0a7,1f0a8,1f0d5,1f0b7,1f0a1,1f0a3,1f0b4
@@ -4976,7 +4976,7 @@ STAY,1f0c8,,,,,,,1f0b2,1f0b4,1f0c5,1f0c9
 STAY,1f0b7,,,,,,,1f0d9,1f0de
 STAY,1f0ab,,,,,,,1f0d5,1f0bb
 STAY,1f0da,1f0d3,1f0c5,,,,,1f0a4,1f0b4,1f0c7
-STAY,1f0bb,1f0b8,1f0ad,1f0a6,1f0da,,,1f0a1,1f0c1
+HIT,1f0bb,1f0b8,1f0ad,1f0a6,1f0da,,,1f0a1,1f0c1
 STAY,1f0d7,1f0c9,1f0ca,,,,,1f0b1,1f0b4,1f0b5
 STAY,1f0c3,1f0a2,1f0da,1f0cb,1f0db,,,1f0b1,1f0b3,1f0d5
 STAY,1f0c9,1f0d4,1f0b7,,,,,1f0c7,1f0cb
@@ -5125,7 +5125,7 @@ STAY,1f0aa,1f0d7,1f0a8,,,,,1f0d2,1f0a4,1f0b6
 STAY,1f0cd,1f0b7,1f0a9,1f0b3,1f0bb,1f0a3,1f0c4,1f0d2,1f0dd
 STAY,1f0b6,1f0d9,1f0ab,1f0a1,1f0ca,,,1f0c2,1f0c7,1f0aa
 STAY,1f0d6,1f0b3,1f0c9,,,,,1f0d2,1f0a4,1f0a6,1f0d9
-STAY,1f0b6,1f0c5,1f0ba,1f0b1,1f0ae,,,1f0a1,1f0d1
+HIT,1f0b6,1f0c5,1f0ba,1f0b1,1f0ae,,,1f0a1,1f0d1
 STAY,1f0aa,,,,,,,1f0b5,1f0a8
 STAY,1f0a2,1f0c5,1f0c9,,,,,1f0a8,1f0ca
 STAY,1f0c7,,,,,,,1f0a2,1f0b3,1f0b6,1f0ae
@@ -5243,7 +5243,7 @@ STAY,1f0b8,,,,,,,1f0d1,1f0d3,1f0b6,1f0bb
 STAY,1f0d3,1f0cb,1f0ae,,,,,1f0c7,1f0b9
 STAY,1f0a8,,,,,,,1f0d2,1f0d9,1f0ba
 STAY,1f0ae,,,,,,,1f0cd,1f0de
-STAY,1f0ab,1f0ca,1f0ce,,,,,1f0a1,1f0d1,1f0c3
+HIT,1f0ab,1f0ca,1f0ce,,,,,1f0a1,1f0d1,1f0c3
 STAY,1f0ad,1f0db,1f0ce,1f0c1,1f0a4,1f0a9,1f0ab,1f0a3,1f0d6,1f0cb
 STAY,1f0b2,1f0a5,1f0a9,,,,,1f0b7,1f0cb
 STAY,1f0c7,,,,,,,1f0a2,1f0b4,1f0ca
@@ -5486,7 +5486,7 @@ STAY,1f0c2,1f0d2,1f0db,1f0b2,1f0a9,1f0aa,1f0ca,1f0c1,1f0a2,1f0b5,1f0cb
 STAY,1f0a6,1f0d4,1f0db,1f0d2,1f0d7,,,1f0b3,1f0d9
 STAY,1f0be,1f0c6,1f0c7,1f0c8,1f0b9,,,1f0c3,1f0da
 STAY,1f0ab,1f0d3,1f0cb,1f0aa,1f0da,,,1f0d1,1f0d2,1f0a4,1f0db
-STAY,1f0c5,1f0b5,1f0c6,1f0a6,1f0c7,,,1f0a1,1f0d1,1f0d5
+HIT,1f0c5,1f0b5,1f0c6,1f0a6,1f0c7,,,1f0a1,1f0d1,1f0d5
 HIT,1f0d6,1f0a1,1f0b3,1f0c2,1f0ba,,,1f0b4,1f0b7
 STAY,1f0b3,1f0c3,1f0ce,,,,,1f0b1,1f0ae
 STAY,1f0c2,1f0aa,1f0ab,1f0c3,1f0cb,1f0d7,1f0ae,1f0b2,1f0a4,1f0b4,1f0ba
@@ -5638,7 +5638,7 @@ STAY,1f0b8,1f0b2,1f0ae,1f0c6,1f0cd,1f0c7,1f0b9,1f0d2,1f0d5,1f0c9
 STAY,1f0ba,1f0a4,1f0db,1f0d5,1f0ca,1f0b8,1f0bd,1f0d3,1f0c9
 STAY,1f0a3,,,,,,,1f0d2,1f0c3,1f0d6,1f0c7
 STAY,1f0c3,1f0b4,1f0c5,1f0b3,1f0ad,1f0b7,1f0bb,1f0a1,1f0ba,1f0da
-STAY,1f0d7,1f0ab,1f0ad,1f0d3,1f0ae,,,1f0c1,1f0d1,1f0a2
+HIT,1f0d7,1f0ab,1f0ad,1f0d3,1f0ae,,,1f0c1,1f0d1,1f0a2
 STAY,1f0cb,1f0b3,1f0ae,,,,,1f0c3,1f0a5,1f0d7
 STAY,1f0c5,1f0a3,1f0b5,,,,,1f0c4,1f0b7,1f0aa
 STAY,1f0d4,1f0c3,1f0c4,,,,,1f0a1,1f0b2,1f0b5
@@ -5818,7 +5818,7 @@ HIT,1f0d7,1f0a1,1f0d5,,,,,1f0d1,1f0d6
 HIT,1f0a3,,,,,,,1f0b4,1f0d7
 STAY,1f0d6,,,,,,,1f0a2,1f0b3,1f0d5,1f0b7
 STAY,1f0be,1f0b2,1f0d3,1f0a3,1f0c3,1f0c2,1f0bb,1f0b4,1f0da
-STAY,1f0be,1f0a5,1f0c9,1f0b5,1f0a8,,,1f0a1,1f0b1,1f0b3
+HIT,1f0be,1f0a5,1f0c9,1f0b5,1f0a8,,,1f0a1,1f0b1,1f0b3
 STAY,1f0cb,1f0b6,1f0bb,,,,,1f0a3,1f0ca
 STAY,1f0ad,,,,,,,1f0a9,1f0b9
 STAY,1f0a4,1f0d9,1f0ce,1f0a8,1f0bb,1f0a1,1f0b9,1f0c5,1f0de
@@ -6003,7 +6003,7 @@ HIT,1f0bb,,,,,,,1f0b3,1f0a4,1f0c4
 STAY,1f0ba,1f0a8,1f0aa,1f0c1,1f0ae,1f0a4,1f0dd,1f0a1,1f0a6,1f0a7
 STAY,1f0b5,1f0b8,1f0a9,1f0d3,1f0a7,,,1f0b2,1f0b3,1f0aa
 STAY,1f0c8,1f0d2,1f0cb,1f0c1,1f0aa,,,1f0c4,1f0ab
-STAY,1f0b4,,,,,,,1f0a1,1f0c1,1f0d2
+HIT,1f0b4,,,,,,,1f0a1,1f0c1,1f0d2
 HIT,1f0cb,,,,,,,1f0d2,1f0b9
 STAY,1f0b9,1f0a1,1f0c1,1f0d7,1f0aa,,,1f0a4,1f0c9
 HIT,1f0d2,1f0d5,1f0da,1f0a3,1f0b5,1f0d1,1f0a4,1f0d3,1f0b6
@@ -6244,7 +6244,7 @@ STAY,1f0c4,,,,,,,1f0b2,1f0a3,1f0c3,1f0a4,1f0c8
 STAY,1f0d6,1f0a5,1f0db,1f0d2,1f0a4,1f0d4,1f0da,1f0d3,1f0b6,1f0ae
 STAY,1f0ab,1f0c1,1f0c5,1f0d1,1f0d8,1f0b9,1f0db,1f0c3,1f0c7,1f0c9
 STAY,1f0a9,1f0d1,1f0c6,1f0d5,1f0a8,1f0c2,1f0d6,1f0a3,1f0da
-STAY,1f0cd,1f0c8,1f0ce,1f0a6,1f0d6,1f0b2,1f0d2,1f0a1,1f0d1,1f0c4
+HIT,1f0cd,1f0c8,1f0ce,1f0a6,1f0d6,1f0b2,1f0d2,1f0a1,1f0d1,1f0c4
 STAY,1f0d9,1f0c1,1f0b5,1f0c3,1f0d6,1f0d4,1f0bb,1f0a4,1f0b7,1f0de
 STAY,1f0ca,,,,,,,1f0b8,1f0ba
 STAY,1f0b5,,,,,,,1f0b4,1f0a6,1f0a9
@@ -6396,7 +6396,7 @@ HIT,1f0b3,1f0b4,1f0bd,1f0c4,1f0b6,,,1f0c3,1f0b5
 STAY,1f0ca,1f0a4,1f0c5,1f0d4,1f0ad,,,1f0c2,1f0b5,1f0b7
 STAY,1f0d4,,,,,,,1f0d1,1f0a4,1f0b7
 STAY,1f0a5,1f0b2,1f0a9,1f0b1,1f0a8,1f0c5,1f0dd,1f0a2,1f0cb
-STAY,1f0d2,1f0c3,1f0ad,1f0c4,1f0d9,,,1f0a1,1f0d1
+HIT,1f0d2,1f0c3,1f0ad,1f0c4,1f0d9,,,1f0a1,1f0d1
 STAY,1f0b1,,,,,,,1f0b9,1f0ae
 STAY,1f0c9,1f0c4,1f0ca,1f0b2,1f0db,1f0b1,1f0a9,1f0d2,1f0a5,1f0a6
 STAY,1f0db,1f0c2,1f0b9,,,,,1f0d1,1f0c3,1f0b4,1f0ae
@@ -6497,7 +6497,7 @@ HIT,1f0a1,1f0d1,1f0ae,1f0c1,1f0b4,1f0d2,1f0dd,1f0a4,1f0b6
 STAY,1f0c4,1f0a1,1f0db,1f0b3,1f0c7,1f0a8,1f0aa,1f0b1,1f0c1,1f0b5,1f0a7
 STAY,1f0ad,,,,,,,1f0c1,1f0b3,1f0b5,1f0d5
 HIT,1f0be,1f0a6,1f0ce,1f0a4,1f0d4,1f0d1,1f0bd,1f0d3,1f0a8
-STAY,1f0d4,,,,,,,1f0b1,1f0d1
+HIT,1f0d4,,,,,,,1f0b1,1f0d1
 STAY,1f0b3,1f0d1,1f0d4,,,,,1f0b2,1f0c6,1f0bd
 HIT,1f0de,1f0b8,1f0cd,1f0d1,1f0ad,,,1f0a2,1f0c2,1f0a3
 STAY,1f0ca,,,,,,,1f0b2,1f0dd
@@ -7079,7 +7079,7 @@ STAY,1f0d7,1f0a3,1f0ce,1f0b6,1f0ad,,,1f0c3,1f0dd
 HIT,1f0de,1f0c9,1f0dd,1f0b7,1f0da,,,1f0c2,1f0c8
 STAY,1f0b4,1f0b7,1f0bb,1f0b1,1f0b9,,,1f0a9,1f0d9
 STAY,1f0d7,1f0a3,1f0cd,1f0b2,1f0a6,,,1f0b1,1f0c9,1f0ba
-STAY,1f0cd,1f0ab,1f0bb,1f0d2,1f0d9,1f0d5,1f0ce,1f0a1,1f0d1
+HIT,1f0cd,1f0ab,1f0bb,1f0d2,1f0d9,1f0d5,1f0ce,1f0a1,1f0d1
 STAY,1f0bb,1f0ad,1f0ae,1f0c8,1f0b9,1f0d1,1f0db,1f0a4,1f0dd
 STAY,1f0d4,,,,,,,1f0a6,1f0aa
 STAY,1f0da,1f0a3,1f0d4,1f0a1,1f0ad,1f0d6,1f0c7,1f0b4,1f0c4,1f0ae
@@ -7587,7 +7587,7 @@ STAY,1f0a5,1f0b5,1f0ca,1f0b9,1f0db,1f0a6,1f0dd,1f0b1,1f0be
 STAY,1f0b3,,,,,,,1f0c3,1f0c4,1f0aa
 STAY,1f0c8,1f0b8,1f0de,1f0b1,1f0cd,1f0c1,1f0a6,1f0a5,1f0da
 STAY,1f0a5,,,,,,,1f0a3,1f0c5,1f0ca
-STAY,1f0a7,1f0a6,1f0ce,1f0a3,1f0d7,1f0c8,1f0cd,1f0a1,1f0d1
+HIT,1f0a7,1f0a6,1f0ce,1f0a3,1f0d7,1f0c8,1f0cd,1f0a1,1f0d1
 STAY,1f0d4,1f0a3,1f0ae,1f0c7,1f0be,,,1f0b1,1f0d1,1f0da
 STAY,1f0d3,1f0b3,1f0d6,,,,,1f0c8,1f0ba
 STAY,1f0ce,1f0b1,1f0c2,,,,,1f0c7,1f0bb
@@ -7634,7 +7634,7 @@ STAY,1f0c6,1f0c2,1f0be,,,,,1f0a8,1f0b9
 STAY,1f0d8,,,,,,,1f0c2,1f0a8,1f0de
 STAY,1f0da,1f0b3,1f0dd,,,,,1f0c4,1f0cb
 STAY,1f0a7,1f0b3,1f0b6,1f0a1,1f0db,1f0c9,1f0bd,1f0a9,1f0da
-STAY,1f0a8,1f0c4,1f0c7,,,,,1f0b1,1f0d1,1f0c2
+HIT,1f0a8,1f0c4,1f0c7,,,,,1f0b1,1f0d1,1f0c2
 STAY,1f0bd,,,,,,,1f0d6,1f0dd
 STAY,1f0c4,,,,,,,1f0a4,1f0b5,1f0b6
 HIT,1f0b1,1f0b8,1f0c9,1f0c3,1f0d3,,,1f0c1,1f0a6
@@ -7804,7 +7804,7 @@ HIT,1f0ce,1f0b2,1f0c2,1f0c6,1f0ca,1f0bb,1f0cd,1f0d2,1f0c3
 STAY,1f0d2,1f0c3,1f0cd,1f0b5,1f0ae,1f0d4,1f0d7,1f0b3,1f0c6,1f0a7
 STAY,1f0a7,1f0d2,1f0c8,,,,,1f0d3,1f0c5,1f0aa
 STAY,1f0b4,1f0b6,1f0aa,,,,,1f0b2,1f0bd
-STAY,1f0d3,,,,,,,1f0b1,1f0d1
+HIT,1f0d3,,,,,,,1f0b1,1f0d1
 STAY,1f0a4,1f0a6,1f0ad,1f0b1,1f0dd,1f0a5,1f0b7,1f0c1,1f0db
 STAY,1f0b6,1f0d7,1f0a9,1f0a3,1f0c7,,,1f0d4,1f0ad
 STAY,1f0b2,1f0a3,1f0c6,1f0d7,1f0ba,,,1f0b1,1f0a9,1f0ce
@@ -7965,7 +7965,7 @@ STAY,1f0b9,1f0d6,1f0da,1f0b8,1f0a9,1f0d7,1f0c8,1f0c4,1f0d4,1f0a6
 STAY,1f0b3,1f0c7,1f0dd,1f0a2,1f0a8,1f0d7,1f0cd,1f0b8,1f0ba
 STAY,1f0c5,,,,,,,1f0a3,1f0d7,1f0ba
 STAY,1f0a6,,,,,,,1f0b2,1f0ce
-STAY,1f0a6,1f0c8,1f0db,,,,,1f0a1,1f0d1,1f0d4
+HIT,1f0a6,1f0c8,1f0db,,,,,1f0a1,1f0d1,1f0d4
 HIT,1f0c4,1f0b6,1f0ab,1f0b9,1f0bb,1f0ce,1f0de,1f0c3,1f0d6
 STAY,1f0bd,1f0b1,1f0a5,1f0aa,1f0da,,,1f0a1,1f0d4,1f0ba
 HIT,1f0cb,1f0da,1f0ae,1f0c3,1f0bb,1f0b5,1f0b6,1f0d2,1f0d9
@@ -8697,7 +8697,7 @@ STAY,1f0c1,,,,,,,1f0b8,1f0d9
 STAY,1f0b6,1f0c2,1f0aa,1f0a6,1f0da,,,1f0b5,1f0c5,1f0b9
 STAY,1f0b9,1f0ad,1f0de,1f0b2,1f0c7,1f0d1,1f0da,1f0a4,1f0a6,1f0ab
 STAY,1f0ab,1f0d9,1f0bb,,,,,1f0b2,1f0c3,1f0a5,1f0b9
-STAY,1f0c8,1f0a4,1f0a8,1f0a5,1f0ad,,,1f0b1,1f0d1,1f0b2
+HIT,1f0c8,1f0a4,1f0a8,1f0a5,1f0ad,,,1f0b1,1f0d1,1f0b2
 HIT,1f0c8,1f0a5,1f0b6,1f0b1,1f0a4,,,1f0d1,1f0a2
 HIT,1f0c7,,,,,,,1f0d1,1f0a4
 STAY,1f0b5,1f0d2,1f0ce,1f0a2,1f0de,1f0d7,1f0bb,1f0d1,1f0b4,1f0d4,1f0aa
@@ -8756,7 +8756,7 @@ STAY,1f0ce,1f0c8,1f0ae,,,,,1f0aa,1f0cd
 STAY,1f0d6,1f0b4,1f0ab,1f0d5,1f0ae,,,1f0d4,1f0d9
 STAY,1f0cd,1f0a5,1f0a6,1f0b1,1f0bd,,,1f0d5,1f0ce
 STAY,1f0bd,,,,,,,1f0a5,1f0c9
-STAY,1f0cb,1f0c2,1f0b9,1f0d3,1f0a6,1f0a7,1f0ad,1f0a1,1f0d1,1f0d4
+HIT,1f0cb,1f0c2,1f0b9,1f0d3,1f0a6,1f0a7,1f0ad,1f0a1,1f0d1,1f0d4
 STAY,1f0d7,,,,,,,1f0b3,1f0b6,1f0bd
 HIT,1f0b5,,,,,,,1f0b1,1f0c6
 STAY,1f0b8,1f0d7,1f0aa,1f0b4,1f0ce,,,1f0b1,1f0c1,1f0a3,1f0bb
@@ -8925,7 +8925,7 @@ HIT,1f0ab,1f0d6,1f0ad,1f0a9,1f0db,,,1f0d4,1f0a5
 HIT,1f0be,,,,,,,1f0a3,1f0c3,1f0b5
 HIT,1f0be,1f0b2,1f0b4,1f0b7,1f0ae,1f0c2,1f0ca,1f0d3,1f0a7
 HIT,1f0be,1f0d7,1f0b8,,,,,1f0c2,1f0a5
-STAY,1f0bb,1f0c9,1f0db,,,,,1f0b1,1f0d1,1f0b4
+HIT,1f0bb,1f0c9,1f0db,,,,,1f0b1,1f0d1,1f0b4
 STAY,1f0d9,1f0a5,1f0cb,,,,,1f0a3,1f0c7,1f0ba
 STAY,1f0b8,1f0d6,1f0b7,1f0b3,1f0db,,,1f0d1,1f0d7,1f0b9
 HIT,1f0be,1f0c4,1f0ca,1f0b3,1f0c7,,,1f0c2,1f0a6
@@ -9061,7 +9061,7 @@ STAY,1f0de,1f0d3,1f0a9,1f0b3,1f0b6,1f0b7,1f0aa,1f0b1,1f0c7
 STAY,1f0aa,1f0a3,1f0d5,,,,,1f0d1,1f0a7,1f0d8
 STAY,1f0b4,1f0a9,1f0aa,1f0a3,1f0b3,,,1f0d5,1f0de
 STAY,1f0d2,1f0b8,1f0c8,,,,,1f0d3,1f0b4,1f0da
-STAY,1f0b6,1f0b5,1f0b9,1f0c6,1f0de,1f0b2,1f0ae,1f0b1,1f0c1,1f0d3
+HIT,1f0b6,1f0b5,1f0b9,1f0c6,1f0de,1f0b2,1f0ae,1f0b1,1f0c1,1f0d3
 HIT,1f0db,1f0b2,1f0b9,1f0a8,1f0cb,1f0a9,1f0ad,1f0a2,1f0b5
 STAY,1f0ad,1f0a8,1f0a9,1f0d4,1f0d6,1f0c8,1f0aa,1f0c5,1f0db
 HIT,1f0d6,1f0cb,1f0ad,1f0a2,1f0a5,1f0c4,1f0db,1f0b2,1f0a3
@@ -9286,7 +9286,7 @@ STAY,1f0b9,1f0ab,1f0ce,1f0d1,1f0d4,,,1f0d2,1f0d3,1f0d7
 STAY,1f0da,1f0a9,1f0ca,1f0b1,1f0aa,,,1f0b2,1f0c2,1f0d2,1f0d9
 HIT,1f0c9,1f0d6,1f0c7,1f0b4,1f0c8,1f0a2,1f0b7,1f0d2,1f0a4,1f0b5
 STAY,1f0d8,,,,,,,1f0a6,1f0ce
-STAY,1f0aa,,,,,,,1f0a1,1f0d1,1f0a3
+HIT,1f0aa,,,,,,,1f0a1,1f0d1,1f0a3
 STAY,1f0b4,1f0b6,1f0d7,1f0a3,1f0ce,1f0b9,1f0bb,1f0a1,1f0cb
 STAY,1f0d6,,,,,,,1f0d7,1f0db
 STAY,1f0da,1f0d4,1f0c9,,,,,1f0a7,1f0c7
@@ -9416,7 +9416,7 @@ STAY,1f0c6,1f0b3,1f0d5,,,,,1f0d2,1f0de
 STAY,1f0d9,1f0d3,1f0ce,1f0bd,1f0de,,,1f0b8,1f0ca
 STAY,1f0c8,1f0d6,1f0b8,1f0b6,1f0a8,1f0b7,1f0a9,1f0d1,1f0a4,1f0c4,1f0d8
 HIT,1f0d4,1f0a5,1f0ca,1f0c1,1f0c5,,,1f0b5,1f0d5
-STAY,1f0c6,1f0d6,1f0ad,1f0d3,1f0a5,,,1f0b1,1f0c1,1f0c2
+HIT,1f0c6,1f0d6,1f0ad,1f0d3,1f0a5,,,1f0b1,1f0c1,1f0c2
 STAY,1f0bd,,,,,,,1f0c2,1f0db
 STAY,1f0aa,1f0c5,1f0c7,1f0d1,1f0b5,1f0b9,1f0be,1f0a4,1f0a9
 STAY,1f0d1,1f0b3,1f0dd,,,,,1f0b2,1f0c5,1f0aa
@@ -9491,7 +9491,7 @@ STAY,1f0dd,1f0c3,1f0ba,,,,,1f0b4,1f0b6,1f0a8
 STAY,1f0ad,,,,,,,1f0d3,1f0d5,1f0db
 STAY,1f0ae,,,,,,,1f0a2,1f0c4,1f0bb
 STAY,1f0b9,,,,,,,1f0b3,1f0aa
-STAY,1f0a9,1f0c5,1f0c9,1f0b9,1f0d9,,,1f0b1,1f0c1
+HIT,1f0a9,1f0c5,1f0c9,1f0b9,1f0d9,,,1f0b1,1f0c1
 STAY,1f0c3,1f0d2,1f0d3,,,,,1f0b1,1f0ba
 STAY,1f0d3,1f0a6,1f0d8,1f0b8,1f0ca,1f0be,1f0de,1f0d4,1f0a5,1f0c6
 STAY,1f0d6,1f0a4,1f0ae,,,,,1f0d5,1f0b7
@@ -9508,7 +9508,7 @@ STAY,1f0a9,1f0a3,1f0ca,1f0b8,1f0b9,1f0cd,1f0ce,1f0c1,1f0a2,1f0c4,1f0b6,1f0a7
 STAY,1f0d9,1f0d1,1f0c8,,,,,1f0b2,1f0ae
 STAY,1f0c4,1f0d5,1f0cb,1f0b6,1f0a8,1f0d2,1f0de,1f0d4,1f0db
 STAY,1f0a8,,,,,,,1f0c2,1f0c3,1f0cd
-STAY,1f0dd,1f0d4,1f0b7,,,,,1f0c1,1f0d1,1f0b3
+HIT,1f0dd,1f0d4,1f0b7,,,,,1f0c1,1f0d1,1f0b3
 STAY,1f0a1,,,,,,,1f0d1,1f0a4,1f0a6,1f0ae
 STAY,1f0b9,,,,,,,1f0b1,1f0ca,1f0db
 STAY,1f0b3,1f0c4,1f0b6,1f0a5,1f0b5,1f0d7,1f0ab,1f0d1,1f0d2,1f0c7
@@ -9663,13 +9663,13 @@ HIT,1f0aa,1f0a6,1f0d9,1f0d3,1f0c4,1f0b5,1f0d5,1f0c2,1f0c5
 STAY,1f0d9,1f0ba,1f0ae,1f0b2,1f0d8,1f0d2,1f0ce,1f0d1,1f0d3,1f0ca
 STAY,1f0c2,1f0a6,1f0c8,1f0b5,1f0da,,,1f0a1,1f0a5,1f0d9
 HIT,1f0db,1f0d1,1f0a4,,,,,1f0c2,1f0b5
-STAY,1f0d7,1f0aa,1f0ce,1f0a6,1f0be,,,1f0c1,1f0d1,1f0a3
+HIT,1f0d7,1f0aa,1f0ce,1f0a6,1f0be,,,1f0c1,1f0d1,1f0a3
 STAY,1f0b2,1f0d5,1f0c7,,,,,1f0a1,1f0d8,1f0d9
 STAY,1f0a7,1f0aa,1f0ce,1f0b1,1f0c8,,,1f0d3,1f0b5,1f0db
 STAY,1f0ad,1f0d1,1f0a4,,,,,1f0a6,1f0d6
 STAY,1f0cb,1f0d2,1f0ca,1f0d1,1f0d7,1f0c8,1f0ab,1f0a2,1f0a3,1f0b4,1f0d8
 HIT,1f0bb,1f0c3,1f0b5,1f0a6,1f0d6,1f0d4,1f0b8,1f0d1,1f0c4
-STAY,1f0c6,1f0a3,1f0ba,,,,,1f0a1,1f0d1,1f0a5
+HIT,1f0c6,1f0a3,1f0ba,,,,,1f0a1,1f0d1,1f0a5
 STAY,1f0c2,1f0a8,1f0cb,,,,,1f0d4,1f0d6,1f0db
 STAY,1f0a6,1f0d1,1f0a9,1f0d3,1f0ab,,,1f0b2,1f0a5,1f0b8
 STAY,1f0c1,,,,,,,1f0b2,1f0d6,1f0a8
@@ -9824,7 +9824,7 @@ STAY,1f0ca,,,,,,,1f0b6,1f0ab
 HIT,1f0b6,,,,,,,1f0a2,1f0c8
 STAY,1f0b8,1f0a4,1f0a7,1f0a5,1f0bd,1f0a3,1f0b3,1f0d2,1f0a6,1f0da
 STAY,1f0ce,1f0c9,1f0db,1f0a7,1f0aa,,,1f0d2,1f0c5,1f0d6
-STAY,1f0c3,1f0d1,1f0cb,,,,,1f0a1,1f0b1
+HIT,1f0c3,1f0d1,1f0cb,,,,,1f0a1,1f0b1
 HIT,1f0cd,1f0d3,1f0ba,1f0b6,1f0d8,1f0d4,1f0bd,1f0d2,1f0c3,1f0d5
 STAY,1f0a5,1f0aa,1f0bd,,,,,1f0d1,1f0db
 STAY,1f0c6,1f0a1,1f0b4,,,,,1f0b5,1f0c5,1f0dd
@@ -9953,7 +9953,7 @@ HIT,1f0a7,1f0d2,1f0cd,1f0da,1f0ce,1f0d1,1f0a2,1f0c1,1f0b2,1f0d4
 STAY,1f0da,1f0a5,1f0ba,,,,,1f0a4,1f0b4,1f0cb
 STAY,1f0bb,1f0b1,1f0b4,,,,,1f0d7,1f0db
 STAY,1f0ca,,,,,,,1f0c1,1f0c5,1f0b7
-STAY,1f0c5,,,,,,,1f0c1,1f0d1,1f0b2
+HIT,1f0c5,,,,,,,1f0c1,1f0d1,1f0b2
 STAY,1f0ab,,,,,,,1f0d5,1f0be
 STAY,1f0a9,,,,,,,1f0d1,1f0c2,1f0c7,1f0dd
 STAY,1f0b2,1f0a9,1f0ae,,,,,1f0b1,1f0d4,1f0cd
@@ -10229,7 +10229,7 @@ STAY,1f0a3,,,,,,,1f0c3,1f0c5,1f0b7
 STAY,1f0a4,1f0d9,1f0cb,1f0c6,1f0bd,,,1f0c4,1f0c7,1f0d7
 STAY,1f0a2,1f0a1,1f0ce,1f0b1,1f0a9,,,1f0b6,1f0b8
 STAY,1f0d1,1f0d5,1f0ce,1f0aa,1f0da,,,1f0c1,1f0d3,1f0d7,1f0b8
-STAY,1f0d1,1f0c4,1f0b8,1f0b7,1f0bd,1f0b5,1f0b6,1f0a1,1f0c1,1f0b2
+HIT,1f0d1,1f0c4,1f0b8,1f0b7,1f0bd,1f0b5,1f0b6,1f0a1,1f0c1,1f0b2
 STAY,1f0c1,1f0d8,1f0ab,,,,,1f0c2,1f0d2,1f0db
 STAY,1f0c4,1f0a3,1f0da,1f0b5,1f0aa,1f0db,1f0ad,1f0d8,1f0d9
 STAY,1f0bb,1f0d8,1f0cb,,,,,1f0a6,1f0dd
@@ -10465,7 +10465,7 @@ STAY,1f0cd,,,,,,,1f0a8,1f0ca
 STAY,1f0aa,1f0b5,1f0ba,1f0a2,1f0b6,1f0c5,1f0c7,1f0ca,1f0cb
 HIT,1f0c6,1f0d8,1f0da,1f0a3,1f0d7,,,1f0b3,1f0c8
 STAY,1f0ad,1f0c2,1f0b9,1f0d1,1f0a6,1f0d7,1f0b8,1f0d2,1f0a3,1f0b6,1f0d9
-STAY,1f0de,,,,,,,1f0a1,1f0d1
+HIT,1f0de,,,,,,,1f0a1,1f0d1
 HIT,1f0ae,,,,,,,1f0b2,1f0c8
 STAY,1f0bb,,,,,,,1f0c5,1f0c7,1f0c8
 STAY,1f0d2,1f0a5,1f0dd,1f0c3,1f0cb,,,1f0b1,1f0b6,1f0b9
@@ -10683,7 +10683,7 @@ STAY,1f0c7,1f0b2,1f0aa,1f0d8,1f0d9,1f0a4,1f0dd,1f0a1,1f0a2,1f0b8,1f0c8
 STAY,1f0ad,1f0c5,1f0ba,,,,,1f0a1,1f0d7,1f0ca
 STAY,1f0ab,1f0a5,1f0ba,,,,,1f0b6,1f0c6
 STAY,1f0b4,1f0a2,1f0aa,1f0b2,1f0b7,1f0b5,1f0be,1f0a5,1f0b9
-STAY,1f0dd,1f0d4,1f0b7,1f0a5,1f0a9,1f0c6,1f0cb,1f0a1,1f0d1
+HIT,1f0dd,1f0d4,1f0b7,1f0a5,1f0a9,1f0c6,1f0cb,1f0a1,1f0d1
 HIT,1f0ba,1f0d6,1f0bb,1f0c5,1f0cd,1f0d5,1f0ad,1f0a2,1f0a3,1f0b3
 STAY,1f0bb,1f0c6,1f0aa,,,,,1f0c5,1f0cb
 STAY,1f0d5,,,,,,,1f0b3,1f0d3,1f0b9
@@ -10783,7 +10783,7 @@ STAY,1f0bd,,,,,,,1f0b1,1f0ce
 STAY,1f0bd,1f0a4,1f0cb,1f0a6,1f0cd,1f0b5,1f0c9,1f0a8,1f0d8
 STAY,1f0a2,1f0c9,1f0be,1f0d2,1f0d9,1f0aa,1f0cb,1f0c7,1f0a8
 HIT,1f0cd,,,,,,,1f0a4,1f0a7
-STAY,1f0aa,1f0b4,1f0a7,1f0c9,1f0ae,,,1f0a1,1f0b1,1f0d1,1f0c2,1f0d2
+HIT,1f0aa,1f0b4,1f0a7,1f0c9,1f0ae,,,1f0a1,1f0b1,1f0d1,1f0c2,1f0d2
 STAY,1f0d7,1f0b7,1f0de,1f0d1,1f0a5,,,1f0a3,1f0b4,1f0c6
 STAY,1f0a3,1f0ca,1f0bb,1f0a2,1f0ae,,,1f0a1,1f0c3,1f0b5,1f0c5,1f0d7
 STAY,1f0c3,,,,,,,1f0a1,1f0a2,1f0b2,1f0b4,1f0ce
@@ -10969,7 +10969,7 @@ STAY,1f0ab,,,,,,,1f0a6,1f0de
 STAY,1f0bd,1f0b9,1f0be,,,,,1f0a9,1f0c9
 HIT,1f0de,1f0ba,1f0ca,,,,,1f0c1,1f0d3
 STAY,1f0aa,,,,,,,1f0db,1f0be
-STAY,1f0b2,1f0b9,1f0ce,,,,,1f0a1,1f0d1,1f0b4
+HIT,1f0b2,1f0b9,1f0ce,,,,,1f0a1,1f0d1,1f0b4
 HIT,1f0c7,1f0cb,1f0be,,,,,1f0c1,1f0d5
 STAY,1f0dd,1f0b2,1f0d9,,,,,1f0b3,1f0d4,1f0c6,1f0a7
 STAY,1f0b7,1f0d8,1f0dd,1f0a1,1f0a9,,,1f0d6,1f0a7
@@ -11168,7 +11168,7 @@ HIT,1f0d7,,,,,,,1f0b4,1f0d6
 STAY,1f0bb,1f0b2,1f0cb,,,,,1f0b1,1f0d1,1f0c9,1f0da
 STAY,1f0b2,,,,,,,1f0a4,1f0d6,1f0cb
 HIT,1f0d9,1f0c1,1f0b2,1f0d7,1f0b9,,,1f0c2,1f0d6
-STAY,1f0a7,1f0c4,1f0b5,1f0d5,1f0c8,,,1f0a1,1f0b1
+HIT,1f0a7,1f0c4,1f0b5,1f0d5,1f0c8,,,1f0a1,1f0b1
 HIT,1f0d5,1f0b1,1f0da,1f0ca,1f0cb,1f0a9,1f0bb,1f0d2,1f0c8
 STAY,1f0a2,1f0a3,1f0b4,,,,,1f0c4,1f0ab
 STAY,1f0d5,1f0b9,1f0ae,,,,,1f0c3,1f0b6,1f0ca
@@ -11424,7 +11424,7 @@ STAY,1f0be,1f0d2,1f0a9,,,,,1f0a2,1f0c9,1f0ad
 STAY,1f0a9,,,,,,,1f0d9,1f0aa
 STAY,1f0b6,,,,,,,1f0b8,1f0aa
 STAY,1f0be,1f0b2,1f0c4,,,,,1f0c3,1f0d4,1f0bb
-STAY,1f0b2,1f0d3,1f0d6,,,,,1f0c1,1f0d1
+HIT,1f0b2,1f0d3,1f0d6,,,,,1f0c1,1f0d1
 STAY,1f0d5,1f0b3,1f0b9,1f0a3,1f0d7,,,1f0b4,1f0b8
 HIT,1f0d2,,,,,,,1f0c5,1f0a6
 STAY,1f0a9,,,,,,,1f0d3,1f0d4,1f0aa
@@ -11842,7 +11842,7 @@ STAY,1f0c8,1f0c3,1f0ab,1f0d6,1f0be,,,1f0b4,1f0c9
 STAY,1f0d1,1f0b1,1f0ca,,,,,1f0a6,1f0be
 STAY,1f0c6,1f0d5,1f0bd,,,,,1f0a1,1f0c2,1f0a8
 STAY,1f0a3,1f0d1,1f0c5,1f0a4,1f0bd,1f0a2,1f0cd,1f0bb,1f0ad
-STAY,1f0c2,1f0cb,1f0bd,1f0aa,1f0ca,,,1f0a1,1f0d1
+HIT,1f0c2,1f0cb,1f0bd,1f0aa,1f0ca,,,1f0a1,1f0d1
 STAY,1f0ad,1f0b2,1f0c7,1f0a4,1f0d9,1f0a1,1f0db,1f0a5,1f0a6,1f0b6
 STAY,1f0dd,,,,,,,1f0b2,1f0c4,1f0b8
 STAY,1f0d7,1f0c4,1f0b6,1f0b9,1f0be,1f0b2,1f0a9,1f0d1,1f0b3,1f0a7,1f0aa
@@ -12739,7 +12739,7 @@ STAY,1f0ce,,,,,,,1f0d1,1f0a8
 STAY,1f0a5,,,,,,,1f0bb,1f0dd
 STAY,1f0db,1f0d8,1f0c9,1f0ce,1f0de,1f0c5,1f0ba,1f0b1,1f0a9,1f0be
 STAY,1f0b1,1f0c8,1f0aa,1f0c1,1f0b3,,,1f0a2,1f0a3,1f0b7,1f0d8
-STAY,1f0cb,1f0b3,1f0ce,,,,,1f0b1,1f0d1
+HIT,1f0cb,1f0b3,1f0ce,,,,,1f0b1,1f0d1
 STAY,1f0cd,1f0ba,1f0dd,1f0a4,1f0da,1f0c5,1f0bd,1f0c9,1f0db
 STAY,1f0db,1f0d1,1f0da,1f0b2,1f0b9,,,1f0cd,1f0ae
 STAY,1f0d8,,,,,,,1f0c1,1f0a4,1f0b6,1f0a7
@@ -12897,7 +12897,7 @@ STAY,1f0c6,,,,,,,1f0d2,1f0d4,1f0cd
 STAY,1f0c7,,,,,,,1f0b3,1f0db
 STAY,1f0b1,1f0d6,1f0da,1f0c4,1f0aa,1f0a9,1f0b9,1f0a1,1f0d3,1f0a8
 STAY,1f0d5,1f0b5,1f0db,,,,,1f0a1,1f0ce
-STAY,1f0c5,1f0b7,1f0cb,1f0c8,1f0be,1f0c4,1f0c7,1f0b1,1f0d1,1f0c2
+HIT,1f0c5,1f0b7,1f0cb,1f0c8,1f0be,1f0c4,1f0c7,1f0b1,1f0d1,1f0c2
 STAY,1f0d3,1f0b8,1f0db,1f0d6,1f0de,,,1f0c2,1f0b7,1f0d9
 STAY,1f0b4,1f0d1,1f0b7,1f0b6,1f0ab,1f0a3,1f0bd,1f0a4,1f0b9
 STAY,1f0b1,1f0d6,1f0ab,1f0b4,1f0b9,1f0a3,1f0c8,1f0a5,1f0de
@@ -13023,7 +13023,7 @@ HIT,1f0d4,,,,,,,1f0b2,1f0a8
 STAY,1f0ba,,,,,,,1f0a1,1f0b4,1f0c6,1f0be
 STAY,1f0be,1f0a7,1f0de,1f0c8,1f0ad,,,1f0b9,1f0dd
 HIT,1f0a1,,,,,,,1f0b5,1f0a6
-STAY,1f0a9,1f0c2,1f0aa,1f0a7,1f0ba,1f0d1,1f0a8,1f0a1,1f0b1,1f0b5
+HIT,1f0a9,1f0c2,1f0aa,1f0a7,1f0ba,1f0d1,1f0a8,1f0a1,1f0b1,1f0b5
 STAY,1f0b4,1f0d3,1f0c4,1f0d7,1f0ce,1f0a2,1f0d5,1f0d4,1f0a8
 STAY,1f0b5,,,,,,,1f0c1,1f0c4,1f0bb
 HIT,1f0a6,1f0d8,1f0ba,1f0a4,1f0d7,1f0da,1f0bb,1f0c3,1f0b8
@@ -13056,7 +13056,7 @@ HIT,1f0b7,,,,,,,1f0d2,1f0a7
 STAY,1f0d1,,,,,,,1f0d5,1f0c6,1f0be
 STAY,1f0a6,1f0ba,1f0ae,1f0b6,1f0ce,1f0c3,1f0bb,1f0c7,1f0db
 STAY,1f0cb,1f0bd,1f0de,,,,,1f0a1,1f0d2,1f0ae
-STAY,1f0c7,1f0a5,1f0de,1f0a3,1f0b5,1f0d7,1f0b8,1f0a1,1f0c1,1f0c5
+HIT,1f0c7,1f0a5,1f0de,1f0a3,1f0b5,1f0d7,1f0b8,1f0a1,1f0c1,1f0c5
 HIT,1f0be,1f0a1,1f0b6,1f0a5,1f0da,,,1f0a2,1f0a8
 STAY,1f0db,,,,,,,1f0c3,1f0b6,1f0da
 STAY,1f0dd,1f0c1,1f0ca,,,,,1f0a2,1f0b3,1f0b6,1f0ba
@@ -13127,7 +13127,7 @@ STAY,1f0ba,1f0c1,1f0ce,,,,,1f0a1,1f0b2,1f0a6,1f0be
 STAY,1f0a4,1f0ca,1f0bb,,,,,1f0d8,1f0ab
 STAY,1f0c3,,,,,,,1f0d2,1f0d8,1f0bb
 STAY,1f0d4,1f0c3,1f0cd,,,,,1f0a1,1f0c1,1f0b8,1f0c9
-STAY,1f0ba,1f0c8,1f0ce,,,,,1f0b1,1f0c1
+HIT,1f0ba,1f0c8,1f0ce,,,,,1f0b1,1f0c1
 STAY,1f0a8,1f0b4,1f0c9,,,,,1f0c7,1f0ca
 STAY,1f0a1,,,,,,,1f0c8,1f0ca
 STAY,1f0a9,,,,,,,1f0a7,1f0b9
@@ -13298,7 +13298,7 @@ STAY,1f0a9,1f0d7,1f0ad,,,,,1f0b5,1f0b6,1f0a8
 STAY,1f0d9,1f0a5,1f0b7,1f0c2,1f0a9,1f0d5,1f0a7,1f0b1,1f0ca,1f0be
 HIT,1f0a6,1f0a1,1f0d3,1f0d8,1f0ce,1f0a4,1f0d7,1f0a2,1f0b6
 HIT,1f0ba,,,,,,,1f0d4,1f0b5
-STAY,1f0a4,,,,,,,1f0b1,1f0d1,1f0a2,1f0d2
+HIT,1f0a4,,,,,,,1f0b1,1f0d1,1f0a2,1f0d2
 STAY,1f0de,,,,,,,1f0a2,1f0d5,1f0db
 HIT,1f0c5,,,,,,,1f0c1,1f0a2,1f0d3
 STAY,1f0c7,,,,,,,1f0a9,1f0db
@@ -13641,11 +13641,11 @@ HIT,1f0de,,,,,,,1f0c1,1f0b5
 STAY,1f0a8,,,,,,,1f0c1,1f0ba,1f0ad
 STAY,1f0b8,,,,,,,1f0ca,1f0da
 STAY,1f0ad,1f0d7,1f0db,,,,,1f0d1,1f0c2,1f0b8,1f0cb
-STAY,1f0a7,1f0c3,1f0b4,1f0b2,1f0ad,1f0b5,1f0d6,1f0b1,1f0c1
+HIT,1f0a7,1f0c3,1f0b4,1f0b2,1f0ad,1f0b5,1f0d6,1f0b1,1f0c1
 STAY,1f0d8,1f0d2,1f0d9,1f0b5,1f0da,1f0a2,1f0db,1f0c6,1f0c9
 STAY,1f0d5,1f0cd,1f0ae,,,,,1f0b7,1f0be
 STAY,1f0b4,,,,,,,1f0d2,1f0c8,1f0ad
-STAY,1f0dd,1f0c3,1f0b8,1f0d4,1f0a8,,,1f0c1,1f0d1,1f0b2
+HIT,1f0dd,1f0c3,1f0b8,1f0d4,1f0a8,,,1f0c1,1f0d1,1f0b2
 STAY,1f0aa,1f0b4,1f0cd,1f0b2,1f0c3,1f0c1,1f0b9,1f0d1,1f0b3,1f0a5,1f0b5
 STAY,1f0b5,1f0a7,1f0c7,1f0c1,1f0b4,1f0c2,1f0ab,1f0a5,1f0bd
 STAY,1f0c6,,,,,,,1f0b1,1f0d2,1f0c7
@@ -13670,7 +13670,7 @@ STAY,1f0aa,,,,,,,1f0b1,1f0c7,1f0b9
 STAY,1f0d1,1f0b8,1f0be,1f0b5,1f0a9,,,1f0d2,1f0dd
 STAY,1f0d1,1f0c6,1f0dd,1f0d5,1f0d9,1f0b5,1f0a6,1f0b9,1f0bb
 STAY,1f0a1,1f0c5,1f0c9,1f0b5,1f0d6,1f0a9,1f0ae,1f0b6,1f0d8
-STAY,1f0c4,1f0b4,1f0ba,,,,,1f0a1,1f0d1,1f0c5
+HIT,1f0c4,1f0b4,1f0ba,,,,,1f0a1,1f0d1,1f0c5
 STAY,1f0a9,1f0a1,1f0d1,,,,,1f0a3,1f0b3,1f0b8
 STAY,1f0c5,,,,,,,1f0b2,1f0d3,1f0b4,1f0d4,1f0c6
 HIT,1f0ce,,,,,,,1f0a3,1f0b3
@@ -13921,7 +13921,7 @@ STAY,1f0d2,1f0d5,1f0da,1f0c2,1f0aa,,,1f0d9,1f0cd
 STAY,1f0c2,,,,,,,1f0d9,1f0ad
 STAY,1f0de,1f0b1,1f0d9,1f0b7,1f0b8,1f0d3,1f0d5,1f0a4,1f0b4,1f0a5
 STAY,1f0c7,,,,,,,1f0ab,1f0cb
-STAY,1f0ad,1f0b3,1f0d6,,,,,1f0b1,1f0c1,1f0b4
+HIT,1f0ad,1f0b3,1f0d6,,,,,1f0b1,1f0c1,1f0b4
 STAY,1f0b8,1f0d1,1f0da,1f0b1,1f0dd,1f0ca,1f0db,1f0c5,1f0d9
 STAY,1f0d8,1f0bd,1f0de,,,,,1f0c4,1f0aa
 STAY,1f0ad,1f0ab,1f0de,1f0b2,1f0c8,,,1f0b7,1f0cd
@@ -14243,7 +14243,7 @@ STAY,1f0b3,,,,,,,1f0a8,1f0cd
 STAY,1f0c6,1f0c4,1f0d8,1f0b3,1f0c9,,,1f0da,1f0ce
 STAY,1f0c1,1f0c5,1f0de,1f0b3,1f0a6,,,1f0a1,1f0c3,1f0d4,1f0b5
 STAY,1f0ad,1f0b3,1f0be,1f0d6,1f0dd,,,1f0b4,1f0da
-STAY,1f0d5,1f0b9,1f0de,1f0d2,1f0a3,,,1f0a1,1f0c1,1f0d1,1f0b4
+HIT,1f0d5,1f0b9,1f0de,1f0d2,1f0a3,,,1f0a1,1f0c1,1f0d1,1f0b4
 STAY,1f0bb,1f0c2,1f0d2,1f0b1,1f0b8,1f0a1,1f0de,1f0a4,1f0a9
 STAY,1f0c7,,,,,,,1f0b1,1f0a2,1f0b4,1f0d9
 STAY,1f0de,1f0d6,1f0bb,1f0c1,1f0a5,1f0c9,1f0ad,1f0b1,1f0a3,1f0c7,1f0d7
@@ -14616,7 +14616,7 @@ STAY,1f0d9,1f0d1,1f0b3,1f0c2,1f0a9,,,1f0a1,1f0c1,1f0b5,1f0a7
 STAY,1f0a7,,,,,,,1f0a2,1f0a3,1f0d6,1f0ab
 STAY,1f0be,1f0c3,1f0a7,1f0a1,1f0c5,1f0c4,1f0ae,1f0a2,1f0a4,1f0a6,1f0d7
 STAY,1f0b2,1f0c6,1f0cb,1f0b4,1f0c4,1f0a1,1f0ae,1f0c1,1f0a2,1f0a3,1f0ca
-STAY,1f0ab,,,,,,,1f0a1,1f0d1
+HIT,1f0ab,,,,,,,1f0a1,1f0d1
 STAY,1f0ae,1f0b9,1f0de,1f0b5,1f0ce,1f0da,1f0ad,1f0d1,1f0a3,1f0c5,1f0a6
 STAY,1f0b3,1f0a2,1f0c5,1f0ba,1f0ab,1f0a1,1f0b5,1f0b1,1f0ad
 STAY,1f0d4,1f0d8,1f0ba,1f0d2,1f0c7,1f0d3,1f0b7,1f0b3,1f0c5,1f0cb
@@ -14748,7 +14748,7 @@ STAY,1f0c3,1f0c7,1f0d8,1f0d1,1f0c2,1f0b1,1f0b6,1f0a5,1f0cb
 STAY,1f0c8,1f0c9,1f0aa,1f0b1,1f0c4,,,1f0d1,1f0a9,1f0cd
 STAY,1f0b1,1f0b5,1f0b7,,,,,1f0c4,1f0ba
 STAY,1f0ad,1f0d3,1f0cb,,,,,1f0b1,1f0b2,1f0d8
-STAY,1f0a7,1f0d6,1f0ae,,,,,1f0a1,1f0c1
+HIT,1f0a7,1f0d6,1f0ae,,,,,1f0a1,1f0c1
 STAY,1f0d6,1f0c3,1f0d9,1f0d2,1f0a7,1f0c9,1f0bb,1f0a1,1f0b2,1f0a5,1f0c5
 STAY,1f0c9,1f0d1,1f0ce,1f0a2,1f0a6,,,1f0c3,1f0d5,1f0ad
 HIT,1f0b5,1f0c1,1f0a7,1f0d2,1f0a8,1f0a2,1f0ce,1f0c2,1f0a6
@@ -15318,7 +15318,7 @@ STAY,1f0c6,1f0d6,1f0b9,1f0b3,1f0a4,1f0a7,1f0c9,1f0c4,1f0cd
 HIT,1f0d6,1f0a1,1f0b4,1f0c5,1f0ae,1f0d5,1f0de,1f0b3,1f0b5
 STAY,1f0a4,,,,,,,1f0b1,1f0a5,1f0c7
 STAY,1f0c3,,,,,,,1f0c6,1f0b8
-STAY,1f0a3,1f0c4,1f0a8,,,,,1f0a1,1f0d1
+HIT,1f0a3,1f0c4,1f0a8,,,,,1f0a1,1f0d1
 STAY,1f0d9,1f0d4,1f0b5,1f0d2,1f0b7,1f0c3,1f0de,1f0d5,1f0a7
 STAY,1f0ca,1f0b3,1f0b9,,,,,1f0a4,1f0d5,1f0a7
 STAY,1f0d2,1f0b2,1f0c2,,,,,1f0d1,1f0d6,1f0a9
@@ -15544,7 +15544,7 @@ STAY,1f0d1,1f0d2,1f0de,1f0d5,1f0d8,1f0c1,1f0bd,1f0a2,1f0b3,1f0ce
 HIT,1f0bd,1f0d9,1f0bb,1f0d5,1f0b6,,,1f0a1,1f0c2,1f0c4
 STAY,1f0cd,1f0a7,1f0bd,,,,,1f0c2,1f0c3,1f0ba
 STAY,1f0c1,1f0a7,1f0bd,1f0da,1f0bb,,,1f0b2,1f0a3,1f0c7
-STAY,1f0c5,1f0ca,1f0ad,1f0b2,1f0cb,,,1f0b1,1f0c1,1f0a2
+HIT,1f0c5,1f0ca,1f0ad,1f0b2,1f0cb,,,1f0b1,1f0c1,1f0a2
 STAY,1f0c3,1f0d6,1f0c7,1f0b8,1f0db,,,1f0b1,1f0d1,1f0a3,1f0d5
 HIT,1f0c7,,,,,,,1f0d1,1f0d3
 STAY,1f0ce,1f0a1,1f0c9,1f0c2,1f0d7,1f0d2,1f0d9,1f0c1,1f0a3,1f0bb
@@ -15685,7 +15685,7 @@ STAY,1f0b7,,,,,,,1f0c2,1f0c5,1f0a9
 STAY,1f0ce,1f0a3,1f0c5,1f0a5,1f0bb,,,1f0c3,1f0b5,1f0c7
 STAY,1f0a5,1f0c7,1f0be,1f0b7,1f0a8,1f0d6,1f0ce,1f0b6,1f0c6,1f0a7
 HIT,1f0ca,1f0a3,1f0a9,1f0d2,1f0d8,,,1f0b1,1f0a2
-STAY,1f0b4,,,,,,,1f0c1,1f0d1
+HIT,1f0b4,,,,,,,1f0c1,1f0d1
 STAY,1f0a6,1f0c5,1f0da,1f0d4,1f0b7,1f0c2,1f0b6,1f0c4,1f0d5,1f0bb
 STAY,1f0c9,1f0d2,1f0b7,1f0b6,1f0b8,1f0d4,1f0aa,1f0a5,1f0ad
 STAY,1f0b1,,,,,,,1f0c5,1f0d9
@@ -16188,7 +16188,7 @@ STAY,1f0c7,,,,,,,1f0c5,1f0a8,1f0d8
 STAY,1f0cb,1f0d6,1f0c9,1f0b5,1f0aa,,,1f0d2,1f0c5,1f0b8
 STAY,1f0c4,1f0b5,1f0ad,1f0a7,1f0cb,,,1f0c1,1f0b3,1f0a5,1f0bb
 STAY,1f0a2,1f0b7,1f0c8,,,,,1f0d4,1f0d6,1f0be
-STAY,1f0a7,1f0a1,1f0d8,,,,,1f0c1,1f0d1,1f0c5
+HIT,1f0a7,1f0a1,1f0d8,,,,,1f0c1,1f0d1,1f0c5
 STAY,1f0a7,1f0c1,1f0dd,1f0b9,1f0ae,,,1f0b2,1f0b8,1f0d8
 STAY,1f0c4,,,,,,,1f0a4,1f0b6,1f0d8
 STAY,1f0ab,1f0b1,1f0c2,,,,,1f0a4,1f0cb
@@ -16263,7 +16263,7 @@ STAY,1f0de,,,,,,,1f0b7,1f0cb
 HIT,1f0dd,,,,,,,1f0d4,1f0b5
 STAY,1f0d7,1f0d1,1f0c9,,,,,1f0b1,1f0b4,1f0ad
 STAY,1f0b2,1f0c9,1f0cb,1f0a2,1f0d5,1f0a3,1f0dd,1f0c1,1f0d4,1f0bb
-STAY,1f0b6,1f0a5,1f0ce,1f0c8,1f0ad,1f0b4,1f0cd,1f0b1,1f0c1,1f0a4
+HIT,1f0b6,1f0a5,1f0ce,1f0c8,1f0ad,1f0b4,1f0cd,1f0b1,1f0c1,1f0a4
 STAY,1f0b5,1f0b9,1f0da,1f0b3,1f0b7,1f0ba,1f0ca,1f0c2,1f0d3,1f0c9
 STAY,1f0c2,1f0c1,1f0bd,,,,,1f0b2,1f0d5,1f0cd
 STAY,1f0a7,1f0d8,1f0ab,1f0b3,1f0c6,,,1f0d3,1f0c8,1f0de
@@ -16535,7 +16535,7 @@ STAY,1f0be,1f0c2,1f0b3,,,,,1f0a2,1f0da
 STAY,1f0a4,1f0d4,1f0c9,1f0ba,1f0ae,,,1f0a8,1f0be
 STAY,1f0c5,,,,,,,1f0d7,1f0ae
 STAY,1f0d8,1f0b1,1f0c1,1f0a2,1f0d9,,,1f0c2,1f0a3,1f0a5,1f0da
-STAY,1f0ce,1f0b9,1f0ae,,,,,1f0a1,1f0c1,1f0c3
+HIT,1f0ce,1f0b9,1f0ae,,,,,1f0a1,1f0c1,1f0c3
 HIT,1f0d8,,,,,,,1f0a2,1f0d5
 STAY,1f0ce,1f0d7,1f0d8,1f0d6,1f0bd,,,1f0cd,1f0be
 STAY,1f0c8,,,,,,,1f0a2,1f0b4,1f0b6
@@ -16891,7 +16891,7 @@ STAY,1f0ab,1f0a6,1f0bd,,,,,1f0d3,1f0b5,1f0b8
 STAY,1f0a8,1f0a3,1f0ab,1f0c1,1f0bb,1f0a2,1f0ad,1f0b5,1f0a6,1f0c9
 STAY,1f0dd,1f0c2,1f0c6,1f0bb,1f0cb,1f0b4,1f0a5,1f0b9,1f0aa
 STAY,1f0ae,1f0a9,1f0ca,,,,,1f0a3,1f0de
-STAY,1f0a6,1f0d2,1f0dd,,,,,1f0b1,1f0d1
+HIT,1f0a6,1f0d2,1f0dd,,,,,1f0b1,1f0d1
 HIT,1f0b1,1f0d7,1f0ab,,,,,1f0a2,1f0d3,1f0d6
 STAY,1f0d4,1f0a7,1f0aa,,,,,1f0c3,1f0db
 STAY,1f0c6,1f0d7,1f0d8,,,,,1f0ba,1f0cd
@@ -16951,7 +16951,7 @@ STAY,1f0d9,1f0b7,1f0c8,1f0cb,1f0bd,1f0d7,1f0b9,1f0c7,1f0ab
 STAY,1f0dd,1f0d6,1f0a7,1f0d7,1f0d9,1f0a4,1f0d5,1f0d1,1f0c2,1f0ba
 STAY,1f0b1,1f0c3,1f0ca,1f0d4,1f0b9,1f0a6,1f0d8,1f0d2,1f0a3,1f0c6,1f0a7
 STAY,1f0d8,1f0d3,1f0da,,,,,1f0c1,1f0a3,1f0a6,1f0c9
-STAY,1f0ab,1f0d3,1f0a9,,,,,1f0c1,1f0d1,1f0d4
+HIT,1f0ab,1f0d3,1f0a9,,,,,1f0c1,1f0d1,1f0d4
 STAY,1f0b6,1f0c5,1f0a6,,,,,1f0c2,1f0d2,1f0b3,1f0b9
 STAY,1f0dd,1f0ba,1f0ce,,,,,1f0b5,1f0bb
 STAY,1f0ce,,,,,,,1f0b1,1f0c3,1f0c6,1f0a7
@@ -16961,7 +16961,7 @@ STAY,1f0d9,1f0b6,1f0c6,1f0d5,1f0ce,1f0c3,1f0ca,1f0b1,1f0de
 STAY,1f0be,,,,,,,1f0b4,1f0d4,1f0c8
 STAY,1f0ab,1f0da,1f0cb,1f0c4,1f0b7,,,1f0bd,1f0de
 STAY,1f0c1,,,,,,,1f0b9,1f0ba
-STAY,1f0c3,1f0a5,1f0cd,,,,,1f0b1,1f0d1,1f0d2
+HIT,1f0c3,1f0a5,1f0cd,,,,,1f0b1,1f0d1,1f0d2
 STAY,1f0b5,1f0b1,1f0c5,1f0b7,1f0ca,1f0d7,1f0b9,1f0a2,1f0b4,1f0a5,1f0d9
 STAY,1f0dd,,,,,,,1f0c1,1f0be
 STAY,1f0be,,,,,,,1f0d1,1f0a5,1f0ab
@@ -17083,7 +17083,7 @@ STAY,1f0d7,1f0d3,1f0cb,1f0c1,1f0d8,1f0a1,1f0ad,1f0b4,1f0c7,1f0aa
 STAY,1f0a6,,,,,,,1f0b7,1f0a9
 STAY,1f0c2,,,,,,,1f0d1,1f0b7
 HIT,1f0c4,,,,,,,1f0a1,1f0d3
-STAY,1f0d3,1f0a4,1f0c6,,,,,1f0b1,1f0c1
+HIT,1f0d3,1f0a4,1f0c6,,,,,1f0b1,1f0c1
 STAY,1f0ad,1f0a8,1f0db,,,,,1f0b1,1f0d8,1f0ba
 HIT,1f0c1,,,,,,,1f0d2,1f0a4
 STAY,1f0ad,,,,,,,1f0a1,1f0be
@@ -17246,7 +17246,7 @@ STAY,1f0c8,1f0c1,1f0db,1f0b3,1f0b6,,,1f0c2,1f0d2,1f0d3,1f0a7
 HIT,1f0cd,1f0a1,1f0d9,1f0d2,1f0cb,,,1f0b2,1f0b6
 HIT,1f0a9,1f0ca,1f0db,1f0a4,1f0b9,1f0c1,1f0b8,1f0b3,1f0b6
 STAY,1f0a2,1f0b1,1f0a3,1f0d6,1f0cb,,,1f0ba,1f0bd
-STAY,1f0c7,1f0b9,1f0ca,1f0d4,1f0d8,1f0b5,1f0cd,1f0c1,1f0d1
+HIT,1f0c7,1f0b9,1f0ca,1f0d4,1f0d8,1f0b5,1f0cd,1f0c1,1f0d1
 HIT,1f0bb,,,,,,,1f0b2,1f0d8
 STAY,1f0a5,1f0c4,1f0d5,1f0b1,1f0cd,,,1f0a8,1f0ba
 STAY,1f0a1,1f0d8,1f0ce,1f0ba,1f0ae,1f0b5,1f0b8,1f0b7,1f0a9
@@ -17254,7 +17254,7 @@ STAY,1f0b7,1f0a7,1f0bd,1f0a5,1f0ad,1f0d7,1f0b8,1f0ae,1f0be
 STAY,1f0aa,1f0db,1f0be,,,,,1f0a2,1f0d5,1f0c9
 STAY,1f0b9,1f0b1,1f0b4,1f0a4,1f0dd,1f0c4,1f0ca,1f0a3,1f0a5,1f0ba
 STAY,1f0bd,1f0d6,1f0dd,1f0c4,1f0da,1f0d5,1f0cd,1f0c1,1f0b3,1f0d7,1f0b9
-STAY,1f0c5,1f0a1,1f0c3,1f0d4,1f0c6,,,1f0b1,1f0d1
+HIT,1f0c5,1f0a1,1f0c3,1f0d4,1f0c6,,,1f0b1,1f0d1
 STAY,1f0b1,1f0d7,1f0aa,,,,,1f0d9,1f0ad
 STAY,1f0c6,1f0d1,1f0d6,1f0c1,1f0b2,,,1f0a3,1f0b5,1f0ae
 STAY,1f0a6,,,,,,,1f0d1,1f0d3,1f0a4
@@ -17759,7 +17759,7 @@ STAY,1f0b4,1f0a6,1f0d8,1f0c6,1f0bb,,,1f0c2,1f0c9,1f0ab
 STAY,1f0aa,1f0d9,1f0dd,1f0c5,1f0a7,1f0d6,1f0ce,1f0d1,1f0a3,1f0db
 STAY,1f0a5,1f0d4,1f0bb,,,,,1f0a4,1f0c6,1f0a7
 HIT,1f0cb,1f0c3,1f0b5,,,,,1f0a2,1f0a3
-STAY,1f0a1,1f0c3,1f0cd,1f0b3,1f0d7,,,1f0b1,1f0c1
+HIT,1f0a1,1f0c3,1f0cd,1f0b3,1f0d7,,,1f0b1,1f0c1
 STAY,1f0da,1f0c2,1f0c9,1f0c6,1f0ad,1f0b3,1f0cb,1f0d9,1f0ae
 STAY,1f0da,,,,,,,1f0d7,1f0ba
 STAY,1f0c1,1f0a2,1f0b8,1f0c3,1f0d4,1f0b3,1f0ba,1f0a1,1f0b2,1f0b6,1f0be
@@ -17899,7 +17899,7 @@ STAY,1f0c5,1f0a5,1f0c8,,,,,1f0b4,1f0c9
 HIT,1f0a8,1f0c3,1f0d7,1f0c6,1f0dd,1f0da,1f0bd,1f0c2,1f0c8
 STAY,1f0ca,1f0a2,1f0b2,1f0a4,1f0c7,1f0a3,1f0c9,1f0d3,1f0d6,1f0b7
 STAY,1f0ce,1f0c2,1f0db,1f0a5,1f0ae,1f0aa,1f0de,1f0a4,1f0dd
-STAY,1f0dd,1f0a3,1f0cd,1f0c6,1f0d8,,,1f0a1,1f0b1,1f0c4
+HIT,1f0dd,1f0a3,1f0cd,1f0c6,1f0d8,,,1f0a1,1f0b1,1f0c4
 HIT,1f0d2,,,,,,,1f0c4,1f0d4
 STAY,1f0cd,1f0b6,1f0d8,1f0c2,1f0ad,1f0d2,1f0c7,1f0c4,1f0dd
 HIT,1f0b8,,,,,,,1f0d3,1f0d7
@@ -17990,7 +17990,7 @@ STAY,1f0b2,1f0a8,1f0da,1f0ab,1f0ae,,,1f0c3,1f0d4,1f0b9
 STAY,1f0a7,1f0a2,1f0b3,,,,,1f0a1,1f0b1,1f0d8,1f0db
 STAY,1f0c6,,,,,,,1f0b3,1f0b5,1f0ba
 STAY,1f0a6,,,,,,,1f0a2,1f0b3,1f0d3,1f0ae
-STAY,1f0d6,,,,,,,1f0c1,1f0d1
+HIT,1f0d6,,,,,,,1f0c1,1f0d1
 STAY,1f0b1,1f0a5,1f0dd,,,,,1f0c2,1f0b3,1f0cd
 STAY,1f0da,1f0b1,1f0ae,1f0b7,1f0a9,,,1f0c3,1f0aa
 STAY,1f0c8,1f0a4,1f0b8,1f0a2,1f0a3,1f0d6,1f0da,1f0b2,1f0d4,1f0c5,1f0b6
@@ -18676,7 +18676,7 @@ STAY,1f0d2,,,,,,,1f0a2,1f0c3,1f0b4,1f0ab
 STAY,1f0de,1f0d7,1f0ce,1f0d8,1f0da,,,1f0a3,1f0c9
 STAY,1f0d4,1f0ab,1f0ae,1f0b4,1f0ca,1f0b5,1f0ce,1f0c1,1f0b6,1f0cd
 STAY,1f0de,1f0b2,1f0d4,1f0a9,1f0bb,1f0a6,1f0b8,1f0db,1f0dd
-STAY,1f0bb,,,,,,,1f0a1,1f0b1
+HIT,1f0bb,,,,,,,1f0a1,1f0b1
 HIT,1f0b8,1f0c2,1f0be,1f0c4,1f0ae,1f0b2,1f0a7,1f0a2,1f0d5
 STAY,1f0bd,,,,,,,1f0a5,1f0a6,1f0d7
 STAY,1f0bd,1f0a4,1f0c8,1f0a7,1f0c7,,,1f0b1,1f0c2,1f0b7,1f0aa
@@ -18966,7 +18966,7 @@ STAY,1f0c5,,,,,,,1f0d6,1f0ae
 STAY,1f0a8,1f0c5,1f0c6,,,,,1f0b3,1f0b5,1f0a9
 HIT,1f0b2,1f0a1,1f0b1,1f0c7,1f0d7,1f0a4,1f0de,1f0b3,1f0c3
 STAY,1f0cd,1f0b6,1f0ce,,,,,1f0c1,1f0a4,1f0c6,1f0de
-STAY,1f0a8,1f0c6,1f0c7,,,,,1f0a1,1f0b1,1f0b5
+HIT,1f0a8,1f0c6,1f0c7,,,,,1f0a1,1f0b1,1f0b5
 HIT,1f0a3,,,,,,,1f0c2,1f0b4,1f0c5
 STAY,1f0a6,1f0c8,1f0db,1f0d7,1f0de,1f0d5,1f0c9,1f0b5,1f0be
 STAY,1f0ba,,,,,,,1f0c2,1f0d3,1f0a4,1f0a7
@@ -19015,7 +19015,7 @@ STAY,1f0ad,1f0d3,1f0c9,1f0b4,1f0cb,,,1f0b2,1f0d9,1f0ba
 HIT,1f0cd,1f0a4,1f0ae,,,,,1f0b2,1f0a9
 STAY,1f0d8,,,,,,,1f0b1,1f0c2,1f0d2,1f0b4,1f0d5
 STAY,1f0d2,1f0b2,1f0da,1f0d6,1f0bd,1f0a1,1f0b7,1f0c1,1f0c3,1f0a6
-STAY,1f0d3,1f0a2,1f0a6,1f0c5,1f0d8,,,1f0c1,1f0d1,1f0c4
+HIT,1f0d3,1f0a2,1f0a6,1f0c5,1f0d8,,,1f0c1,1f0d1,1f0c4
 STAY,1f0c6,1f0d3,1f0a8,,,,,1f0d5,1f0bb
 STAY,1f0be,1f0b4,1f0c6,,,,,1f0b9,1f0ad
 STAY,1f0bd,,,,,,,1f0c2,1f0d4,1f0d5,1f0cb
@@ -19183,7 +19183,7 @@ STAY,1f0d4,1f0d1,1f0be,1f0a2,1f0b7,1f0b1,1f0c6,1f0c1,1f0c8,1f0ba
 STAY,1f0bb,,,,,,,1f0a4,1f0ce
 STAY,1f0b3,1f0a6,1f0ae,1f0b5,1f0de,,,1f0c4,1f0d4,1f0d8
 STAY,1f0a1,,,,,,,1f0a6,1f0b8
-STAY,1f0bd,,,,,,,1f0a1,1f0b1
+HIT,1f0bd,,,,,,,1f0a1,1f0b1
 STAY,1f0d6,1f0b3,1f0ab,,,,,1f0db,1f0de
 STAY,1f0b8,,,,,,,1f0a1,1f0da,1f0bb
 STAY,1f0b7,,,,,,,1f0b1,1f0a2,1f0c3,1f0aa
@@ -19479,7 +19479,7 @@ HIT,1f0d8,1f0c8,1f0ca,1f0b7,1f0ad,1f0be,1f0de,1f0a1,1f0c2,1f0c4
 STAY,1f0a3,1f0a7,1f0be,,,,,1f0d4,1f0c5,1f0d8
 STAY,1f0c5,1f0b1,1f0d6,,,,,1f0c2,1f0b4,1f0aa
 STAY,1f0bb,,,,,,,1f0a2,1f0ca
-STAY,1f0d5,1f0c9,1f0da,,,,,1f0c1,1f0d1
+HIT,1f0d5,1f0c9,1f0da,,,,,1f0c1,1f0d1
 HIT,1f0ce,,,,,,,1f0b3,1f0b5
 STAY,1f0cb,1f0b7,1f0aa,1f0a4,1f0be,,,1f0d3,1f0ce
 STAY,1f0d6,1f0b5,1f0cd,1f0a4,1f0ae,,,1f0d7,1f0ab
@@ -19553,7 +19553,7 @@ STAY,1f0a5,,,,,,,1f0b2,1f0cb
 STAY,1f0ca,,,,,,,1f0ba,1f0ab
 STAY,1f0c2,,,,,,,1f0c1,1f0ce,1f0de
 STAY,1f0a2,,,,,,,1f0b1,1f0a7,1f0ce
-STAY,1f0c1,1f0b6,1f0ae,1f0c7,1f0ba,,,1f0a1,1f0b1,1f0b2
+HIT,1f0c1,1f0b6,1f0ae,1f0c7,1f0ba,,,1f0a1,1f0b1,1f0b2
 STAY,1f0b8,1f0a3,1f0be,1f0c1,1f0a2,,,1f0a4,1f0c7,1f0de
 HIT,1f0a7,1f0d2,1f0aa,,,,,1f0d4,1f0c6
 STAY,1f0bd,,,,,,,1f0c6,1f0ad
@@ -19818,7 +19818,7 @@ STAY,1f0ce,1f0b1,1f0d1,1f0aa,1f0cb,1f0d5,1f0cd,1f0d6,1f0b7
 STAY,1f0c5,,,,,,,1f0b4,1f0ad
 STAY,1f0ce,,,,,,,1f0a7,1f0b8
 STAY,1f0d3,1f0b1,1f0c2,1f0b2,1f0d4,1f0a8,1f0db,1f0a1,1f0a2,1f0c8,1f0bd
-STAY,1f0d3,1f0d6,1f0de,,,,,1f0a1,1f0c1,1f0a3
+HIT,1f0d3,1f0d6,1f0de,,,,,1f0a1,1f0c1,1f0a3
 STAY,1f0b8,1f0b6,1f0ce,,,,,1f0d1,1f0b2,1f0c5,1f0a6
 STAY,1f0a1,1f0a5,1f0d7,1f0d3,1f0c8,,,1f0b4,1f0ba
 STAY,1f0a7,1f0a3,1f0a5,1f0d9,1f0cb,1f0c6,1f0c9,1f0d6,1f0bb
@@ -19956,7 +19956,7 @@ STAY,1f0ce,1f0d6,1f0b8,1f0c4,1f0be,,,1f0c6,1f0b7,1f0c7
 STAY,1f0a7,1f0b1,1f0a8,1f0d3,1f0cd,,,1f0c4,1f0b5,1f0d8
 STAY,1f0dd,1f0c8,1f0cb,1f0a1,1f0b4,1f0a8,1f0bb,1f0b7,1f0ab
 HIT,1f0b7,1f0d4,1f0cb,,,,,1f0d5,1f0d6
-STAY,1f0c6,1f0d4,1f0d6,,,,,1f0a1,1f0c1,1f0b4
+HIT,1f0c6,1f0d4,1f0d6,,,,,1f0a1,1f0c1,1f0b4
 STAY,1f0a6,1f0bd,1f0cd,1f0b3,1f0be,,,1f0a3,1f0da
 HIT,1f0ae,,,,,,,1f0c2,1f0d9
 STAY,1f0c2,,,,,,,1f0a5,1f0ca
@@ -20011,7 +20011,7 @@ STAY,1f0c1,1f0c5,1f0a9,,,,,1f0c4,1f0ce
 STAY,1f0d2,1f0a3,1f0aa,1f0a6,1f0d8,1f0b8,1f0cd,1f0ca,1f0ae
 STAY,1f0de,1f0c6,1f0ba,,,,,1f0c1,1f0a2,1f0c3,1f0b9
 STAY,1f0dd,1f0a1,1f0c6,,,,,1f0d1,1f0ce
-STAY,1f0d3,1f0a2,1f0c2,1f0b4,1f0b8,1f0b6,1f0be,1f0c1,1f0d1
+HIT,1f0d3,1f0a2,1f0c2,1f0b4,1f0b8,1f0b6,1f0be,1f0c1,1f0d1
 STAY,1f0da,1f0d4,1f0d6,1f0c4,1f0b9,,,1f0b5,1f0cb
 STAY,1f0a6,,,,,,,1f0a1,1f0ba
 STAY,1f0d1,,,,,,,1f0b3,1f0d4,1f0ce
@@ -20614,7 +20614,7 @@ STAY,1f0b9,1f0c7,1f0ae,1f0c3,1f0cb,1f0a2,1f0b2,1f0c4,1f0a9
 STAY,1f0b5,1f0b6,1f0c8,1f0d6,1f0be,,,1f0d4,1f0ca
 STAY,1f0a2,1f0b1,1f0c4,,,,,1f0d4,1f0a8,1f0d8
 STAY,1f0a1,,,,,,,1f0c5,1f0ce
-STAY,1f0d4,1f0a6,1f0d9,,,,,1f0a1,1f0d1
+HIT,1f0d4,1f0a6,1f0d9,,,,,1f0a1,1f0d1
 HIT,1f0de,1f0ae,1f0be,1f0c4,1f0d7,1f0c6,1f0c8,1f0a2,1f0b2
 STAY,1f0db,1f0a2,1f0b8,,,,,1f0b1,1f0a3,1f0b4,1f0c4,1f0d9
 STAY,1f0ba,1f0a9,1f0b9,1f0ab,1f0db,,,1f0c1,1f0a2,1f0c5,1f0ad
@@ -21015,7 +21015,7 @@ STAY,1f0d4,1f0bb,1f0cd,,,,,1f0b3,1f0a8,1f0ab
 HIT,1f0a8,1f0a2,1f0a5,1f0c7,1f0da,1f0b5,1f0c9,1f0a1,1f0a6
 STAY,1f0da,,,,,,,1f0b3,1f0c3,1f0c5,1f0d5
 STAY,1f0c8,1f0b9,1f0ce,1f0a2,1f0b2,,,1f0c5,1f0ca
-STAY,1f0de,1f0c2,1f0ce,,,,,1f0b1,1f0d1,1f0b2
+HIT,1f0de,1f0c2,1f0ce,,,,,1f0b1,1f0d1,1f0b2
 STAY,1f0c8,1f0d3,1f0be,1f0c1,1f0b5,1f0ad,1f0cd,1f0b4,1f0b6,1f0bd
 STAY,1f0ae,1f0b7,1f0c8,,,,,1f0d1,1f0a8,1f0bb
 HIT,1f0b4,1f0c4,1f0a6,,,,,1f0c1,1f0d2
@@ -21075,7 +21075,7 @@ STAY,1f0c7,1f0c6,1f0be,1f0a5,1f0aa,,,1f0c2,1f0d4,1f0d8
 STAY,1f0a6,,,,,,,1f0c5,1f0de
 STAY,1f0a1,1f0c6,1f0c8,1f0a4,1f0a9,1f0a2,1f0d3,1f0d2,1f0cb
 STAY,1f0dd,1f0b8,1f0ca,1f0b1,1f0ab,1f0a1,1f0ba,1f0c3,1f0da
-STAY,1f0a2,,,,,,,1f0a1,1f0b1
+HIT,1f0a2,,,,,,,1f0a1,1f0b1
 STAY,1f0d4,1f0b2,1f0c2,1f0c9,1f0ce,,,1f0b1,1f0c4,1f0b7
 STAY,1f0ad,1f0c3,1f0a6,,,,,1f0d8,1f0dd
 STAY,1f0bb,1f0da,1f0cb,1f0c2,1f0b4,1f0c3,1f0b6,1f0c1,1f0d2,1f0a4,1f0dd
@@ -21346,7 +21346,7 @@ STAY,1f0d6,1f0a2,1f0c5,,,,,1f0d3,1f0c7,1f0a9
 STAY,1f0be,,,,,,,1f0d1,1f0d8
 STAY,1f0d5,1f0c2,1f0ad,1f0a2,1f0a9,1f0c8,1f0aa,1f0d1,1f0b3,1f0c5,1f0d6
 HIT,1f0c7,,,,,,,1f0a4,1f0c4
-STAY,1f0b1,1f0a6,1f0c6,1f0aa,1f0db,,,1f0c1,1f0d1
+HIT,1f0b1,1f0a6,1f0c6,1f0aa,1f0db,,,1f0c1,1f0d1
 HIT,1f0b2,1f0c6,1f0aa,,,,,1f0c3,1f0d7
 STAY,1f0ce,,,,,,,1f0a5,1f0a6,1f0a9
 STAY,1f0ca,1f0a8,1f0be,,,,,1f0c3,1f0c4,1f0c8
@@ -21355,7 +21355,7 @@ HIT,1f0a5,,,,,,,1f0a3,1f0d4
 STAY,1f0d8,,,,,,,1f0b8,1f0bd
 STAY,1f0ce,1f0b2,1f0c2,1f0a9,1f0aa,1f0c3,1f0d7,1f0d4,1f0c9
 STAY,1f0ca,,,,,,,1f0d9,1f0de
-STAY,1f0b7,1f0ca,1f0de,1f0c6,1f0bd,,,1f0a1,1f0d1,1f0c5
+HIT,1f0b7,1f0ca,1f0de,1f0c6,1f0bd,,,1f0a1,1f0d1,1f0c5
 STAY,1f0a1,1f0b6,1f0b9,,,,,1f0a3,1f0c6,1f0ce
 STAY,1f0d6,1f0ba,1f0ad,1f0a2,1f0b4,1f0a7,1f0bd,1f0c1,1f0d2,1f0c6,1f0bb
 STAY,1f0a2,,,,,,,1f0a1,1f0b2,1f0ab
@@ -21430,7 +21430,7 @@ STAY,1f0b9,1f0b3,1f0de,1f0b1,1f0c3,,,1f0d1,1f0a3,1f0bd
 STAY,1f0b1,1f0a8,1f0b9,1f0b2,1f0cd,,,1f0a1,1f0d1,1f0c8,1f0d9
 STAY,1f0bd,1f0b8,1f0de,1f0d5,1f0be,,,1f0c1,1f0b7,1f0ab
 STAY,1f0bb,,,,,,,1f0b3,1f0a5,1f0ce
-STAY,1f0d8,1f0b4,1f0d4,,,,,1f0a1,1f0b1,1f0a5
+HIT,1f0d8,1f0b4,1f0d4,,,,,1f0a1,1f0b1,1f0a5
 STAY,1f0a9,1f0db,1f0ae,1f0a7,1f0be,1f0b2,1f0ca,1f0a2,1f0c6,1f0bd
 STAY,1f0c2,1f0d1,1f0de,,,,,1f0c4,1f0b7,1f0ce
 STAY,1f0b3,1f0c2,1f0d9,1f0ca,1f0cd,1f0c3,1f0ba,1f0d3,1f0a4,1f0a5
@@ -21445,7 +21445,7 @@ STAY,1f0b9,1f0c7,1f0ab,,,,,1f0d1,1f0c3,1f0d4
 STAY,1f0c2,1f0d2,1f0b8,1f0d4,1f0b9,1f0cd,1f0be,1f0a4,1f0ca
 STAY,1f0d9,,,,,,,1f0c8,1f0ca
 STAY,1f0a6,1f0a4,1f0a7,,,,,1f0b3,1f0be
-STAY,1f0c4,1f0d2,1f0ca,1f0d8,1f0ab,,,1f0c1,1f0d1
+HIT,1f0c4,1f0d2,1f0ca,1f0d8,1f0ab,,,1f0c1,1f0d1
 STAY,1f0b2,1f0b4,1f0a8,,,,,1f0b1,1f0d1,1f0c2,1f0b6
 STAY,1f0b4,1f0b7,1f0b8,1f0d5,1f0ce,,,1f0b6,1f0d6
 STAY,1f0ba,1f0c7,1f0de,1f0a5,1f0a7,1f0c4,1f0cd,1f0a1,1f0b5,1f0a6,1f0a8
@@ -22099,7 +22099,7 @@ HIT,1f0c4,,,,,,,1f0b3,1f0c8
 HIT,1f0d1,1f0a9,1f0b9,,,,,1f0b2,1f0c4,1f0d4
 STAY,1f0a2,1f0cb,1f0bd,1f0b2,1f0a6,1f0c6,1f0ad,1f0a4,1f0d9
 HIT,1f0a7,1f0c2,1f0d5,1f0d1,1f0a8,,,1f0a4,1f0a6
-STAY,1f0d6,,,,,,,1f0a1,1f0c1
+HIT,1f0d6,,,,,,,1f0a1,1f0c1
 STAY,1f0d2,1f0c3,1f0a9,1f0b5,1f0bb,,,1f0c2,1f0ad
 HIT,1f0a3,1f0aa,1f0ae,1f0d8,1f0db,,,1f0d1,1f0c6
 STAY,1f0ba,,,,,,,1f0a5,1f0aa
@@ -22364,7 +22364,7 @@ STAY,1f0a4,1f0a1,1f0d9,,,,,1f0b7,1f0b8
 STAY,1f0b1,1f0c7,1f0bb,1f0a3,1f0b5,,,1f0c5,1f0ca
 STAY,1f0bd,1f0d9,1f0bb,1f0d3,1f0dd,1f0b4,1f0ad,1f0a1,1f0d1,1f0a8,1f0db
 STAY,1f0ab,1f0bb,1f0bd,1f0c8,1f0aa,1f0a6,1f0be,1f0b8,1f0ca
-STAY,1f0c1,,,,,,,1f0a1,1f0b1,1f0d2
+HIT,1f0c1,,,,,,,1f0a1,1f0b1,1f0d2
 STAY,1f0b2,,,,,,,1f0c1,1f0d4,1f0c6,1f0a7
 HIT,1f0ab,1f0d2,1f0ca,1f0a1,1f0d1,1f0c4,1f0dd,1f0a2,1f0b9
 STAY,1f0d4,1f0d1,1f0a3,1f0b4,1f0d8,1f0a6,1f0cb,1f0c1,1f0c9
@@ -22707,7 +22707,7 @@ STAY,1f0b9,1f0c6,1f0bb,,,,,1f0d1,1f0d9,1f0dd
 STAY,1f0ab,1f0c6,1f0cb,,,,,1f0d6,1f0be
 STAY,1f0c7,1f0c6,1f0cd,,,,,1f0b2,1f0c2,1f0de
 STAY,1f0b8,,,,,,,1f0a1,1f0b9
-STAY,1f0a5,1f0c1,1f0c2,,,,,1f0b1,1f0d1,1f0c4
+HIT,1f0a5,1f0c1,1f0c2,,,,,1f0b1,1f0d1,1f0c4
 STAY,1f0b4,1f0d9,1f0cb,1f0c2,1f0a3,,,1f0b1,1f0d1,1f0d3,1f0a4,1f0a5
 STAY,1f0ba,,,,,,,1f0b4,1f0d8
 STAY,1f0a3,,,,,,,1f0b1,1f0d4,1f0be
@@ -22795,7 +22795,7 @@ STAY,1f0d4,1f0c2,1f0a4,,,,,1f0b1,1f0c9
 STAY,1f0d5,,,,,,,1f0cb,1f0cd
 STAY,1f0ae,,,,,,,1f0b6,1f0a7
 STAY,1f0be,1f0d2,1f0dd,1f0d5,1f0aa,1f0ad,1f0ce,1f0a1,1f0b2,1f0c5,1f0a6
-STAY,1f0b8,1f0a9,1f0be,1f0a3,1f0d7,,,1f0c1,1f0d1
+HIT,1f0b8,1f0a9,1f0be,1f0a3,1f0d7,,,1f0c1,1f0d1
 STAY,1f0db,1f0c6,1f0d8,1f0b3,1f0d6,1f0c2,1f0aa,1f0b1,1f0d2,1f0a6
 STAY,1f0b1,1f0a2,1f0ab,1f0d5,1f0c8,,,1f0b7,1f0bb
 STAY,1f0db,1f0b5,1f0bd,1f0d2,1f0a9,1f0d5,1f0ba,1f0a8,1f0dd
@@ -23241,7 +23241,7 @@ STAY,1f0ad,1f0a4,1f0c8,,,,,1f0a2,1f0d2,1f0b4,1f0b6
 STAY,1f0b8,1f0a7,1f0c8,1f0a5,1f0da,1f0d4,1f0a9,1f0c5,1f0ae
 STAY,1f0bd,1f0c7,1f0a9,1f0d2,1f0cb,1f0d5,1f0aa,1f0b3,1f0dd
 STAY,1f0b1,1f0a1,1f0a6,1f0b7,1f0b8,1f0d9,1f0ab,1f0c6,1f0a9
-STAY,1f0a2,1f0b9,1f0ca,1f0a5,1f0de,,,1f0b1,1f0d1
+HIT,1f0a2,1f0b9,1f0ca,1f0a5,1f0de,,,1f0b1,1f0d1
 HIT,1f0d6,1f0c1,1f0c6,,,,,1f0b3,1f0c4
 STAY,1f0a5,1f0c2,1f0bd,1f0c7,1f0bb,1f0a2,1f0d6,1f0d1,1f0c3,1f0a6,1f0c9
 STAY,1f0ab,1f0c4,1f0d5,,,,,1f0c1,1f0a4,1f0b8
@@ -23337,7 +23337,7 @@ STAY,1f0c3,1f0d6,1f0a8,1f0a7,1f0b9,,,1f0dd,1f0ae
 STAY,1f0d4,1f0b4,1f0b6,,,,,1f0b8,1f0da
 STAY,1f0ba,,,,,,,1f0a1,1f0c5,1f0b9
 STAY,1f0bb,1f0a8,1f0b8,1f0b1,1f0dd,1f0d3,1f0a4,1f0ca,1f0db
-STAY,1f0c8,,,,,,,1f0c1,1f0d1,1f0b3
+HIT,1f0c8,,,,,,,1f0c1,1f0d1,1f0b3
 STAY,1f0c9,1f0a2,1f0dd,1f0a6,1f0cd,1f0d1,1f0b4,1f0c2,1f0aa
 STAY,1f0b2,1f0b1,1f0cd,1f0aa,1f0de,1f0d2,1f0c4,1f0da,1f0db
 STAY,1f0a3,1f0c4,1f0c5,1f0c1,1f0aa,,,1f0b2,1f0d5,1f0ab
@@ -23363,7 +23363,7 @@ STAY,1f0b7,1f0c7,1f0be,,,,,1f0d4,1f0a5,1f0ad
 STAY,1f0ae,,,,,,,1f0b4,1f0d4,1f0a9
 HIT,1f0d2,1f0c1,1f0bb,1f0a5,1f0bd,1f0c4,1f0d4,1f0a1,1f0c2
 HIT,1f0c9,1f0b3,1f0ad,,,,,1f0c1,1f0b5
-STAY,1f0bb,1f0c9,1f0dd,1f0a6,1f0d9,,,1f0a1,1f0d1
+HIT,1f0bb,1f0c9,1f0dd,1f0a6,1f0d9,,,1f0a1,1f0d1
 HIT,1f0ba,,,,,,,1f0a3,1f0d4
 HIT,1f0ca,1f0d3,1f0b4,1f0c7,1f0cd,1f0a4,1f0a7,1f0a1,1f0a2,1f0d4
 STAY,1f0ae,,,,,,,1f0b7,1f0d7
@@ -23912,7 +23912,7 @@ STAY,1f0a4,,,,,,,1f0ad,1f0ae
 STAY,1f0a8,1f0c2,1f0ae,1f0a6,1f0c9,1f0bb,1f0be,1f0da,1f0bd
 HIT,1f0bb,,,,,,,1f0b5,1f0d5
 STAY,1f0d3,1f0a9,1f0ae,1f0d7,1f0d9,,,1f0d1,1f0aa,1f0de
-STAY,1f0b5,1f0a6,1f0a7,,,,,1f0b1,1f0d1,1f0b4
+HIT,1f0b5,1f0a6,1f0a7,,,,,1f0b1,1f0d1,1f0b4
 STAY,1f0d3,1f0a5,1f0cd,1f0a1,1f0a7,,,1f0aa,1f0ca
 STAY,1f0ad,1f0c2,1f0a7,,,,,1f0d3,1f0b5,1f0de
 STAY,1f0c1,,,,,,,1f0c2,1f0a3,1f0c5,1f0cb
@@ -24013,7 +24013,7 @@ STAY,1f0ca,,,,,,,1f0a1,1f0c1,1f0a3,1f0ba
 STAY,1f0d2,,,,,,,1f0c2,1f0a3,1f0c6,1f0de
 STAY,1f0cb,1f0c9,1f0de,1f0d1,1f0d7,1f0b7,1f0cd,1f0a1,1f0d6,1f0db
 STAY,1f0a1,1f0b5,1f0bd,1f0a3,1f0b6,1f0a4,1f0ae,1f0c8,1f0ab
-STAY,1f0c6,1f0db,1f0cd,1f0c2,1f0bb,,,1f0a1,1f0c1
+HIT,1f0c6,1f0db,1f0cd,1f0c2,1f0bb,,,1f0a1,1f0c1
 STAY,1f0d6,,,,,,,1f0d1,1f0a4,1f0ca
 STAY,1f0b1,1f0d8,1f0c9,,,,,1f0d3,1f0b5,1f0d5,1f0a8
 STAY,1f0a1,1f0a4,1f0de,,,,,1f0b1,1f0b7,1f0d7
@@ -24060,7 +24060,7 @@ STAY,1f0b6,1f0a5,1f0ab,,,,,1f0a4,1f0d6,1f0bb
 STAY,1f0c7,1f0a3,1f0b6,1f0c8,1f0aa,,,1f0a1,1f0b2,1f0c4,1f0da
 STAY,1f0dd,1f0c4,1f0ce,,,,,1f0c2,1f0d2,1f0b3,1f0c7
 STAY,1f0be,,,,,,,1f0a1,1f0b1,1f0c3,1f0b5,1f0cd
-STAY,1f0c3,1f0a2,1f0d2,,,,,1f0a1,1f0b1
+HIT,1f0c3,1f0a2,1f0d2,,,,,1f0a1,1f0b1
 HIT,1f0ce,,,,,,,1f0d3,1f0a6
 STAY,1f0b5,1f0da,1f0ab,1f0b2,1f0b3,1f0b6,1f0cb,1f0a1,1f0ba
 STAY,1f0d3,,,,,,,1f0b4,1f0c9
@@ -24310,7 +24310,7 @@ STAY,1f0cb,1f0b5,1f0a6,1f0c7,1f0aa,,,1f0c3,1f0a9
 STAY,1f0b1,1f0b3,1f0d9,1f0c1,1f0b6,1f0a3,1f0d8,1f0b4,1f0a7,1f0d7
 STAY,1f0a4,1f0ba,1f0ad,1f0b8,1f0cd,1f0bd,1f0de,1f0c5,1f0aa
 STAY,1f0bd,1f0c4,1f0b9,,,,,1f0a1,1f0c1,1f0a2,1f0a3,1f0c6
-STAY,1f0c6,1f0c4,1f0ba,1f0c2,1f0d3,,,1f0c1,1f0d1,1f0c5
+HIT,1f0c6,1f0c4,1f0ba,1f0c2,1f0d3,,,1f0c1,1f0d1,1f0c5
 STAY,1f0a4,1f0c7,1f0b8,,,,,1f0a5,1f0aa
 HIT,1f0da,1f0a1,1f0b1,,,,,1f0c5,1f0a6
 STAY,1f0c5,,,,,,,1f0b3,1f0d7,1f0a9
@@ -24486,7 +24486,7 @@ STAY,1f0bb,1f0aa,1f0da,1f0a5,1f0c6,,,1f0b2,1f0d4,1f0b5,1f0a8
 HIT,1f0a8,1f0ca,1f0ab,1f0cd,1f0be,,,1f0b2,1f0d5
 STAY,1f0d9,,,,,,,1f0b3,1f0d6,1f0ca
 STAY,1f0d9,1f0c2,1f0c5,,,,,1f0b1,1f0a6,1f0ca
-STAY,1f0b8,,,,,,,1f0a1,1f0b1,1f0c2,1f0c3
+HIT,1f0b8,,,,,,,1f0a1,1f0b1,1f0c2,1f0c3
 STAY,1f0c3,1f0c4,1f0ab,1f0a3,1f0d8,1f0d7,1f0db,1f0c2,1f0c8,1f0ce
 STAY,1f0dd,1f0b3,1f0aa,,,,,1f0c6,1f0da
 STAY,1f0b9,1f0c8,1f0be,,,,,1f0d1,1f0d3,1f0a7,1f0aa
@@ -24659,7 +24659,7 @@ STAY,1f0c1,,,,,,,1f0cb,1f0ae
 STAY,1f0b9,1f0c6,1f0c7,1f0b1,1f0c8,,,1f0a6,1f0a8
 STAY,1f0c8,1f0b4,1f0d9,1f0b2,1f0d2,1f0b3,1f0aa,1f0b6,1f0d6
 STAY,1f0c1,1f0a3,1f0ca,,,,,1f0c3,1f0b5,1f0d7
-STAY,1f0c2,1f0c4,1f0ab,,,,,1f0a1,1f0d1
+HIT,1f0c2,1f0c4,1f0ab,,,,,1f0a1,1f0d1
 STAY,1f0b1,1f0cb,1f0dd,1f0a1,1f0d7,,,1f0a8,1f0ba
 HIT,1f0a9,,,,,,,1f0a2,1f0d3,1f0a5
 STAY,1f0d3,1f0b7,1f0be,1f0c2,1f0b8,1f0d5,1f0ae,1f0c3,1f0c8,1f0ce
@@ -24881,7 +24881,7 @@ STAY,1f0c9,1f0a5,1f0db,,,,,1f0a1,1f0c4,1f0d4,1f0a9
 STAY,1f0a5,1f0d2,1f0b6,1f0c2,1f0b5,,,1f0ba,1f0ce
 STAY,1f0d1,,,,,,,1f0ca,1f0ad
 STAY,1f0d7,1f0a4,1f0a6,1f0a1,1f0b5,1f0d2,1f0ae,1f0b2,1f0b3,1f0bb
-STAY,1f0cd,1f0c3,1f0d3,1f0dd,1f0ce,,,1f0a1,1f0b1,1f0b2
+HIT,1f0cd,1f0c3,1f0d3,1f0dd,1f0ce,,,1f0a1,1f0b1,1f0b2
 STAY,1f0db,1f0d5,1f0bd,1f0d2,1f0aa,,,1f0b4,1f0ca
 STAY,1f0d2,,,,,,,1f0b4,1f0b7,1f0ae
 STAY,1f0a8,,,,,,,1f0b2,1f0d4,1f0cd
@@ -24902,7 +24902,7 @@ STAY,1f0ae,1f0c1,1f0bd,1f0c8,1f0bb,,,1f0a1,1f0d8,1f0ba
 HIT,1f0d1,1f0d4,1f0a8,1f0b8,1f0a9,1f0a7,1f0de,1f0a3,1f0d3
 STAY,1f0be,1f0a4,1f0a6,,,,,1f0a1,1f0a3,1f0c3,1f0b5,1f0a7
 STAY,1f0aa,1f0b2,1f0d3,,,,,1f0c5,1f0d7
-STAY,1f0c4,1f0ca,1f0cb,1f0d6,1f0dd,1f0ba,1f0ae,1f0a1,1f0d1,1f0a5
+HIT,1f0c4,1f0ca,1f0cb,1f0d6,1f0dd,1f0ba,1f0ae,1f0a1,1f0d1,1f0a5
 STAY,1f0ae,,,,,,,1f0a2,1f0cd
 HIT,1f0a4,1f0c1,1f0ce,,,,,1f0d4,1f0b6
 STAY,1f0ab,,,,,,,1f0a7,1f0bd
@@ -24948,7 +24948,7 @@ STAY,1f0a2,,,,,,,1f0d1,1f0ab,1f0cb
 STAY,1f0b1,1f0b3,1f0c8,1f0c4,1f0c6,1f0c9,1f0be,1f0d6,1f0a8
 STAY,1f0dd,,,,,,,1f0c2,1f0a3,1f0b7,1f0c7
 STAY,1f0b4,1f0d2,1f0da,,,,,1f0a7,1f0ab
-STAY,1f0a4,1f0c7,1f0ae,1f0d7,1f0dd,,,1f0c1,1f0d1,1f0a3
+HIT,1f0a4,1f0c7,1f0ae,1f0d7,1f0dd,,,1f0c1,1f0d1,1f0a3
 STAY,1f0d5,1f0a6,1f0de,1f0d3,1f0d7,1f0a5,1f0aa,1f0c9,1f0da
 STAY,1f0c4,1f0a4,1f0aa,1f0b5,1f0db,1f0b6,1f0c8,1f0b4,1f0c6,1f0d6
 HIT,1f0b2,,,,,,,1f0a3,1f0a8
@@ -25185,7 +25185,7 @@ STAY,1f0de,1f0c2,1f0c3,1f0a1,1f0a2,1f0c9,1f0ce,1f0b1,1f0b2,1f0d6,1f0c8
 STAY,1f0b5,1f0b2,1f0a3,1f0a2,1f0c6,,,1f0d6,1f0d7
 STAY,1f0ca,1f0d3,1f0a4,1f0a1,1f0ab,,,1f0b6,1f0c8
 HIT,1f0c8,,,,,,,1f0a4,1f0c6
-STAY,1f0b4,1f0ab,1f0cb,1f0a6,1f0d8,,,1f0c1,1f0d1
+HIT,1f0b4,1f0ab,1f0cb,1f0a6,1f0d8,,,1f0c1,1f0d1
 STAY,1f0b7,1f0d7,1f0bd,1f0d5,1f0c7,1f0a1,1f0ad,1f0c2,1f0a6,1f0cb
 STAY,1f0c3,,,,,,,1f0d3,1f0d4,1f0d7
 STAY,1f0a2,1f0b6,1f0d7,,,,,1f0bb,1f0cd
@@ -25545,7 +25545,7 @@ STAY,1f0bd,,,,,,,1f0a5,1f0d7,1f0b8
 STAY,1f0ce,1f0a4,1f0b7,,,,,1f0d4,1f0d5,1f0bd
 HIT,1f0a3,,,,,,,1f0d1,1f0b6
 STAY,1f0cb,1f0a2,1f0be,1f0d4,1f0bb,,,1f0a1,1f0c2,1f0a4,1f0c8
-STAY,1f0a4,1f0b8,1f0ae,,,,,1f0b1,1f0d1
+HIT,1f0a4,1f0b8,1f0ae,,,,,1f0b1,1f0d1
 HIT,1f0d3,1f0a3,1f0c9,1f0a7,1f0da,1f0a2,1f0b8,1f0d4,1f0d7
 STAY,1f0aa,,,,,,,1f0a4,1f0cd
 STAY,1f0ad,,,,,,,1f0c1,1f0b5,1f0c9
@@ -25689,7 +25689,7 @@ STAY,1f0c7,1f0d2,1f0aa,1f0b4,1f0a8,1f0b8,1f0a9,1f0ca,1f0bb
 STAY,1f0ab,1f0d9,1f0ae,1f0c5,1f0a9,,,1f0c1,1f0d3,1f0a4,1f0dd
 STAY,1f0a7,1f0b7,1f0ab,1f0a1,1f0a4,,,1f0c6,1f0bb
 STAY,1f0d8,1f0c2,1f0b4,,,,,1f0b5,1f0b9
-STAY,1f0cd,1f0b3,1f0d6,1f0c4,1f0c6,,,1f0a1,1f0d1
+HIT,1f0cd,1f0b3,1f0d6,1f0c4,1f0c6,,,1f0a1,1f0d1
 HIT,1f0a7,1f0b8,1f0ad,1f0da,1f0db,,,1f0b2,1f0b5
 STAY,1f0be,1f0b3,1f0bd,,,,,1f0a2,1f0c7,1f0cd
 STAY,1f0cd,1f0d5,1f0dd,1f0a5,1f0cb,,,1f0b7,1f0c9
@@ -25787,7 +25787,7 @@ STAY,1f0d8,,,,,,,1f0d3,1f0c9
 HIT,1f0a5,1f0d2,1f0bd,1f0c8,1f0cb,,,1f0d3,1f0b8
 STAY,1f0b3,1f0b2,1f0dd,1f0c1,1f0b7,,,1f0c5,1f0d9
 STAY,1f0d1,,,,,,,1f0c7,1f0de
-STAY,1f0a9,1f0b8,1f0ce,1f0c2,1f0db,1f0c3,1f0cb,1f0a1,1f0d1
+HIT,1f0a9,1f0b8,1f0ce,1f0c2,1f0db,1f0c3,1f0cb,1f0a1,1f0d1
 STAY,1f0bb,1f0b3,1f0a6,1f0c2,1f0b4,,,1f0d1,1f0d8,1f0ae
 STAY,1f0b8,1f0d2,1f0a7,1f0ca,1f0dd,1f0aa,1f0bd,1f0a1,1f0ba,1f0ae
 STAY,1f0db,1f0c5,1f0d9,1f0d7,1f0bd,1f0cd,1f0ce,1f0c4,1f0be
@@ -25917,7 +25917,7 @@ STAY,1f0d8,,,,,,,1f0a9,1f0d9
 STAY,1f0ae,1f0a5,1f0c9,,,,,1f0c4,1f0b7,1f0ba
 STAY,1f0bb,1f0d3,1f0a6,,,,,1f0d2,1f0c6,1f0ce
 STAY,1f0c8,1f0b7,1f0bb,,,,,1f0b1,1f0d3,1f0d4,1f0b6
-STAY,1f0c9,1f0ab,1f0bb,1f0a7,1f0c7,,,1f0b1,1f0d1,1f0a2,1f0b2
+HIT,1f0c9,1f0ab,1f0bb,1f0a7,1f0c7,,,1f0b1,1f0d1,1f0a2,1f0b2
 STAY,1f0ad,,,,,,,1f0b1,1f0a8
 STAY,1f0d1,1f0c6,1f0d7,,,,,1f0d3,1f0a8,1f0b8
 STAY,1f0ab,1f0c3,1f0a8,1f0c6,1f0dd,,,1f0a1,1f0b6,1f0d6,1f0a7
@@ -26379,7 +26379,7 @@ STAY,1f0d4,,,,,,,1f0bd,1f0de
 STAY,1f0a2,1f0d8,1f0a9,1f0b6,1f0ae,1f0b3,1f0b9,1f0c1,1f0a5,1f0bb
 STAY,1f0d3,1f0ba,1f0bd,,,,,1f0a1,1f0a7
 STAY,1f0be,,,,,,,1f0aa,1f0db
-STAY,1f0ca,1f0c3,1f0d5,1f0c4,1f0b9,,,1f0a1,1f0c1
+HIT,1f0ca,1f0c3,1f0d5,1f0c4,1f0b9,,,1f0a1,1f0c1
 STAY,1f0c3,1f0a5,1f0aa,1f0d9,1f0ab,,,1f0a7,1f0a8
 STAY,1f0c7,1f0a1,1f0a4,1f0d3,1f0c8,,,1f0d1,1f0db
 HIT,1f0d3,1f0d1,1f0d7,,,,,1f0c1,1f0a2
@@ -26663,7 +26663,7 @@ STAY,1f0a3,1f0b3,1f0d6,,,,,1f0a2,1f0b6,1f0c6
 STAY,1f0a5,1f0d8,1f0ba,,,,,1f0b1,1f0c2,1f0d4,1f0b5,1f0a6
 STAY,1f0c3,1f0a7,1f0bd,1f0c1,1f0c9,,,1f0b1,1f0b3,1f0b5,1f0ad
 HIT,1f0d9,1f0ca,1f0cb,1f0a3,1f0d3,1f0da,1f0ae,1f0d1,1f0b2
-STAY,1f0d8,1f0a3,1f0d5,1f0c4,1f0b6,1f0a1,1f0b7,1f0b1,1f0c1,1f0d2,1f0b3
+HIT,1f0d8,1f0a3,1f0d5,1f0c4,1f0b6,1f0a1,1f0b7,1f0b1,1f0c1,1f0d2,1f0b3
 STAY,1f0d5,1f0b7,1f0cb,,,,,1f0b5,1f0d9
 HIT,1f0bd,,,,,,,1f0a4,1f0a6
 STAY,1f0a8,1f0c4,1f0a6,1f0a7,1f0ad,1f0c2,1f0db,1f0a9,1f0da
@@ -27196,7 +27196,7 @@ STAY,1f0d1,1f0b8,1f0a9,1f0b7,1f0de,,,1f0c1,1f0a7,1f0ba
 STAY,1f0bd,,,,,,,1f0b1,1f0c3,1f0a7,1f0de
 STAY,1f0c1,1f0ab,1f0db,,,,,1f0d7,1f0cb
 STAY,1f0d2,1f0a3,1f0bb,,,,,1f0b3,1f0db
-STAY,1f0d6,1f0b2,1f0c9,1f0c3,1f0b5,1f0a2,1f0c6,1f0b1,1f0c1
+HIT,1f0d6,1f0b2,1f0c9,1f0c3,1f0b5,1f0a2,1f0c6,1f0b1,1f0c1
 HIT,1f0c3,1f0b1,1f0c8,1f0c2,1f0d3,,,1f0b2,1f0b9
 STAY,1f0c6,1f0c2,1f0a4,1f0b4,1f0ce,1f0a5,1f0b6,1f0b8,1f0ca
 STAY,1f0a6,1f0aa,1f0ba,1f0c5,1f0c9,1f0b6,1f0ca,1f0b5,1f0b7,1f0b9
@@ -27222,7 +27222,7 @@ STAY,1f0a4,1f0b3,1f0b7,,,,,1f0a3,1f0d3,1f0d6,1f0d8
 STAY,1f0ad,1f0c5,1f0cd,1f0d4,1f0a6,1f0c3,1f0a4,1f0b3,1f0bd
 STAY,1f0c8,1f0d4,1f0b8,,,,,1f0c7,1f0d9
 STAY,1f0d2,1f0b3,1f0a8,1f0b5,1f0ce,,,1f0d1,1f0c5,1f0db
-STAY,1f0d8,,,,,,,1f0c1,1f0d1
+HIT,1f0d8,,,,,,,1f0c1,1f0d1
 STAY,1f0d8,1f0a9,1f0c9,1f0d6,1f0be,,,1f0a5,1f0b7
 STAY,1f0a5,,,,,,,1f0a4,1f0d5,1f0a9
 HIT,1f0cd,1f0d3,1f0c7,1f0b9,1f0db,,,1f0d5,1f0d6
@@ -27272,7 +27272,7 @@ HIT,1f0b2,1f0d6,1f0a7,,,,,1f0b1,1f0b4
 HIT,1f0d1,,,,,,,1f0b1,1f0d5
 STAY,1f0c3,1f0a2,1f0b9,1f0c1,1f0d7,1f0dd,1f0ae,1f0aa,1f0de
 STAY,1f0b2,1f0c1,1f0ad,1f0d6,1f0bd,,,1f0dd,1f0de
-STAY,1f0ad,1f0c2,1f0d7,1f0a1,1f0d6,1f0d4,1f0a8,1f0b1,1f0d1,1f0b4
+HIT,1f0ad,1f0c2,1f0d7,1f0a1,1f0d6,1f0d4,1f0a8,1f0b1,1f0d1,1f0b4
 HIT,1f0cd,1f0c4,1f0dd,1f0b1,1f0d3,,,1f0d2,1f0a9
 STAY,1f0bb,1f0c6,1f0b8,1f0a3,1f0a4,,,1f0d5,1f0db
 HIT,1f0aa,1f0b5,1f0a7,1f0d3,1f0a4,,,1f0b2,1f0c2,1f0a3
@@ -27679,7 +27679,7 @@ STAY,1f0b6,,,,,,,1f0b2,1f0da
 STAY,1f0ce,1f0d8,1f0bb,1f0c1,1f0a6,1f0b5,1f0a8,1f0b4,1f0c7,1f0b9
 HIT,1f0ce,1f0b2,1f0b7,1f0b1,1f0d1,1f0a3,1f0d4,1f0c1,1f0c5
 HIT,1f0b2,1f0a5,1f0a9,,,,,1f0a2,1f0c9
-STAY,1f0ad,1f0a5,1f0dd,,,,,1f0a1,1f0b1,1f0c1,1f0d1
+HIT,1f0ad,1f0a5,1f0dd,,,,,1f0a1,1f0b1,1f0c1,1f0d1
 STAY,1f0ba,1f0a6,1f0cb,,,,,1f0c1,1f0b9,1f0db
 STAY,1f0b8,,,,,,,1f0aa,1f0cd
 STAY,1f0da,1f0d8,1f0bd,,,,,1f0c2,1f0b5,1f0c8
@@ -28079,7 +28079,7 @@ HIT,1f0a9,1f0b1,1f0b9,,,,,1f0c2,1f0c4
 STAY,1f0c6,,,,,,,1f0c1,1f0ae,1f0ce
 STAY,1f0c6,1f0d9,1f0bd,1f0ba,1f0ae,,,1f0c1,1f0dd,1f0be
 STAY,1f0bd,1f0b1,1f0d4,1f0d3,1f0da,1f0c6,1f0d7,1f0a8,1f0ab
-STAY,1f0de,1f0d6,1f0d7,,,,,1f0a1,1f0c1
+HIT,1f0de,1f0d6,1f0d7,,,,,1f0a1,1f0c1
 STAY,1f0c9,1f0c6,1f0d6,,,,,1f0a5,1f0b6,1f0da
 HIT,1f0b4,,,,,,,1f0c2,1f0d2
 STAY,1f0b2,1f0c4,1f0c5,1f0a8,1f0c9,,,1f0a2,1f0c3,1f0d4,1f0a5
@@ -28271,7 +28271,7 @@ STAY,1f0c8,1f0b9,1f0dd,1f0a1,1f0a5,1f0c4,1f0da,1f0c3,1f0ba
 STAY,1f0b5,1f0d3,1f0d8,1f0c1,1f0da,,,1f0a4,1f0d9
 STAY,1f0d6,1f0a7,1f0ae,1f0c6,1f0db,1f0ab,1f0de,1f0b3,1f0ad
 STAY,1f0c3,1f0d3,1f0ab,1f0c9,1f0ce,1f0a4,1f0a9,1f0d7,1f0b9
-STAY,1f0ad,1f0a2,1f0cd,,,,,1f0c1,1f0d1,1f0d2
+HIT,1f0ad,1f0a2,1f0cd,,,,,1f0c1,1f0d1,1f0d2
 STAY,1f0c1,1f0d1,1f0c9,1f0b3,1f0db,1f0b6,1f0aa,1f0c2,1f0d4,1f0c7,1f0d7
 STAY,1f0bd,,,,,,,1f0c4,1f0a7,1f0d8
 STAY,1f0aa,1f0b9,1f0ce,,,,,1f0a1,1f0c4,1f0d4,1f0a7
@@ -28581,7 +28581,7 @@ STAY,1f0a2,1f0c4,1f0cb,1f0c1,1f0db,,,1f0d5,1f0b9
 STAY,1f0d9,1f0a5,1f0ae,1f0a3,1f0cd,,,1f0cb,1f0bd
 HIT,1f0ca,1f0a7,1f0bd,1f0ba,1f0bb,1f0d3,1f0dd,1f0c1,1f0c6
 STAY,1f0b5,,,,,,,1f0c8,1f0cb
-STAY,1f0aa,1f0a2,1f0b3,1f0b7,1f0cb,,,1f0b1,1f0d1,1f0a3
+HIT,1f0aa,1f0a2,1f0b3,1f0b7,1f0cb,,,1f0b1,1f0d1,1f0a3
 STAY,1f0d8,1f0a1,1f0de,,,,,1f0a4,1f0d4,1f0b5,1f0a7
 STAY,1f0b7,1f0b1,1f0c1,1f0ad,1f0be,,,1f0c7,1f0d9
 STAY,1f0a7,1f0a2,1f0db,1f0a3,1f0d4,1f0b4,1f0c4,1f0d5,1f0b7
@@ -28648,7 +28648,7 @@ STAY,1f0c7,1f0b7,1f0dd,1f0b1,1f0d9,,,1f0b2,1f0a4,1f0c5,1f0d8
 STAY,1f0d9,1f0d1,1f0c4,,,,,1f0a1,1f0a2,1f0c7,1f0ba
 STAY,1f0db,,,,,,,1f0b3,1f0c3,1f0c6
 HIT,1f0d3,1f0a8,1f0d9,1f0a1,1f0d5,,,1f0d2,1f0a4
-STAY,1f0d5,,,,,,,1f0b1,1f0c1,1f0c2
+HIT,1f0d5,,,,,,,1f0b1,1f0c1,1f0c2
 STAY,1f0d7,1f0a2,1f0b8,1f0c8,1f0aa,,,1f0b1,1f0c5,1f0c7
 STAY,1f0ce,1f0b1,1f0c9,1f0b8,1f0aa,,,1f0c1,1f0c3,1f0a7,1f0cd
 STAY,1f0db,,,,,,,1f0c1,1f0b8
@@ -28665,7 +28665,7 @@ STAY,1f0a6,1f0d5,1f0bd,,,,,1f0d1,1f0de
 STAY,1f0cb,1f0c3,1f0d7,1f0a2,1f0ae,,,1f0b5,1f0c6,1f0c8
 STAY,1f0b7,,,,,,,1f0b2,1f0ce
 STAY,1f0a5,1f0d3,1f0ce,1f0b7,1f0d9,,,1f0b5,1f0ba
-STAY,1f0c6,1f0a7,1f0c9,1f0c3,1f0cd,,,1f0b1,1f0d1,1f0c5
+HIT,1f0c6,1f0a7,1f0c9,1f0c3,1f0cd,,,1f0b1,1f0d1,1f0c5
 STAY,1f0c3,1f0a6,1f0c7,,,,,1f0c2,1f0a9,1f0be
 STAY,1f0c2,1f0c8,1f0ae,1f0b7,1f0ab,1f0c4,1f0db,1f0b3,1f0d5,1f0b8
 STAY,1f0d5,1f0c7,1f0cd,,,,,1f0a9,1f0c9
@@ -28728,7 +28728,7 @@ STAY,1f0db,,,,,,,1f0a8,1f0d8
 STAY,1f0da,1f0a4,1f0db,1f0c5,1f0cd,1f0d6,1f0be,1f0c1,1f0ca
 STAY,1f0b9,,,,,,,1f0b2,1f0db
 HIT,1f0c3,,,,,,,1f0b2,1f0c6
-STAY,1f0bb,1f0a3,1f0c5,,,,,1f0a1,1f0d1,1f0a2
+HIT,1f0bb,1f0a3,1f0c5,,,,,1f0a1,1f0d1,1f0a2
 STAY,1f0b2,1f0ad,1f0ae,1f0a6,1f0b8,,,1f0d2,1f0cd
 STAY,1f0d3,1f0c6,1f0bd,,,,,1f0b2,1f0d9,1f0ce
 STAY,1f0c9,1f0d4,1f0dd,1f0bb,1f0ae,,,1f0b1,1f0d5,1f0da
@@ -28796,7 +28796,7 @@ STAY,1f0ca,1f0d5,1f0a7,1f0c4,1f0aa,1f0c8,1f0cd,1f0d3,1f0a4,1f0a5,1f0d8
 STAY,1f0c2,1f0a8,1f0ca,1f0a3,1f0ba,1f0c5,1f0a6,1f0a1,1f0b8,1f0db
 STAY,1f0b1,,,,,,,1f0a1,1f0a3,1f0ce
 HIT,1f0bb,1f0c3,1f0c5,,,,,1f0a2,1f0b8
-STAY,1f0c6,1f0d3,1f0d7,,,,,1f0a1,1f0b1
+HIT,1f0c6,1f0d3,1f0d7,,,,,1f0a1,1f0b1
 STAY,1f0a1,1f0b1,1f0be,1f0b3,1f0a7,1f0b7,1f0da,1f0cd,1f0ae
 HIT,1f0a7,1f0a5,1f0dd,,,,,1f0b1,1f0d3
 STAY,1f0bd,1f0c5,1f0cd,,,,,1f0d1,1f0b3,1f0ad
@@ -29159,7 +29159,7 @@ STAY,1f0c1,1f0c3,1f0db,1f0d4,1f0aa,,,1f0b3,1f0a5,1f0ad
 STAY,1f0a5,1f0a4,1f0a8,,,,,1f0b1,1f0c7,1f0d7
 STAY,1f0d2,,,,,,,1f0d1,1f0b5,1f0ad
 HIT,1f0d8,1f0a4,1f0ba,,,,,1f0c2,1f0a6
-STAY,1f0b2,,,,,,,1f0a1,1f0b1
+HIT,1f0b2,,,,,,,1f0a1,1f0b1
 STAY,1f0b9,1f0d6,1f0de,1f0b2,1f0b8,,,1f0b6,1f0a8
 STAY,1f0da,1f0c9,1f0cd,,,,,1f0bb,1f0ce
 STAY,1f0b6,1f0b3,1f0b7,1f0a7,1f0bd,,,1f0c4,1f0d5,1f0c7
@@ -30010,7 +30010,7 @@ STAY,1f0d7,1f0a8,1f0d9,1f0b9,1f0cb,,,1f0a4,1f0c5,1f0a6
 STAY,1f0cd,1f0c4,1f0b9,1f0a6,1f0d6,,,1f0d2,1f0d5,1f0de
 STAY,1f0c7,,,,,,,1f0ab,1f0db
 STAY,1f0ba,,,,,,,1f0b2,1f0de
-STAY,1f0aa,1f0b3,1f0b4,1f0c3,1f0ce,1f0a2,1f0ba,1f0b1,1f0c1,1f0a5
+HIT,1f0aa,1f0b3,1f0b4,1f0c3,1f0ce,1f0a2,1f0ba,1f0b1,1f0c1,1f0a5
 HIT,1f0de,1f0a6,1f0a8,1f0b8,1f0bb,1f0c9,1f0ba,1f0a3,1f0b3
 STAY,1f0d7,,,,,,,1f0c4,1f0b9
 HIT,1f0c1,1f0b6,1f0a8,,,,,1f0c2,1f0d8
@@ -30284,7 +30284,7 @@ STAY,1f0ad,,,,,,,1f0a5,1f0d7
 STAY,1f0c5,1f0b1,1f0de,1f0a3,1f0c3,1f0d7,1f0ae,1f0c1,1f0b2,1f0d3,1f0a5
 STAY,1f0a5,,,,,,,1f0c5,1f0ad
 STAY,1f0ab,,,,,,,1f0c5,1f0a6,1f0c9
-STAY,1f0c7,,,,,,,1f0a1,1f0b1,1f0d3
+HIT,1f0c7,,,,,,,1f0a1,1f0b1,1f0d3
 STAY,1f0b8,,,,,,,1f0c4,1f0a5,1f0b6
 STAY,1f0b7,1f0a8,1f0b8,1f0b9,1f0ca,,,1f0b1,1f0d3,1f0d6,1f0bb
 STAY,1f0d7,1f0d9,1f0de,1f0c8,1f0b9,1f0cd,1f0be,1f0d5,1f0a6,1f0da
@@ -30809,7 +30809,7 @@ HIT,1f0b8,1f0b7,1f0ad,1f0b1,1f0a5,,,1f0c3,1f0a8
 STAY,1f0a4,1f0b2,1f0c7,1f0d7,1f0bd,,,1f0a9,1f0de
 STAY,1f0ca,1f0a4,1f0c4,1f0a2,1f0a6,,,1f0b1,1f0aa
 STAY,1f0c8,,,,,,,1f0b2,1f0cd
-STAY,1f0d1,1f0d3,1f0d6,1f0c2,1f0ab,,,1f0a1,1f0b1,1f0d4
+HIT,1f0d1,1f0d3,1f0d6,1f0c2,1f0ab,,,1f0a1,1f0b1,1f0d4
 STAY,1f0a3,1f0d7,1f0aa,1f0a2,1f0b2,,,1f0c7,1f0c9
 STAY,1f0c2,1f0bb,1f0dd,1f0d9,1f0cb,,,1f0d4,1f0a5,1f0da
 STAY,1f0b8,1f0b1,1f0c6,1f0ba,1f0db,1f0b2,1f0ce,1f0a1,1f0a3,1f0c3,1f0d4
@@ -31055,7 +31055,7 @@ HIT,1f0a2,1f0ab,1f0cb,,,,,1f0b3,1f0a4,1f0b4
 HIT,1f0a7,,,,,,,1f0c2,1f0c5
 STAY,1f0b8,1f0a9,1f0bb,1f0d2,1f0ca,1f0b1,1f0b9,1f0b3,1f0c7,1f0aa
 STAY,1f0b5,1f0a3,1f0bd,1f0d7,1f0a8,,,1f0d5,1f0b6,1f0a9
-STAY,1f0c7,1f0c4,1f0c5,,,,,1f0b1,1f0d1,1f0a3
+HIT,1f0c7,1f0c4,1f0c5,,,,,1f0b1,1f0d1,1f0a3
 STAY,1f0d4,1f0c3,1f0b9,1f0a1,1f0aa,1f0c5,1f0a6,1f0d9,1f0bd
 STAY,1f0b3,1f0b5,1f0a8,1f0c3,1f0dd,1f0c8,1f0ce,1f0c7,1f0bd
 HIT,1f0c6,,,,,,,1f0c2,1f0b6
@@ -31108,7 +31108,7 @@ STAY,1f0c8,,,,,,,1f0b7,1f0dd
 STAY,1f0c8,1f0b3,1f0da,1f0a7,1f0cd,1f0d8,1f0ce,1f0c2,1f0ad
 STAY,1f0be,1f0b3,1f0c7,,,,,1f0bb,1f0bd
 HIT,1f0a9,,,,,,,1f0a4,1f0a5
-STAY,1f0c6,1f0b9,1f0cd,1f0c5,1f0ce,1f0b5,1f0be,1f0a1,1f0b1,1f0c4
+HIT,1f0c6,1f0b9,1f0cd,1f0c5,1f0ce,1f0b5,1f0be,1f0a1,1f0b1,1f0c4
 STAY,1f0b4,1f0d1,1f0d7,1f0c1,1f0a8,,,1f0a1,1f0a7
 HIT,1f0d3,1f0b6,1f0bd,1f0d2,1f0cb,1f0a9,1f0ba,1f0c2,1f0d9
 HIT,1f0c4,1f0d5,1f0b8,1f0c2,1f0a6,,,1f0b2,1f0d2,1f0d6
@@ -31134,7 +31134,7 @@ STAY,1f0b8,1f0a4,1f0d7,,,,,1f0b1,1f0b4,1f0ad
 STAY,1f0da,,,,,,,1f0d5,1f0ae
 STAY,1f0b2,1f0b8,1f0b9,,,,,1f0a2,1f0d5,1f0cd
 HIT,1f0d1,,,,,,,1f0a5,1f0b6
-STAY,1f0a9,,,,,,,1f0a1,1f0c1
+HIT,1f0a9,,,,,,,1f0a1,1f0c1
 STAY,1f0c4,1f0d5,1f0b7,1f0a8,1f0ce,,,1f0d1,1f0c5,1f0bd
 STAY,1f0b8,1f0c4,1f0db,1f0b9,1f0cd,,,1f0b2,1f0d2,1f0b3,1f0b7,1f0d7
 STAY,1f0b9,,,,,,,1f0b1,1f0b6,1f0c7
@@ -31356,7 +31356,7 @@ STAY,1f0a8,1f0ab,1f0db,1f0c3,1f0b7,1f0d7,1f0c8,1f0a4,1f0ae
 HIT,1f0a3,1f0b1,1f0d3,1f0b2,1f0b7,,,1f0d1,1f0c6
 HIT,1f0ab,1f0d6,1f0cd,,,,,1f0b3,1f0d3
 STAY,1f0d8,1f0a9,1f0dd,1f0a2,1f0a4,,,1f0b8,1f0aa
-STAY,1f0ae,1f0d5,1f0d8,1f0c2,1f0ca,,,1f0b1,1f0c1
+HIT,1f0ae,1f0d5,1f0d8,1f0c2,1f0ca,,,1f0b1,1f0c1
 HIT,1f0b4,,,,,,,1f0c5,1f0a6
 HIT,1f0cb,1f0b1,1f0c5,,,,,1f0a5,1f0a6
 HIT,1f0a2,1f0a1,1f0ca,,,,,1f0b4,1f0d6
@@ -31949,7 +31949,7 @@ STAY,1f0c8,1f0c3,1f0ba,,,,,1f0a1,1f0da,1f0bb
 HIT,1f0ba,1f0a4,1f0c5,,,,,1f0c2,1f0d8
 STAY,1f0a2,1f0bd,1f0cd,1f0d2,1f0a4,,,1f0c1,1f0d4,1f0a6,1f0b7
 STAY,1f0ad,,,,,,,1f0d1,1f0b3,1f0d6,1f0ae
-STAY,1f0d3,1f0c5,1f0ce,1f0c9,1f0db,1f0a3,1f0b4,1f0c1,1f0d1
+HIT,1f0d3,1f0c5,1f0ce,1f0c9,1f0db,1f0a3,1f0b4,1f0c1,1f0d1
 STAY,1f0b9,,,,,,,1f0d1,1f0a7,1f0ca
 STAY,1f0a4,,,,,,,1f0d2,1f0c6,1f0bd
 STAY,1f0c2,1f0b7,1f0c7,1f0c1,1f0a8,,,1f0c9,1f0cb
@@ -32192,7 +32192,7 @@ HIT,1f0b8,,,,,,,1f0d5,1f0b6
 STAY,1f0ba,1f0b8,1f0a9,1f0c5,1f0bd,,,1f0a8,1f0bb
 STAY,1f0be,1f0b3,1f0a5,1f0b1,1f0c5,,,1f0c4,1f0b7,1f0db
 STAY,1f0d8,,,,,,,1f0d1,1f0a2,1f0d7
-STAY,1f0c5,1f0a4,1f0d6,,,,,1f0c1,1f0d1
+HIT,1f0c5,1f0a4,1f0d6,,,,,1f0c1,1f0d1
 STAY,1f0a4,1f0d1,1f0a6,1f0b4,1f0ae,1f0b8,1f0a9,1f0a2,1f0b3,1f0ba
 STAY,1f0d5,1f0b3,1f0d4,1f0b2,1f0d8,,,1f0c3,1f0b4,1f0c8
 STAY,1f0a2,,,,,,,1f0a1,1f0bd
@@ -32229,7 +32229,7 @@ STAY,1f0a8,1f0aa,1f0cb,1f0c8,1f0b9,,,1f0c1,1f0d3,1f0d5,1f0d6
 STAY,1f0b7,1f0b4,1f0ca,1f0c1,1f0da,,,1f0b2,1f0c3,1f0a6,1f0d6
 HIT,1f0d2,1f0c7,1f0ce,1f0a7,1f0de,,,1f0c4,1f0c5
 STAY,1f0b3,1f0ab,1f0ce,1f0c3,1f0a4,1f0db,1f0cd,1f0d1,1f0c2,1f0d2,1f0de
-STAY,1f0b8,1f0d2,1f0c7,,,,,1f0a1,1f0b1,1f0d5
+HIT,1f0b8,1f0d2,1f0c7,,,,,1f0a1,1f0b1,1f0d5
 STAY,1f0ae,1f0c3,1f0ad,1f0c5,1f0ce,1f0d9,1f0bb,1f0d2,1f0c4,1f0c6,1f0a8
 STAY,1f0b9,1f0b6,1f0be,1f0c9,1f0aa,1f0c5,1f0ae,1f0a1,1f0d9
 STAY,1f0ce,,,,,,,1f0a2,1f0c2,1f0b5,1f0ae
@@ -32352,7 +32352,7 @@ HIT,1f0b2,1f0a1,1f0d5,1f0aa,1f0ce,,,1f0d3,1f0c5
 HIT,1f0b7,1f0c3,1f0c6,,,,,1f0c2,1f0b4
 STAY,1f0a9,1f0d5,1f0c8,1f0cd,1f0be,1f0c6,1f0d7,1f0c1,1f0a3,1f0b9
 STAY,1f0d4,1f0d2,1f0bb,1f0b7,1f0bd,1f0c2,1f0d5,1f0a1,1f0d3,1f0da
-STAY,1f0b5,1f0ba,1f0ab,,,,,1f0b1,1f0d1,1f0c3
+HIT,1f0b5,1f0ba,1f0ab,,,,,1f0b1,1f0d1,1f0c3
 STAY,1f0a4,,,,,,,1f0a1,1f0bd
 STAY,1f0ae,1f0d5,1f0a8,1f0b5,1f0c7,,,1f0d3,1f0b9
 STAY,1f0ae,1f0a4,1f0a8,,,,,1f0c5,1f0b9
@@ -32372,7 +32372,7 @@ STAY,1f0a9,1f0a4,1f0a6,1f0da,1f0ad,1f0a1,1f0b5,1f0d1,1f0c9
 HIT,1f0c5,1f0a5,1f0ca,1f0ba,1f0dd,1f0c7,1f0cd,1f0d3,1f0c6
 STAY,1f0c6,1f0a5,1f0c9,1f0d5,1f0ab,,,1f0b2,1f0a4,1f0b9
 STAY,1f0ad,,,,,,,1f0b5,1f0be
-STAY,1f0a9,1f0c2,1f0d4,1f0d6,1f0bd,,,1f0b1,1f0d1
+HIT,1f0a9,1f0c2,1f0d4,1f0d6,1f0bd,,,1f0b1,1f0d1
 STAY,1f0b9,,,,,,,1f0d9,1f0ab
 STAY,1f0ca,1f0c9,1f0ae,1f0d5,1f0a6,1f0b7,1f0a9,1f0a2,1f0c8,1f0be
 STAY,1f0a9,1f0d1,1f0ae,,,,,1f0a1,1f0b4,1f0ab
@@ -32683,7 +32683,7 @@ STAY,1f0b6,1f0c9,1f0cb,1f0b1,1f0aa,1f0a4,1f0bd,1f0d2,1f0b5,1f0b7
 STAY,1f0b7,1f0d1,1f0c6,,,,,1f0d2,1f0c3,1f0be
 STAY,1f0b2,,,,,,,1f0c3,1f0a8,1f0ce
 STAY,1f0b4,1f0d4,1f0b9,,,,,1f0b3,1f0c4,1f0ab
-STAY,1f0d7,1f0d8,1f0ab,,,,,1f0a1,1f0c1,1f0d3
+HIT,1f0d7,1f0d8,1f0ab,,,,,1f0a1,1f0c1,1f0d3
 STAY,1f0b2,1f0a9,1f0c9,1f0b5,1f0a8,,,1f0c2,1f0c3,1f0d5,1f0b7
 STAY,1f0d8,,,,,,,1f0b3,1f0d4,1f0ad
 HIT,1f0bb,1f0d7,1f0ce,,,,,1f0a4,1f0b6
@@ -32711,7 +32711,7 @@ STAY,1f0c9,,,,,,,1f0d6,1f0de
 STAY,1f0c9,,,,,,,1f0a5,1f0aa
 STAY,1f0d8,,,,,,,1f0d4,1f0b9
 HIT,1f0c8,,,,,,,1f0c3,1f0a5
-STAY,1f0a5,,,,,,,1f0b1,1f0c1,1f0c5
+HIT,1f0a5,,,,,,,1f0b1,1f0c1,1f0c5
 STAY,1f0c7,,,,,,,1f0a1,1f0bb
 STAY,1f0de,1f0b2,1f0c6,1f0b4,1f0b7,1f0a3,1f0c9,1f0d4,1f0a5,1f0d5,1f0c7
 HIT,1f0cd,1f0c1,1f0b8,,,,,1f0a4,1f0d7
@@ -32791,7 +32791,7 @@ STAY,1f0d5,1f0ca,1f0da,1f0a7,1f0ae,,,1f0d6,1f0b7
 STAY,1f0b3,1f0c7,1f0ba,,,,,1f0d8,1f0ce
 HIT,1f0d4,1f0c5,1f0ca,1f0c6,1f0c9,1f0d1,1f0de,1f0c3,1f0c4
 HIT,1f0a2,1f0d5,1f0be,,,,,1f0b2,1f0d9
-STAY,1f0ce,1f0a2,1f0b3,1f0c4,1f0bd,,,1f0c1,1f0d1,1f0c2
+HIT,1f0ce,1f0a2,1f0b3,1f0c4,1f0bd,,,1f0c1,1f0d1,1f0c2
 STAY,1f0d2,,,,,,,1f0c1,1f0bd,1f0dd
 STAY,1f0c1,1f0b7,1f0d9,,,,,1f0a3,1f0db
 STAY,1f0c7,,,,,,,1f0b1,1f0a2,1f0a9
@@ -32895,7 +32895,7 @@ HIT,1f0de,1f0b7,1f0bd,1f0c2,1f0dd,,,1f0a3,1f0b3
 STAY,1f0dd,,,,,,,1f0c5,1f0ad
 STAY,1f0b3,1f0b2,1f0b6,,,,,1f0c3,1f0ce
 STAY,1f0de,1f0c8,1f0dd,,,,,1f0a3,1f0a4,1f0c4,1f0da
-STAY,1f0ba,1f0b1,1f0d4,,,,,1f0c1,1f0d1,1f0a3
+HIT,1f0ba,1f0b1,1f0d4,,,,,1f0c1,1f0d1,1f0a3
 STAY,1f0b5,1f0d3,1f0cd,,,,,1f0a1,1f0c3,1f0a7,1f0da
 STAY,1f0d2,1f0c2,1f0be,1f0c5,1f0d9,,,1f0d6,1f0de
 HIT,1f0ae,1f0d8,1f0bb,1f0b4,1f0c6,1f0d5,1f0da,1f0c2,1f0c7
@@ -33014,7 +33014,7 @@ STAY,1f0be,,,,,,,1f0c1,1f0b2,1f0b8
 HIT,1f0a5,1f0ba,1f0be,1f0c7,1f0ad,1f0a1,1f0c2,1f0b3,1f0d6
 HIT,1f0bb,1f0d9,1f0da,1f0c8,1f0ad,1f0aa,1f0ab,1f0c2,1f0a6
 HIT,1f0d1,1f0d3,1f0d4,1f0a6,1f0a9,,,1f0a1,1f0b5
-STAY,1f0cb,,,,,,,1f0b1,1f0c1,1f0d5
+HIT,1f0cb,,,,,,,1f0b1,1f0c1,1f0d5
 STAY,1f0c7,1f0b3,1f0ad,1f0c5,1f0d5,,,1f0c8,1f0aa
 STAY,1f0a7,,,,,,,1f0c1,1f0d7,1f0b9
 STAY,1f0a4,1f0c4,1f0ba,,,,,1f0a3,1f0b3,1f0b9
@@ -33024,7 +33024,7 @@ STAY,1f0a1,1f0c1,1f0cd,1f0b4,1f0c6,1f0c2,1f0c4,1f0a8,1f0d9
 STAY,1f0de,1f0d2,1f0c5,1f0c4,1f0d7,,,1f0ca,1f0dd
 STAY,1f0c4,1f0b8,1f0aa,,,,,1f0da,1f0ad
 STAY,1f0b5,1f0c5,1f0ca,1f0c6,1f0ad,,,1f0d1,1f0a7,1f0a9
-STAY,1f0cd,1f0bd,1f0de,1f0b7,1f0ae,,,1f0a1,1f0c1
+HIT,1f0cd,1f0bd,1f0de,1f0b7,1f0ae,,,1f0a1,1f0c1
 STAY,1f0d5,1f0d8,1f0d9,1f0a1,1f0c7,1f0a9,1f0ad,1f0c3,1f0bb
 STAY,1f0b5,1f0d4,1f0bd,1f0aa,1f0ce,1f0c9,1f0bb,1f0a3,1f0d9
 STAY,1f0dd,,,,,,,1f0d4,1f0bd
@@ -33256,7 +33256,7 @@ STAY,1f0c1,,,,,,,1f0a1,1f0a2,1f0d3,1f0cd
 STAY,1f0b6,1f0b1,1f0ca,1f0aa,1f0ce,,,1f0a8,1f0bd
 STAY,1f0b2,1f0b9,1f0db,,,,,1f0c6,1f0ba
 STAY,1f0cd,1f0da,1f0cb,1f0b4,1f0b8,,,1f0d4,1f0a5,1f0d6
-STAY,1f0c9,1f0a4,1f0c8,1f0ae,1f0ce,1f0a6,1f0be,1f0a1,1f0b1,1f0d5
+HIT,1f0c9,1f0a4,1f0c8,1f0ae,1f0ce,1f0a6,1f0be,1f0a1,1f0b1,1f0d5
 STAY,1f0bb,1f0a3,1f0dd,,,,,1f0a1,1f0c2,1f0d3,1f0b4,1f0d7
 STAY,1f0d6,1f0d5,1f0aa,1f0a1,1f0cb,1f0c4,1f0dd,1f0a4,1f0d4,1f0c6
 STAY,1f0cd,1f0c3,1f0de,1f0d9,1f0cb,1f0a8,1f0bd,1f0d3,1f0c5,1f0be
@@ -33308,7 +33308,7 @@ STAY,1f0de,1f0b2,1f0cd,1f0aa,1f0ba,1f0c4,1f0a7,1f0d1,1f0a3,1f0ae
 STAY,1f0a5,1f0b7,1f0ba,1f0c6,1f0cd,,,1f0b1,1f0c2,1f0a4,1f0a6
 STAY,1f0d5,,,,,,,1f0b3,1f0b4,1f0d6,1f0a8
 STAY,1f0a7,1f0ca,1f0cb,1f0a8,1f0ab,1f0c5,1f0db,1f0c1,1f0d7,1f0be
-STAY,1f0db,1f0d3,1f0d5,1f0b9,1f0ae,1f0b2,1f0a5,1f0b1,1f0d1,1f0d4
+HIT,1f0db,1f0d3,1f0d5,1f0b9,1f0ae,1f0b2,1f0a5,1f0b1,1f0d1,1f0d4
 STAY,1f0a9,,,,,,,1f0c7,1f0de
 STAY,1f0c5,1f0d3,1f0a5,1f0a1,1f0ae,1f0c3,1f0d9,1f0a3,1f0b4,1f0a6
 STAY,1f0a1,1f0c6,1f0de,,,,,1f0b4,1f0ce
@@ -33644,7 +33644,7 @@ STAY,1f0b5,1f0ca,1f0db,1f0a2,1f0c7,,,1f0d2,1f0c5,1f0c9
 STAY,1f0b7,1f0b6,1f0c7,,,,,1f0a1,1f0bb,1f0ce
 HIT,1f0d2,,,,,,,1f0c3,1f0d7
 STAY,1f0b4,,,,,,,1f0c2,1f0d2,1f0c5,1f0ab
-STAY,1f0a2,1f0b3,1f0ce,1f0d4,1f0c9,,,1f0a1,1f0c1,1f0b2
+HIT,1f0a2,1f0b3,1f0ce,1f0d4,1f0c9,,,1f0a1,1f0c1,1f0b2
 STAY,1f0a5,,,,,,,1f0d1,1f0d4,1f0db
 HIT,1f0b2,1f0c2,1f0c9,1f0b8,1f0cd,1f0b4,1f0de,1f0a3,1f0d3
 STAY,1f0d4,,,,,,,1f0d6,1f0a9
@@ -33870,7 +33870,7 @@ STAY,1f0c9,,,,,,,1f0a1,1f0c7
 STAY,1f0db,1f0d3,1f0be,,,,,1f0c7,1f0ab
 STAY,1f0d6,1f0aa,1f0bb,1f0b7,1f0ca,,,1f0b1,1f0a2,1f0c6,1f0cd
 STAY,1f0d8,1f0c2,1f0ba,,,,,1f0b1,1f0d9
-STAY,1f0d2,1f0c2,1f0c4,,,,,1f0c1,1f0d1,1f0d4
+HIT,1f0d2,1f0c2,1f0c4,,,,,1f0c1,1f0d1,1f0d4
 STAY,1f0b8,,,,,,,1f0c1,1f0a2,1f0c3,1f0b5,1f0dd
 STAY,1f0c3,,,,,,,1f0a1,1f0c7,1f0d9
 HIT,1f0a8,,,,,,,1f0d2,1f0d8
@@ -34201,7 +34201,7 @@ STAY,1f0a9,1f0d3,1f0da,,,,,1f0a1,1f0d7,1f0a8
 STAY,1f0dd,,,,,,,1f0d3,1f0c9
 STAY,1f0db,1f0c9,1f0bd,1f0c4,1f0d8,1f0cd,1f0ae,1f0d5,1f0a6,1f0ca
 HIT,1f0bb,1f0d2,1f0ad,1f0b2,1f0b6,,,1f0a2,1f0c3
-STAY,1f0c9,1f0d9,1f0ae,1f0d2,1f0de,,,1f0a1,1f0c1,1f0a2,1f0a3
+HIT,1f0c9,1f0d9,1f0ae,1f0d2,1f0de,,,1f0a1,1f0c1,1f0a2,1f0a3
 STAY,1f0a2,1f0d4,1f0a8,1f0a1,1f0d1,1f0b1,1f0ce,1f0b7,1f0ae
 STAY,1f0d3,1f0d5,1f0c8,,,,,1f0a1,1f0a2,1f0d4,1f0de
 STAY,1f0b4,1f0d7,1f0be,1f0b2,1f0c7,,,1f0b1,1f0c1,1f0c2,1f0d6,1f0c8
@@ -34222,7 +34222,7 @@ STAY,1f0d8,1f0c5,1f0b6,1f0aa,1f0de,,,1f0a5,1f0ce
 STAY,1f0a4,1f0a9,1f0cb,,,,,1f0b4,1f0d6,1f0c8
 STAY,1f0b8,,,,,,,1f0c4,1f0c8
 STAY,1f0b4,,,,,,,1f0b1,1f0b9,1f0be
-STAY,1f0cb,1f0d3,1f0b4,,,,,1f0b1,1f0c1,1f0d4
+HIT,1f0cb,1f0d3,1f0b4,,,,,1f0b1,1f0c1,1f0d4
 HIT,1f0c5,1f0c2,1f0b4,1f0b8,1f0ca,,,1f0c4,1f0c6
 STAY,1f0b8,1f0b6,1f0c9,1f0b3,1f0be,1f0d6,1f0da,1f0d7,1f0aa
 STAY,1f0d1,1f0a4,1f0b9,1f0a3,1f0a9,1f0d8,1f0ae,1f0d2,1f0da
@@ -34587,7 +34587,7 @@ STAY,1f0a7,1f0c1,1f0d7,,,,,1f0c3,1f0d3,1f0c7
 STAY,1f0ba,1f0aa,1f0ce,,,,,1f0c1,1f0d4,1f0a7,1f0c8
 STAY,1f0aa,,,,,,,1f0ae,1f0ce
 STAY,1f0d2,1f0d3,1f0da,,,,,1f0c3,1f0d4,1f0d9
-STAY,1f0b4,1f0d5,1f0a6,,,,,1f0a1,1f0c1,1f0d3
+HIT,1f0b4,1f0d5,1f0a6,,,,,1f0a1,1f0c1,1f0d3
 STAY,1f0b3,1f0b2,1f0cd,1f0b1,1f0c1,,,1f0a7,1f0be
 HIT,1f0b2,,,,,,,1f0c3,1f0d5
 STAY,1f0cb,1f0b3,1f0da,1f0b2,1f0ba,,,1f0c1,1f0a4,1f0b8
@@ -35095,12 +35095,12 @@ STAY,1f0ae,,,,,,,1f0a7,1f0cd
 STAY,1f0ae,,,,,,,1f0a4,1f0b5,1f0c5,1f0b6
 STAY,1f0a7,1f0a3,1f0cd,,,,,1f0d1,1f0b3,1f0b9
 STAY,1f0b2,1f0b3,1f0bb,,,,,1f0d1,1f0b4,1f0b6,1f0a7
-STAY,1f0da,1f0b5,1f0bb,1f0b6,1f0c7,,,1f0a1,1f0d1
+HIT,1f0da,1f0b5,1f0bb,1f0b6,1f0c7,,,1f0a1,1f0d1
 STAY,1f0c7,1f0d6,1f0bb,,,,,1f0a5,1f0ab
 HIT,1f0cb,1f0dd,1f0de,1f0c9,1f0cd,1f0a5,1f0b6,1f0b3,1f0b5
 HIT,1f0bd,,,,,,,1f0a2,1f0d3,1f0b6
 STAY,1f0c7,1f0d4,1f0ca,,,,,1f0b4,1f0aa
-STAY,1f0b2,1f0aa,1f0ce,1f0d7,1f0cd,,,1f0b1,1f0d1
+HIT,1f0b2,1f0aa,1f0ce,1f0d7,1f0cd,,,1f0b1,1f0d1
 HIT,1f0d3,1f0d5,1f0ce,1f0a9,1f0d9,1f0db,1f0ae,1f0d1,1f0b5
 STAY,1f0a5,1f0c4,1f0a7,1f0ab,1f0ae,1f0a6,1f0d8,1f0a1,1f0a2,1f0da
 STAY,1f0b6,1f0b1,1f0ae,1f0c9,1f0db,,,1f0d3,1f0dd
@@ -35394,7 +35394,7 @@ STAY,1f0c6,1f0a2,1f0d9,1f0b4,1f0bb,,,1f0d1,1f0b2,1f0d2,1f0ab
 STAY,1f0c1,1f0b3,1f0c3,,,,,1f0a2,1f0a3,1f0dd
 STAY,1f0c7,1f0d3,1f0a4,1f0c8,1f0ad,1f0bb,1f0cb,1f0a1,1f0c5,1f0bd
 STAY,1f0d9,,,,,,,1f0c7,1f0a8
-STAY,1f0a7,1f0b7,1f0a9,,,,,1f0c1,1f0d1
+HIT,1f0a7,1f0b7,1f0a9,,,,,1f0c1,1f0d1
 STAY,1f0b8,,,,,,,1f0c1,1f0d5,1f0b7
 HIT,1f0a7,1f0d9,1f0aa,1f0a3,1f0be,,,1f0b1,1f0b6
 STAY,1f0b7,1f0a9,1f0de,1f0a5,1f0dd,1f0a3,1f0b9,1f0b1,1f0b4,1f0db
@@ -35544,7 +35544,7 @@ STAY,1f0c9,,,,,,,1f0a5,1f0b6,1f0d9
 STAY,1f0b9,1f0a8,1f0d8,,,,,1f0b1,1f0b6,1f0d6
 STAY,1f0be,1f0b9,1f0bd,,,,,1f0b1,1f0bb,1f0ce
 STAY,1f0aa,1f0ba,1f0dd,,,,,1f0b2,1f0b4,1f0a7,1f0b7
-STAY,1f0c3,1f0b8,1f0d9,,,,,1f0c1,1f0d1
+HIT,1f0c3,1f0b8,1f0d9,,,,,1f0c1,1f0d1
 STAY,1f0cd,1f0db,1f0be,1f0a5,1f0a7,,,1f0c4,1f0a6,1f0b9
 STAY,1f0d6,,,,,,,1f0c4,1f0a5,1f0c5
 STAY,1f0b1,,,,,,,1f0a2,1f0b4,1f0a5,1f0d6
@@ -35589,7 +35589,7 @@ STAY,1f0de,,,,,,,1f0d3,1f0a8,1f0ae
 HIT,1f0c7,1f0a2,1f0b4,,,,,1f0b2,1f0b8
 STAY,1f0b1,1f0a1,1f0b5,1f0c4,1f0b6,,,1f0d5,1f0b7
 STAY,1f0cd,,,,,,,1f0b2,1f0d5,1f0c9
-STAY,1f0aa,1f0c2,1f0b3,1f0c7,1f0dd,1f0c8,1f0da,1f0b1,1f0c1,1f0d3
+HIT,1f0aa,1f0c2,1f0b3,1f0c7,1f0dd,1f0c8,1f0da,1f0b1,1f0c1,1f0d3
 STAY,1f0d7,1f0b1,1f0a8,1f0c8,1f0d9,,,1f0c2,1f0a4,1f0b4,1f0b7
 STAY,1f0d8,1f0bb,1f0ad,,,,,1f0b6,1f0a8
 STAY,1f0c3,1f0b1,1f0c5,1f0a7,1f0cd,1f0a3,1f0d8,1f0a1,1f0c1,1f0b2,1f0a6
@@ -35618,7 +35618,7 @@ STAY,1f0be,1f0d7,1f0dd,,,,,1f0b4,1f0a9
 STAY,1f0bb,1f0c6,1f0d9,1f0d8,1f0ab,1f0b3,1f0c9,1f0c1,1f0b8
 STAY,1f0a9,1f0d2,1f0a5,1f0db,1f0cd,,,1f0a3,1f0d3,1f0c7
 STAY,1f0ae,1f0d2,1f0d6,1f0b2,1f0c5,1f0a3,1f0ca,1f0b5,1f0a8
-STAY,1f0c6,1f0d4,1f0c9,1f0a2,1f0b9,,,1f0a1,1f0d1,1f0c3
+HIT,1f0c6,1f0d4,1f0c9,1f0a2,1f0b9,,,1f0a1,1f0d1,1f0c3
 STAY,1f0de,1f0b5,1f0d9,1f0c3,1f0c9,,,1f0a6,1f0b6
 STAY,1f0cb,1f0c5,1f0cd,,,,,1f0c1,1f0b3,1f0c3,1f0ad
 STAY,1f0ba,1f0a4,1f0d4,1f0b1,1f0ad,,,1f0d2,1f0a7,1f0b8
@@ -35642,7 +35642,7 @@ STAY,1f0a3,,,,,,,1f0a2,1f0ae
 STAY,1f0c9,,,,,,,1f0d2,1f0ba
 STAY,1f0d5,1f0a8,1f0ce,1f0c7,1f0d7,,,1f0d2,1f0db
 STAY,1f0c9,,,,,,,1f0b3,1f0a8,1f0ca
-STAY,1f0dd,1f0b4,1f0a7,1f0b7,1f0c9,1f0d3,1f0c6,1f0a1,1f0b1,1f0b2
+HIT,1f0dd,1f0b4,1f0a7,1f0b7,1f0c9,1f0d3,1f0c6,1f0a1,1f0b1,1f0b2
 STAY,1f0bd,1f0d1,1f0b6,1f0c3,1f0a5,1f0d2,1f0cd,1f0da,1f0bb
 STAY,1f0d2,1f0b1,1f0c1,1f0c8,1f0aa,1f0a2,1f0dd,1f0a1,1f0d1,1f0b2,1f0a5,1f0b7
 STAY,1f0be,,,,,,,1f0b1,1f0da,1f0dd
@@ -36130,13 +36130,13 @@ STAY,1f0a3,,,,,,,1f0d8,1f0b9
 STAY,1f0a5,1f0b1,1f0a6,1f0c1,1f0d2,1f0b9,1f0aa,1f0c9,1f0bb
 STAY,1f0d8,1f0ae,1f0be,1f0b6,1f0d7,1f0aa,1f0cd,1f0b4,1f0bd
 HIT,1f0c5,1f0c4,1f0c8,1f0b7,1f0be,1f0d1,1f0bd,1f0c3,1f0b5
-STAY,1f0d2,1f0d3,1f0ca,1f0c6,1f0bd,1f0c7,1f0b9,1f0a1,1f0d1
+HIT,1f0d2,1f0d3,1f0ca,1f0c6,1f0bd,1f0c7,1f0b9,1f0a1,1f0d1
 STAY,1f0d1,,,,,,,1f0a9,1f0ad
 STAY,1f0b7,,,,,,,1f0c3,1f0a7,1f0ad
 STAY,1f0c5,1f0c4,1f0db,1f0d2,1f0a9,,,1f0c1,1f0b9
 STAY,1f0c3,1f0b9,1f0ab,,,,,1f0c5,1f0ad
 STAY,1f0c2,,,,,,,1f0b5,1f0c6,1f0a9
-STAY,1f0ca,,,,,,,1f0b1,1f0d1,1f0a2
+HIT,1f0ca,,,,,,,1f0b1,1f0d1,1f0a2
 STAY,1f0ae,1f0c5,1f0ad,1f0c4,1f0a6,1f0c1,1f0d7,1f0a4,1f0d5,1f0cd
 STAY,1f0c9,,,,,,,1f0c8,1f0cb
 STAY,1f0a1,1f0a4,1f0c5,,,,,1f0a2,1f0d2,1f0a5,1f0d7
@@ -36226,7 +36226,7 @@ STAY,1f0d3,,,,,,,1f0c4,1f0d7,1f0ca
 STAY,1f0be,1f0c5,1f0a9,,,,,1f0d4,1f0db
 STAY,1f0ce,1f0c8,1f0d9,1f0a5,1f0c9,1f0c4,1f0d5,1f0a7,1f0bd
 STAY,1f0d7,1f0d1,1f0a9,1f0aa,1f0ba,1f0c2,1f0a7,1f0d6,1f0a8
-STAY,1f0d6,1f0c5,1f0d5,,,,,1f0a1,1f0c1,1f0b2,1f0b3
+HIT,1f0d6,1f0c5,1f0d5,,,,,1f0a1,1f0c1,1f0b2,1f0b3
 STAY,1f0ae,1f0bb,1f0cd,1f0b2,1f0be,,,1f0d3,1f0cb
 STAY,1f0c2,,,,,,,1f0d1,1f0da
 STAY,1f0bd,,,,,,,1f0d1,1f0a2,1f0b2,1f0c9
@@ -36350,7 +36350,7 @@ STAY,1f0c9,1f0c3,1f0a6,1f0c7,1f0ad,,,1f0a7,1f0b9
 HIT,1f0d3,1f0d4,1f0dd,,,,,1f0c2,1f0b5
 HIT,1f0b7,1f0bd,1f0dd,1f0c5,1f0bb,1f0c9,1f0ce,1f0d1,1f0c4
 STAY,1f0b6,1f0b9,1f0ba,1f0d7,1f0c9,1f0a9,1f0ab,1f0a1,1f0c2,1f0d2,1f0c5,1f0a7
-STAY,1f0c5,1f0b4,1f0c6,1f0d1,1f0b9,,,1f0a1,1f0b1,1f0a3
+HIT,1f0c5,1f0b4,1f0c6,1f0d1,1f0b9,,,1f0a1,1f0b1,1f0a3
 STAY,1f0bb,,,,,,,1f0b8,1f0cb
 STAY,1f0d3,1f0ba,1f0de,1f0a3,1f0d9,,,1f0c1,1f0d7
 HIT,1f0ae,,,,,,,1f0d5,1f0c6
@@ -36539,7 +36539,7 @@ STAY,1f0b9,1f0c9,1f0cd,1f0bd,1f0dd,1f0d8,1f0ae,1f0c2,1f0bb
 STAY,1f0a7,1f0a6,1f0a8,1f0c8,1f0de,,,1f0d3,1f0cb
 STAY,1f0de,1f0c5,1f0a9,1f0d9,1f0ba,1f0a1,1f0d7,1f0a7,1f0ae
 STAY,1f0b2,1f0c9,1f0bd,,,,,1f0a1,1f0d1,1f0d3,1f0c6
-STAY,1f0a7,1f0d4,1f0db,,,,,1f0a1,1f0b1,1f0d3
+HIT,1f0a7,1f0d4,1f0db,,,,,1f0a1,1f0b1,1f0d3
 STAY,1f0b2,1f0c1,1f0d6,1f0c9,1f0ae,,,1f0b1,1f0d4,1f0cb
 STAY,1f0c6,,,,,,,1f0c2,1f0d8,1f0ab
 STAY,1f0c9,1f0c8,1f0ce,1f0b4,1f0d4,1f0c4,1f0b5,1f0c3,1f0d7,1f0ad
@@ -36598,7 +36598,7 @@ HIT,1f0d8,1f0c2,1f0cb,,,,,1f0c3,1f0d3,1f0c4
 STAY,1f0d4,1f0a6,1f0a7,,,,,1f0a1,1f0c2,1f0a8,1f0bd
 STAY,1f0db,,,,,,,1f0c3,1f0d4,1f0c8
 STAY,1f0ab,1f0c4,1f0a8,1f0c6,1f0d6,,,1f0d2,1f0d4,1f0ca
-STAY,1f0be,1f0d7,1f0aa,1f0a8,1f0ba,1f0d9,1f0ca,1f0b1,1f0d1,1f0b5
+HIT,1f0be,1f0d7,1f0aa,1f0a8,1f0ba,1f0d9,1f0ca,1f0b1,1f0d1,1f0b5
 HIT,1f0ad,1f0c1,1f0c9,,,,,1f0a1,1f0d6
 STAY,1f0b8,1f0d2,1f0cb,1f0c1,1f0b9,1f0a5,1f0dd,1f0d3,1f0cd
 STAY,1f0d3,1f0c4,1f0d4,,,,,1f0a4,1f0c8,1f0d9
@@ -36614,7 +36614,7 @@ HIT,1f0c1,1f0ca,1f0bd,1f0c7,1f0ab,,,1f0d2,1f0b5
 STAY,1f0dd,1f0b3,1f0c8,1f0c5,1f0cb,,,1f0c4,1f0ae
 STAY,1f0cb,1f0d1,1f0b7,1f0d2,1f0dd,1f0a4,1f0db,1f0b1,1f0a3,1f0b4,1f0c6
 STAY,1f0a9,,,,,,,1f0c4,1f0c8
-STAY,1f0db,,,,,,,1f0b1,1f0c1,1f0b5
+HIT,1f0db,,,,,,,1f0b1,1f0c1,1f0b5
 STAY,1f0b4,1f0d4,1f0ad,1f0aa,1f0de,,,1f0a1,1f0d1,1f0a2,1f0a5,1f0bd
 STAY,1f0d6,1f0a3,1f0bb,1f0da,1f0dd,,,1f0b1,1f0ad
 STAY,1f0a4,1f0a1,1f0be,1f0b1,1f0b6,,,1f0a2,1f0b4,1f0ae
@@ -37112,7 +37112,7 @@ STAY,1f0ae,1f0c6,1f0dd,1f0a5,1f0be,1f0c3,1f0d6,1f0b6,1f0c7
 STAY,1f0c8,,,,,,,1f0b6,1f0de
 STAY,1f0b8,1f0a9,1f0ab,1f0c1,1f0ba,1f0d4,1f0d7,1f0b2,1f0a5,1f0b7
 STAY,1f0b3,1f0a6,1f0ae,,,,,1f0d1,1f0d2,1f0a8,1f0da
-STAY,1f0c2,1f0c7,1f0aa,,,,,1f0c1,1f0d1
+HIT,1f0c2,1f0c7,1f0aa,,,,,1f0c1,1f0d1
 STAY,1f0a2,1f0c6,1f0a7,1f0a6,1f0ca,,,1f0c1,1f0c3,1f0d5,1f0b9
 STAY,1f0ab,,,,,,,1f0c1,1f0d6,1f0be
 STAY,1f0a7,1f0b5,1f0d7,1f0d6,1f0d9,1f0d3,1f0ca,1f0a2,1f0c4,1f0c7
@@ -37233,7 +37233,7 @@ STAY,1f0c3,1f0a5,1f0ca,1f0a6,1f0ba,,,1f0b2,1f0a7,1f0dd
 STAY,1f0d3,1f0a6,1f0d8,1f0d1,1f0b5,1f0a1,1f0c5,1f0c1,1f0a7,1f0a9
 STAY,1f0bb,1f0a5,1f0da,1f0c2,1f0a6,,,1f0a1,1f0ce
 STAY,1f0c8,1f0a2,1f0b7,1f0ad,1f0ce,1f0d6,1f0a8,1f0d2,1f0c7,1f0aa
-STAY,1f0c2,1f0a2,1f0da,,,,,1f0c1,1f0d1,1f0c3
+HIT,1f0c2,1f0a2,1f0da,,,,,1f0c1,1f0d1,1f0c3
 HIT,1f0da,1f0b2,1f0db,,,,,1f0c3,1f0b4
 STAY,1f0d7,1f0ab,1f0dd,,,,,1f0b3,1f0ba
 STAY,1f0c2,1f0a3,1f0aa,,,,,1f0b1,1f0d4,1f0bd
@@ -37548,7 +37548,7 @@ STAY,1f0b4,1f0d5,1f0d8,1f0b7,1f0bb,1f0c7,1f0d7,1f0ca,1f0de
 STAY,1f0a1,,,,,,,1f0d1,1f0aa
 STAY,1f0ba,1f0d4,1f0a7,1f0aa,1f0dd,1f0c9,1f0ad,1f0b1,1f0d2,1f0c3,1f0cd
 STAY,1f0ca,,,,,,,1f0c3,1f0c6,1f0a9
-STAY,1f0bb,1f0a9,1f0ce,,,,,1f0a1,1f0c1,1f0c3
+HIT,1f0bb,1f0a9,1f0ce,,,,,1f0a1,1f0c1,1f0c3
 STAY,1f0d5,1f0c8,1f0a9,1f0d1,1f0a3,,,1f0aa,1f0ae
 STAY,1f0da,1f0d1,1f0c5,1f0bb,1f0ae,,,1f0a4,1f0db
 STAY,1f0ae,1f0b6,1f0da,1f0b1,1f0cb,,,1f0aa,1f0cd
@@ -37723,7 +37723,7 @@ STAY,1f0ae,1f0c2,1f0b9,,,,,1f0a1,1f0cb
 STAY,1f0d2,,,,,,,1f0c3,1f0b6,1f0be
 STAY,1f0bb,1f0a2,1f0ad,1f0d8,1f0ca,1f0c7,1f0bd,1f0a3,1f0da
 STAY,1f0c8,1f0d2,1f0a4,1f0c5,1f0c7,1f0c1,1f0b4,1f0c2,1f0db
-STAY,1f0d1,1f0c3,1f0cb,,,,,1f0a1,1f0c1,1f0a2
+HIT,1f0d1,1f0c3,1f0cb,,,,,1f0a1,1f0c1,1f0a2
 STAY,1f0b7,,,,,,,1f0c4,1f0ab
 STAY,1f0d6,1f0b9,1f0de,1f0a3,1f0aa,1f0c3,1f0ab,1f0a1,1f0d2,1f0ca
 STAY,1f0d2,1f0d7,1f0aa,1f0a1,1f0d6,,,1f0c1,1f0da
@@ -37927,7 +37927,7 @@ HIT,1f0a3,,,,,,,1f0d1,1f0b2
 STAY,1f0a8,1f0a2,1f0d2,1f0c5,1f0ad,,,1f0d6,1f0d8
 STAY,1f0b6,1f0c3,1f0c6,,,,,1f0c2,1f0d2,1f0b3,1f0a9
 STAY,1f0c1,1f0ae,1f0de,,,,,1f0d2,1f0c3,1f0d4,1f0c7
-STAY,1f0ce,1f0b6,1f0b8,,,,,1f0c1,1f0d1,1f0d2,1f0c3
+HIT,1f0ce,1f0b6,1f0b8,,,,,1f0c1,1f0d1,1f0d2,1f0c3
 STAY,1f0a6,1f0b5,1f0c5,1f0a3,1f0ba,,,1f0c8,1f0db
 STAY,1f0b4,,,,,,,1f0b2,1f0b5,1f0cd
 STAY,1f0db,1f0bd,1f0ce,1f0a2,1f0b2,,,1f0d9,1f0ca
@@ -37985,7 +37985,7 @@ STAY,1f0c2,1f0d4,1f0d7,,,,,1f0d2,1f0b3,1f0b7
 HIT,1f0a3,1f0d7,1f0bb,1f0c6,1f0be,1f0a2,1f0db,1f0a4,1f0b7
 STAY,1f0db,1f0c1,1f0ae,1f0a3,1f0d5,,,1f0b4,1f0d8
 STAY,1f0c8,,,,,,,1f0b4,1f0b6,1f0ae
-STAY,1f0aa,,,,,,,1f0b1,1f0c1
+HIT,1f0aa,,,,,,,1f0b1,1f0c1
 STAY,1f0db,,,,,,,1f0b5,1f0c5,1f0a7
 STAY,1f0d4,1f0db,1f0cd,1f0c9,1f0bb,1f0ba,1f0da,1f0d9,1f0de
 HIT,1f0b5,,,,,,,1f0d1,1f0c2
@@ -38121,7 +38121,7 @@ STAY,1f0bd,1f0b5,1f0d9,1f0da,1f0de,,,1f0c2,1f0ba
 STAY,1f0a3,1f0da,1f0ae,1f0b1,1f0aa,1f0c3,1f0a9,1f0d4,1f0c9
 STAY,1f0aa,,,,,,,1f0c8,1f0ba
 STAY,1f0db,,,,,,,1f0a1,1f0b3,1f0d4,1f0c5
-STAY,1f0a4,1f0c3,1f0d8,1f0d6,1f0bb,1f0a8,1f0ab,1f0a1,1f0b1,1f0d5
+HIT,1f0a4,1f0c3,1f0d8,1f0d6,1f0bb,1f0a8,1f0ab,1f0a1,1f0b1,1f0d5
 STAY,1f0b4,1f0d7,1f0c9,1f0c1,1f0db,1f0c5,1f0cb,1f0c3,1f0a6,1f0da
 STAY,1f0da,1f0b5,1f0bb,,,,,1f0a2,1f0c3,1f0c8
 HIT,1f0ab,1f0b5,1f0a6,,,,,1f0a1,1f0d6
@@ -38209,7 +38209,7 @@ STAY,1f0c1,1f0ae,1f0de,1f0b9,1f0db,1f0d4,1f0c6,1f0c4,1f0c7,1f0d9
 STAY,1f0a8,1f0b5,1f0d8,1f0da,1f0ab,1f0c3,1f0dd,1f0b1,1f0a9
 STAY,1f0c1,,,,,,,1f0b4,1f0c4,1f0d5,1f0c6
 STAY,1f0d3,,,,,,,1f0ba,1f0db
-STAY,1f0ce,1f0b4,1f0c4,,,,,1f0b1,1f0d1,1f0b5
+HIT,1f0ce,1f0b4,1f0c4,,,,,1f0b1,1f0d1,1f0b5
 STAY,1f0b8,1f0d1,1f0c3,1f0c8,1f0ce,,,1f0b3,1f0c5,1f0a6,1f0c7
 STAY,1f0c2,1f0a4,1f0cd,1f0aa,1f0bb,1f0b2,1f0d3,1f0b3,1f0c6,1f0be
 STAY,1f0ab,1f0c8,1f0aa,,,,,1f0b2,1f0d2,1f0d7,1f0da
@@ -38267,7 +38267,7 @@ STAY,1f0b9,,,,,,,1f0c3,1f0dd
 STAY,1f0c7,,,,,,,1f0c8,1f0ae
 HIT,1f0a1,1f0b8,1f0d9,1f0cb,1f0de,1f0a7,1f0b9,1f0a2,1f0d5
 HIT,1f0de,1f0a2,1f0b2,1f0ca,1f0cb,1f0a4,1f0cd,1f0d2,1f0a9
-STAY,1f0cd,1f0b9,1f0ad,1f0b3,1f0be,,,1f0b1,1f0c1
+HIT,1f0cd,1f0b9,1f0ad,1f0b3,1f0be,,,1f0b1,1f0c1
 STAY,1f0b5,,,,,,,1f0c4,1f0db
 STAY,1f0b9,1f0c5,1f0d9,1f0a1,1f0a7,1f0d4,1f0db,1f0c2,1f0b4,1f0d7
 HIT,1f0b4,1f0a1,1f0c4,,,,,1f0a2,1f0a5
@@ -38557,7 +38557,7 @@ STAY,1f0c8,1f0b3,1f0b7,1f0b9,1f0ca,,,1f0d5,1f0c7
 STAY,1f0de,1f0b1,1f0b5,1f0a2,1f0ba,1f0a7,1f0b7,1f0b2,1f0c5,1f0b6
 HIT,1f0b6,1f0cd,1f0ce,1f0c7,1f0c8,1f0b4,1f0b9,1f0a3,1f0a4
 STAY,1f0b6,1f0d4,1f0c5,1f0c8,1f0c9,1f0b2,1f0a3,1f0c3,1f0ca
-STAY,1f0de,1f0a4,1f0d4,,,,,1f0b1,1f0d1,1f0c4
+HIT,1f0de,1f0a4,1f0d4,,,,,1f0b1,1f0d1,1f0c4
 STAY,1f0a5,,,,,,,1f0a1,1f0d1,1f0a2,1f0d3,1f0b8
 STAY,1f0b9,1f0d9,1f0cb,1f0c7,1f0be,1f0b3,1f0c6,1f0d2,1f0b7,1f0d8
 STAY,1f0aa,1f0c8,1f0bd,1f0b3,1f0a9,,,1f0b2,1f0d7,1f0ce
@@ -38699,7 +38699,7 @@ STAY,1f0b2,1f0d7,1f0bd,,,,,1f0a3,1f0a4,1f0ba
 HIT,1f0c2,1f0c6,1f0ad,1f0c4,1f0cd,1f0dd,1f0ce,1f0d5,1f0d6
 STAY,1f0de,1f0ca,1f0cd,1f0b5,1f0c7,,,1f0a8,1f0db
 HIT,1f0b3,1f0b4,1f0c5,1f0d6,1f0a7,1f0b2,1f0d7,1f0a4,1f0a6
-STAY,1f0a6,1f0d3,1f0ba,,,,,1f0c1,1f0d1
+HIT,1f0a6,1f0d3,1f0ba,,,,,1f0c1,1f0d1
 STAY,1f0cb,,,,,,,1f0d9,1f0ba
 STAY,1f0c6,1f0a7,1f0da,,,,,1f0c1,1f0a3,1f0c9
 HIT,1f0c7,1f0d3,1f0cb,1f0a4,1f0aa,1f0d7,1f0ce,1f0a1,1f0b2
@@ -38723,11 +38723,11 @@ HIT,1f0de,1f0c5,1f0ad,,,,,1f0d3,1f0d4
 HIT,1f0b8,,,,,,,1f0d2,1f0a3,1f0c5
 HIT,1f0c8,1f0bb,1f0de,1f0a6,1f0b9,1f0c4,1f0a7,1f0a3,1f0c6
 STAY,1f0c9,,,,,,,1f0a3,1f0b7,1f0a8
-STAY,1f0c4,,,,,,,1f0a1,1f0b1
+HIT,1f0c4,,,,,,,1f0a1,1f0b1
 STAY,1f0c4,1f0a4,1f0b8,,,,,1f0b1,1f0b3,1f0cd
 STAY,1f0ba,1f0c2,1f0c4,1f0a9,1f0ad,1f0c3,1f0ce,1f0a5,1f0bb
 STAY,1f0d8,1f0b1,1f0b3,,,,,1f0d3,1f0da
-STAY,1f0b3,1f0c5,1f0d5,1f0c8,1f0ab,1f0b2,1f0c6,1f0a1,1f0b1
+HIT,1f0b3,1f0c5,1f0d5,1f0c8,1f0ab,1f0b2,1f0c6,1f0a1,1f0b1
 HIT,1f0b8,,,,,,,1f0b2,1f0c3
 STAY,1f0a7,1f0ab,1f0cb,,,,,1f0b1,1f0d1,1f0b4,1f0d5,1f0c8
 HIT,1f0ad,1f0a8,1f0d9,1f0d5,1f0b8,1f0b9,1f0cd,1f0d4,1f0a6
@@ -38828,7 +38828,7 @@ STAY,1f0d3,,,,,,,1f0d2,1f0b6,1f0a7
 STAY,1f0c7,,,,,,,1f0d1,1f0c2,1f0c4,1f0be
 HIT,1f0db,,,,,,,1f0c5,1f0b6
 HIT,1f0de,,,,,,,1f0c4,1f0c7
-STAY,1f0b6,1f0a9,1f0de,1f0c3,1f0b8,1f0d8,1f0c9,1f0a1,1f0b1,1f0a2
+HIT,1f0b6,1f0a9,1f0de,1f0c3,1f0b8,1f0d8,1f0c9,1f0a1,1f0b1,1f0a2
 STAY,1f0a9,1f0a2,1f0be,1f0d1,1f0c9,,,1f0d4,1f0a5,1f0b5
 STAY,1f0ad,1f0a1,1f0b5,1f0a7,1f0de,1f0b4,1f0c8,1f0b8,1f0aa
 HIT,1f0ae,,,,,,,1f0c3,1f0d6
@@ -39060,7 +39060,7 @@ STAY,1f0ae,1f0d6,1f0ad,,,,,1f0c4,1f0a5,1f0d7
 STAY,1f0a9,1f0c2,1f0d6,,,,,1f0a2,1f0c3,1f0be
 STAY,1f0b5,1f0c5,1f0c8,,,,,1f0a2,1f0b6,1f0d8
 STAY,1f0c3,1f0b4,1f0bd,1f0a3,1f0c9,1f0d4,1f0de,1f0d1,1f0cb
-STAY,1f0a9,1f0a5,1f0b6,,,,,1f0a1,1f0d1,1f0b2
+HIT,1f0a9,1f0a5,1f0b6,,,,,1f0a1,1f0d1,1f0b2
 STAY,1f0a8,1f0c8,1f0ab,,,,,1f0c1,1f0a2,1f0b4,1f0ce
 STAY,1f0be,1f0d6,1f0d7,1f0d1,1f0b2,,,1f0a8,1f0c9
 STAY,1f0a7,1f0a6,1f0cb,1f0c3,1f0aa,,,1f0a1,1f0a3,1f0ad
@@ -39107,7 +39107,7 @@ STAY,1f0ca,1f0b3,1f0ad,1f0d7,1f0cb,,,1f0b9,1f0bb
 STAY,1f0b2,1f0c8,1f0c9,1f0a3,1f0bd,,,1f0d4,1f0da
 STAY,1f0cd,,,,,,,1f0c9,1f0ce
 STAY,1f0a8,1f0c7,1f0c9,,,,,1f0aa,1f0dd
-STAY,1f0c4,1f0a1,1f0a4,1f0c6,1f0c7,1f0bb,1f0bd,1f0b1,1f0d1,1f0d3
+HIT,1f0c4,1f0a1,1f0a4,1f0c6,1f0c7,1f0bb,1f0bd,1f0b1,1f0d1,1f0d3
 HIT,1f0ae,1f0b9,1f0cb,,,,,1f0c1,1f0d4
 STAY,1f0a2,,,,,,,1f0b4,1f0c6,1f0a7
 STAY,1f0a2,,,,,,,1f0c2,1f0a4,1f0b9
@@ -39117,7 +39117,7 @@ STAY,1f0ae,1f0b1,1f0c8,1f0b2,1f0cd,1f0b8,1f0d9,1f0a2,1f0a5,1f0ca
 STAY,1f0b1,1f0c4,1f0cb,,,,,1f0a6,1f0bb
 STAY,1f0a9,1f0d9,1f0da,1f0c2,1f0d2,,,1f0ae,1f0de
 STAY,1f0c7,1f0d9,1f0cd,,,,,1f0d3,1f0d4,1f0d5,1f0a7
-STAY,1f0a9,,,,,,,1f0c1,1f0d1
+HIT,1f0a9,,,,,,,1f0c1,1f0d1
 HIT,1f0b4,,,,,,,1f0d4,1f0a6
 STAY,1f0c5,1f0a1,1f0d3,,,,,1f0b4,1f0ae
 STAY,1f0b2,1f0b3,1f0c9,,,,,1f0a1,1f0d3,1f0d7,1f0a9
@@ -39139,7 +39139,7 @@ STAY,1f0bb,1f0c9,1f0cb,1f0b6,1f0b9,,,1f0c1,1f0c6,1f0d9
 STAY,1f0b2,1f0d2,1f0a9,,,,,1f0c1,1f0d9
 STAY,1f0aa,1f0d1,1f0d7,1f0c5,1f0da,,,1f0c3,1f0c7,1f0a9
 STAY,1f0d5,1f0a3,1f0bd,1f0d6,1f0da,1f0d2,1f0b5,1f0c3,1f0ce
-STAY,1f0bb,1f0a7,1f0db,1f0a2,1f0d6,,,1f0b1,1f0d1
+HIT,1f0bb,1f0a7,1f0db,1f0a2,1f0d6,,,1f0b1,1f0d1
 STAY,1f0a3,1f0ad,1f0bd,1f0b1,1f0da,,,1f0c6,1f0a8
 STAY,1f0ab,,,,,,,1f0d1,1f0da,1f0ce
 HIT,1f0b6,,,,,,,1f0d1,1f0a3
@@ -39549,7 +39549,7 @@ STAY,1f0c5,1f0d6,1f0ae,1f0b3,1f0d5,,,1f0d1,1f0a3,1f0ba
 STAY,1f0a2,,,,,,,1f0a3,1f0bb
 STAY,1f0d5,1f0b2,1f0de,1f0d4,1f0b7,1f0c4,1f0b9,1f0d2,1f0c6,1f0a8
 STAY,1f0b4,1f0c8,1f0cd,1f0c6,1f0ba,,,1f0aa,1f0be
-STAY,1f0cd,1f0d7,1f0a8,1f0b3,1f0bd,1f0d2,1f0c5,1f0b1,1f0d1
+HIT,1f0cd,1f0d7,1f0a8,1f0b3,1f0bd,1f0d2,1f0c5,1f0b1,1f0d1
 HIT,1f0c2,1f0b4,1f0c8,,,,,1f0c3,1f0d8
 STAY,1f0b8,1f0d3,1f0c7,1f0bb,1f0dd,,,1f0c2,1f0c3,1f0ce
 STAY,1f0aa,1f0c5,1f0ba,,,,,1f0c2,1f0b9,1f0dd
@@ -39619,7 +39619,7 @@ STAY,1f0a2,1f0b2,1f0a7,,,,,1f0d9,1f0db
 STAY,1f0a5,1f0a3,1f0d6,1f0a2,1f0ad,1f0c2,1f0cb,1f0b4,1f0c6,1f0de
 STAY,1f0a1,1f0b1,1f0c2,1f0b3,1f0b6,1f0a2,1f0b2,1f0d3,1f0d7,1f0b9
 STAY,1f0db,1f0b8,1f0cd,1f0b5,1f0a8,1f0d6,1f0de,1f0c1,1f0c6,1f0ba
-STAY,1f0d4,1f0c4,1f0a9,1f0b9,1f0c9,,,1f0a1,1f0b1
+HIT,1f0d4,1f0c4,1f0a9,1f0b9,1f0c9,,,1f0a1,1f0b1
 STAY,1f0d4,1f0ba,1f0bd,1f0c3,1f0d9,1f0c1,1f0de,1f0a4,1f0dd
 STAY,1f0d8,,,,,,,1f0d1,1f0d7,1f0d9
 STAY,1f0aa,1f0a4,1f0c4,1f0a3,1f0d3,,,1f0a5,1f0c5,1f0d9
@@ -39686,7 +39686,7 @@ STAY,1f0c5,1f0d2,1f0b5,1f0b7,1f0dd,,,1f0b1,1f0b3,1f0a5,1f0ba
 STAY,1f0d6,1f0a8,1f0a9,,,,,1f0a1,1f0b2,1f0c3,1f0b5
 STAY,1f0ad,1f0db,1f0be,,,,,1f0b1,1f0d1,1f0c3,1f0d4,1f0aa
 STAY,1f0c8,1f0b3,1f0b5,,,,,1f0db,1f0be
-STAY,1f0c2,1f0a4,1f0d9,1f0c5,1f0c7,,,1f0c1,1f0d1
+HIT,1f0c2,1f0a4,1f0d9,1f0c5,1f0c7,,,1f0c1,1f0d1
 STAY,1f0c1,,,,,,,1f0a2,1f0b8,1f0ad
 STAY,1f0c4,1f0b4,1f0d6,1f0c3,1f0d8,1f0ba,1f0db,1f0d2,1f0a3,1f0a4,1f0b7
 STAY,1f0de,,,,,,,1f0c5,1f0b8
@@ -39853,7 +39853,7 @@ STAY,1f0ba,1f0a1,1f0b2,,,,,1f0a6,1f0d6
 STAY,1f0a3,1f0a2,1f0db,,,,,1f0d4,1f0a7,1f0a8
 HIT,1f0c2,1f0b2,1f0c5,,,,,1f0a1,1f0d4
 HIT,1f0ba,,,,,,,1f0b3,1f0a8
-STAY,1f0d2,1f0c5,1f0be,1f0d9,1f0db,,,1f0a1,1f0c1
+HIT,1f0d2,1f0c5,1f0be,1f0d9,1f0db,,,1f0a1,1f0c1
 STAY,1f0bd,,,,,,,1f0c4,1f0ba
 STAY,1f0c9,,,,,,,1f0b2,1f0c2,1f0a3,1f0a4,1f0aa
 STAY,1f0b1,1f0d7,1f0ae,1f0be,1f0de,,,1f0c1,1f0cd
@@ -39866,7 +39866,7 @@ STAY,1f0c9,,,,,,,1f0c3,1f0b7,1f0ab
 STAY,1f0ca,1f0b4,1f0a6,1f0c8,1f0cd,,,1f0a1,1f0a3,1f0d4,1f0d6
 STAY,1f0b2,1f0b1,1f0b7,,,,,1f0c7,1f0b8
 HIT,1f0b7,1f0ab,1f0cd,1f0a5,1f0a8,,,1f0c2,1f0c4
-STAY,1f0b2,1f0c5,1f0a9,1f0c8,1f0d9,1f0d3,1f0cd,1f0c1,1f0d1
+HIT,1f0b2,1f0c5,1f0a9,1f0c8,1f0d9,1f0d3,1f0cd,1f0c1,1f0d1
 STAY,1f0c2,1f0b2,1f0de,,,,,1f0c5,1f0ca
 STAY,1f0c2,1f0a3,1f0b6,1f0a4,1f0aa,1f0b8,1f0cd,1f0b1,1f0d1,1f0de
 HIT,1f0db,1f0c7,1f0ca,1f0b3,1f0a5,1f0c8,1f0a9,1f0c3,1f0a4
@@ -39925,7 +39925,7 @@ STAY,1f0a7,1f0c5,1f0d5,1f0a2,1f0cd,,,1f0b1,1f0db
 STAY,1f0a3,1f0b5,1f0cb,1f0a2,1f0ae,,,1f0c1,1f0d1,1f0c4,1f0d4
 STAY,1f0ca,1f0a3,1f0c3,1f0c8,1f0ba,1f0d9,1f0aa,1f0d1,1f0a5,1f0b5
 STAY,1f0ba,1f0b4,1f0a5,1f0d3,1f0c9,,,1f0cb,1f0ae
-STAY,1f0c2,1f0a2,1f0a3,1f0b3,1f0db,1f0b4,1f0bd,1f0a1,1f0d1
+HIT,1f0c2,1f0a2,1f0a3,1f0b3,1f0db,1f0b4,1f0bd,1f0a1,1f0d1
 STAY,1f0ad,1f0c4,1f0d6,1f0d2,1f0b3,,,1f0d5,1f0ca
 STAY,1f0c5,1f0d3,1f0ab,1f0d4,1f0a7,,,1f0c1,1f0c2,1f0b9
 STAY,1f0c4,,,,,,,1f0a4,1f0b7,1f0d9
@@ -39993,7 +39993,7 @@ STAY,1f0a5,1f0c2,1f0db,1f0a4,1f0b9,,,1f0a2,1f0c4,1f0b8
 HIT,1f0d3,1f0b1,1f0ab,1f0b8,1f0d8,,,1f0c2,1f0a5
 STAY,1f0d1,1f0b2,1f0d7,1f0d6,1f0b7,,,1f0b4,1f0ab
 STAY,1f0a4,1f0a2,1f0c9,1f0a3,1f0b3,1f0c3,1f0ab,1f0d4,1f0aa
-STAY,1f0cb,1f0b1,1f0c9,1f0b5,1f0dd,1f0ab,1f0ad,1f0a1,1f0c1
+HIT,1f0cb,1f0b1,1f0c9,1f0b5,1f0dd,1f0ab,1f0ad,1f0a1,1f0c1
 STAY,1f0b8,1f0bd,1f0ae,1f0c1,1f0a2,,,1f0a1,1f0b1,1f0c7
 STAY,1f0c9,1f0a2,1f0cb,1f0b8,1f0db,1f0ca,1f0ae,1f0d4,1f0d6,1f0cd
 STAY,1f0c3,1f0b7,1f0cd,1f0d5,1f0ce,,,1f0c9,1f0ca
@@ -40089,7 +40089,7 @@ STAY,1f0d4,1f0dd,1f0be,1f0b1,1f0b8,,,1f0a1,1f0a4,1f0ba
 STAY,1f0b7,,,,,,,1f0b4,1f0ca
 STAY,1f0db,1f0a5,1f0a7,,,,,1f0b1,1f0c5,1f0d6
 STAY,1f0a5,1f0d1,1f0be,1f0a3,1f0cd,1f0c4,1f0ab,1f0a1,1f0c1,1f0d9
-STAY,1f0b2,,,,,,,1f0a1,1f0d1
+HIT,1f0b2,,,,,,,1f0a1,1f0d1
 HIT,1f0c4,,,,,,,1f0d3,1f0d8
 STAY,1f0a7,1f0b1,1f0a5,1f0c7,1f0ad,,,1f0c1,1f0ce
 STAY,1f0c5,,,,,,,1f0d4,1f0b5,1f0c9
@@ -40531,7 +40531,7 @@ HIT,1f0d6,,,,,,,1f0a3,1f0a8
 STAY,1f0c1,1f0bd,1f0be,1f0b5,1f0c7,1f0c5,1f0b6,1f0a1,1f0a5,1f0b9
 STAY,1f0d5,,,,,,,1f0c4,1f0ce
 STAY,1f0a4,1f0c2,1f0c5,,,,,1f0d7,1f0de
-STAY,1f0c2,1f0c4,1f0a6,,,,,1f0a1,1f0b1,1f0a3
+HIT,1f0c2,1f0c4,1f0a6,,,,,1f0a1,1f0b1,1f0a3
 STAY,1f0c2,,,,,,,1f0c1,1f0a2,1f0b4,1f0c9
 STAY,1f0c9,1f0a3,1f0cb,,,,,1f0d1,1f0c4,1f0d7,1f0a9
 STAY,1f0d2,1f0da,1f0de,1f0c9,1f0ae,,,1f0c2,1f0d3,1f0db
@@ -40622,7 +40622,7 @@ STAY,1f0a9,,,,,,,1f0b3,1f0c6,1f0bb
 HIT,1f0da,1f0a2,1f0d9,1f0c8,1f0cb,1f0d3,1f0d8,1f0d4,1f0d5
 STAY,1f0c4,1f0d5,1f0bb,1f0b8,1f0ce,1f0a4,1f0de,1f0b1,1f0d4,1f0be
 STAY,1f0c2,,,,,,,1f0a6,1f0c8
-STAY,1f0c4,1f0d2,1f0c7,1f0b5,1f0ba,1f0c6,1f0c8,1f0c1,1f0d1
+HIT,1f0c4,1f0d2,1f0c7,1f0b5,1f0ba,1f0c6,1f0c8,1f0c1,1f0d1
 STAY,1f0d6,1f0d9,1f0aa,1f0c1,1f0a2,1f0d2,1f0ba,1f0b2,1f0d4,1f0c5,1f0b6
 STAY,1f0c5,1f0a6,1f0ab,,,,,1f0d2,1f0b7,1f0dd
 STAY,1f0c6,,,,,,,1f0d1,1f0d2,1f0b3,1f0c4,1f0ca
@@ -40700,7 +40700,7 @@ STAY,1f0d9,1f0b3,1f0ce,,,,,1f0c6,1f0d8
 STAY,1f0b1,,,,,,,1f0c1,1f0d3,1f0b4
 STAY,1f0d1,1f0dd,1f0be,,,,,1f0a8,1f0bd
 STAY,1f0a3,1f0b1,1f0b7,1f0a6,1f0c6,,,1f0d1,1f0b2,1f0b3,1f0b4
-STAY,1f0d5,,,,,,,1f0a1,1f0d1,1f0b2
+HIT,1f0d5,,,,,,,1f0a1,1f0d1,1f0b2
 STAY,1f0c6,1f0c1,1f0ae,1f0d2,1f0bb,1f0d1,1f0d7,1f0d5,1f0d6,1f0bd
 HIT,1f0d9,,,,,,,1f0b2,1f0b9
 STAY,1f0d6,,,,,,,1f0c1,1f0a6,1f0be
@@ -40780,7 +40780,7 @@ HIT,1f0b7,1f0c9,1f0da,1f0db,1f0bd,1f0c3,1f0ab,1f0a4,1f0a7
 STAY,1f0a8,1f0a3,1f0bb,1f0b8,1f0c9,,,1f0b3,1f0c4,1f0a7,1f0c7
 STAY,1f0b9,,,,,,,1f0c4,1f0de
 STAY,1f0cb,1f0a5,1f0c5,1f0b1,1f0c6,,,1f0b2,1f0d2,1f0d7,1f0c9
-STAY,1f0b6,1f0b2,1f0d9,,,,,1f0b1,1f0c1,1f0d4
+HIT,1f0b6,1f0b2,1f0d9,,,,,1f0b1,1f0c1,1f0d4
 STAY,1f0a9,1f0a1,1f0a3,1f0a2,1f0c9,1f0ad,1f0de,1f0b1,1f0c8
 STAY,1f0cd,,,,,,,1f0a7,1f0dd
 HIT,1f0a4,1f0b3,1f0a6,1f0c6,1f0b9,,,1f0b2,1f0d7
@@ -41162,7 +41162,7 @@ STAY,1f0bd,1f0a2,1f0ab,,,,,1f0ba,1f0bb
 STAY,1f0d5,1f0b3,1f0db,1f0c9,1f0ca,,,1f0c1,1f0ce
 STAY,1f0cb,1f0a9,1f0ce,1f0a1,1f0da,,,1f0d5,1f0c6,1f0b8
 STAY,1f0d3,,,,,,,1f0a2,1f0b2,1f0a5,1f0b5
-STAY,1f0be,1f0b4,1f0b5,1f0a4,1f0ce,,,1f0b1,1f0c1,1f0c2
+HIT,1f0be,1f0b4,1f0b5,1f0a4,1f0ce,,,1f0b1,1f0c1,1f0c2
 STAY,1f0da,1f0ca,1f0bd,,,,,1f0d5,1f0b6,1f0c7
 STAY,1f0d9,1f0d4,1f0aa,,,,,1f0c5,1f0d7
 STAY,1f0a2,1f0c3,1f0c9,1f0d3,1f0be,,,1f0a1,1f0d2,1f0a9
@@ -41541,7 +41541,7 @@ STAY,1f0c3,1f0b5,1f0be,,,,,1f0c1,1f0b2,1f0a8
 STAY,1f0ad,1f0aa,1f0cd,,,,,1f0d5,1f0d9
 STAY,1f0b3,1f0a1,1f0c6,1f0c4,1f0aa,,,1f0d4,1f0b9
 STAY,1f0b4,1f0b2,1f0db,1f0c9,1f0bb,1f0d8,1f0cd,1f0c1,1f0a4,1f0d6,1f0ca
-STAY,1f0d8,1f0c4,1f0b8,,,,,1f0a1,1f0c1
+HIT,1f0d8,1f0c4,1f0b8,,,,,1f0a1,1f0c1
 STAY,1f0d9,,,,,,,1f0b2,1f0b9,1f0ca
 STAY,1f0ab,1f0b2,1f0b5,,,,,1f0c9,1f0aa
 STAY,1f0cb,1f0d5,1f0db,1f0a4,1f0a7,1f0c6,1f0a9,1f0b2,1f0bd
@@ -41573,7 +41573,7 @@ HIT,1f0d2,1f0a5,1f0de,1f0c5,1f0da,1f0db,1f0cd,1f0d1,1f0a4
 HIT,1f0c5,1f0b8,1f0ba,,,,,1f0a1,1f0a3
 STAY,1f0c1,1f0d4,1f0b6,1f0a7,1f0a8,,,1f0d1,1f0d7,1f0bd
 HIT,1f0a8,,,,,,,1f0a2,1f0d2,1f0c7
-STAY,1f0d7,,,,,,,1f0c1,1f0d1,1f0a4
+HIT,1f0d7,,,,,,,1f0c1,1f0d1,1f0a4
 HIT,1f0cb,1f0a3,1f0d3,1f0a6,1f0c8,,,1f0a2,1f0c3,1f0a4
 STAY,1f0a6,1f0a2,1f0c9,1f0a5,1f0ab,1f0d7,1f0ce,1f0c5,1f0d6,1f0a8
 STAY,1f0a3,,,,,,,1f0d9,1f0ce
@@ -41811,7 +41811,7 @@ STAY,1f0ca,1f0a6,1f0bb,1f0a4,1f0d7,,,1f0b1,1f0c6,1f0bd
 STAY,1f0c4,1f0d1,1f0ab,,,,,1f0a5,1f0ca
 STAY,1f0b9,,,,,,,1f0c5,1f0bd
 STAY,1f0da,,,,,,,1f0c3,1f0a6,1f0ca
-STAY,1f0de,1f0c8,1f0ce,1f0c3,1f0a9,,,1f0a1,1f0c1,1f0b4
+HIT,1f0de,1f0c8,1f0ce,1f0c3,1f0a9,,,1f0a1,1f0c1,1f0b4
 HIT,1f0c1,1f0db,1f0cd,1f0b1,1f0cb,,,1f0b2,1f0d5
 HIT,1f0cd,1f0d5,1f0b7,1f0a8,1f0dd,,,1f0a2,1f0d2,1f0d4
 STAY,1f0c8,1f0a1,1f0c1,,,,,1f0c3,1f0c7,1f0ce
@@ -42487,7 +42487,7 @@ HIT,1f0d1,,,,,,,1f0c3,1f0a6
 STAY,1f0b6,1f0d5,1f0d8,1f0a1,1f0c6,1f0b9,1f0bb,1f0ca,1f0ce
 STAY,1f0b6,,,,,,,1f0a1,1f0db,1f0cd
 STAY,1f0c3,,,,,,,1f0c1,1f0b4,1f0c5,1f0d7
-STAY,1f0b2,1f0b1,1f0ca,1f0ab,1f0ad,1f0d3,1f0c7,1f0c1,1f0d1,1f0b5
+HIT,1f0b2,1f0b1,1f0ca,1f0ab,1f0ad,1f0d3,1f0c7,1f0c1,1f0d1,1f0b5
 STAY,1f0db,1f0c1,1f0c3,1f0b5,1f0b9,1f0a6,1f0ca,1f0a1,1f0ad,1f0ae
 STAY,1f0ba,,,,,,,1f0a9,1f0be
 STAY,1f0c8,,,,,,,1f0c6,1f0c9
@@ -42563,7 +42563,7 @@ STAY,1f0b9,1f0b4,1f0ab,,,,,1f0a8,1f0d8
 STAY,1f0c3,,,,,,,1f0c5,1f0a9
 STAY,1f0db,1f0ab,1f0ce,1f0cb,1f0dd,1f0d6,1f0d9,1f0d2,1f0bd
 STAY,1f0ce,,,,,,,1f0c2,1f0ba
-STAY,1f0c8,1f0a2,1f0a8,1f0a4,1f0a5,1f0b8,1f0ce,1f0b1,1f0d1
+HIT,1f0c8,1f0a2,1f0a8,1f0a4,1f0a5,1f0b8,1f0ce,1f0b1,1f0d1
 STAY,1f0ae,1f0a5,1f0db,,,,,1f0d2,1f0c4,1f0a8
 STAY,1f0a7,1f0a1,1f0a8,1f0b4,1f0b5,1f0d4,1f0dd,1f0b1,1f0a2,1f0d5
 STAY,1f0ca,1f0d6,1f0d7,,,,,1f0bb,1f0db
@@ -42843,7 +42843,7 @@ STAY,1f0b3,,,,,,,1f0a6,1f0d7
 STAY,1f0c7,,,,,,,1f0c5,1f0aa
 STAY,1f0d2,1f0a3,1f0a8,,,,,1f0a1,1f0b1,1f0b8
 STAY,1f0b8,,,,,,,1f0b4,1f0c4,1f0dd
-STAY,1f0b5,1f0c6,1f0da,1f0a6,1f0ae,,,1f0a1,1f0b1
+HIT,1f0b5,1f0c6,1f0da,1f0a6,1f0ae,,,1f0a1,1f0b1
 STAY,1f0d2,,,,,,,1f0d3,1f0d5,1f0a7
 STAY,1f0a8,1f0d7,1f0ca,,,,,1f0a3,1f0b8,1f0bd
 HIT,1f0c4,1f0c1,1f0b7,,,,,1f0d2,1f0c6
@@ -42897,7 +42897,7 @@ STAY,1f0ab,1f0a8,1f0d8,,,,,1f0c3,1f0b6,1f0de
 STAY,1f0b3,1f0d1,1f0de,,,,,1f0d3,1f0dd
 STAY,1f0d4,1f0b1,1f0d3,1f0c4,1f0b5,,,1f0c9,1f0bb
 STAY,1f0b1,1f0b2,1f0ae,,,,,1f0c7,1f0a9
-STAY,1f0da,1f0b5,1f0ca,1f0d4,1f0b7,1f0b3,1f0be,1f0a1,1f0b1,1f0d1
+HIT,1f0da,1f0b5,1f0ca,1f0d4,1f0b7,1f0b3,1f0be,1f0a1,1f0b1,1f0d1
 HIT,1f0a6,,,,,,,1f0d2,1f0d7
 STAY,1f0a7,1f0ad,1f0ae,1f0d2,1f0db,1f0c1,1f0c3,1f0d4,1f0de
 STAY,1f0b1,,,,,,,1f0a2,1f0d2,1f0d4,1f0da
@@ -42975,7 +42975,7 @@ STAY,1f0c1,,,,,,,1f0a2,1f0c8,1f0b9
 STAY,1f0cd,1f0b7,1f0bb,1f0a4,1f0c9,1f0b3,1f0c7,1f0d2,1f0a3,1f0d8
 STAY,1f0a4,,,,,,,1f0c1,1f0c2,1f0b6,1f0ba
 STAY,1f0d3,,,,,,,1f0a1,1f0a9,1f0c9
-STAY,1f0c2,1f0d6,1f0a8,1f0c4,1f0aa,1f0a2,1f0d8,1f0a1,1f0b1,1f0b2,1f0d3
+HIT,1f0c2,1f0d6,1f0a8,1f0c4,1f0aa,1f0a2,1f0d8,1f0a1,1f0b1,1f0b2,1f0d3
 STAY,1f0a1,,,,,,,1f0d5,1f0b9
 STAY,1f0d8,1f0c6,1f0c7,1f0d9,1f0de,,,1f0a4,1f0a6,1f0b9
 STAY,1f0b6,1f0aa,1f0ae,1f0a2,1f0c2,1f0c1,1f0a3,1f0a1,1f0d3,1f0c4,1f0d7
@@ -43230,11 +43230,11 @@ STAY,1f0a6,,,,,,,1f0b4,1f0c8
 STAY,1f0d9,1f0d8,1f0ab,1f0da,1f0db,1f0d3,1f0ad,1f0a1,1f0d4,1f0ca
 STAY,1f0c4,1f0da,1f0dd,1f0b5,1f0bb,,,1f0a3,1f0ba
 STAY,1f0b1,1f0b6,1f0aa,1f0a2,1f0d6,,,1f0d3,1f0b4,1f0a5,1f0b8
-STAY,1f0ab,,,,,,,1f0a1,1f0d1
+HIT,1f0ab,,,,,,,1f0a1,1f0d1
 STAY,1f0d9,,,,,,,1f0b1,1f0ce
 STAY,1f0d4,1f0d5,1f0ad,1f0a5,1f0db,,,1f0da,1f0cb
 STAY,1f0ad,1f0c3,1f0a9,1f0d3,1f0b9,1f0b8,1f0ae,1f0d2,1f0a4,1f0c4,1f0d6
-STAY,1f0da,,,,,,,1f0a1,1f0d1,1f0a3
+HIT,1f0da,,,,,,,1f0a1,1f0d1,1f0a3
 STAY,1f0b5,1f0c1,1f0c5,1f0ca,1f0be,1f0b1,1f0db,1f0c2,1f0d5,1f0b9
 HIT,1f0d8,,,,,,,1f0d3,1f0d4
 STAY,1f0d2,1f0b3,1f0d9,1f0a5,1f0a6,,,1f0c1,1f0b2,1f0b9
@@ -43246,7 +43246,7 @@ STAY,1f0cd,1f0c5,1f0b7,,,,,1f0a4,1f0b6,1f0a8
 STAY,1f0d7,1f0d3,1f0ce,1f0c1,1f0cd,1f0a3,1f0bb,1f0d5,1f0bd
 STAY,1f0b7,1f0dd,1f0ce,1f0d6,1f0cb,1f0c9,1f0bd,1f0d3,1f0ca
 STAY,1f0c9,1f0c2,1f0cd,1f0a1,1f0ad,1f0a5,1f0d9,1f0c5,1f0ab
-STAY,1f0a5,1f0d8,1f0de,1f0bb,1f0dd,,,1f0a1,1f0b1
+HIT,1f0a5,1f0d8,1f0de,1f0bb,1f0dd,,,1f0a1,1f0b1
 STAY,1f0b1,1f0bb,1f0ad,,,,,1f0a2,1f0da
 STAY,1f0aa,1f0a1,1f0d5,,,,,1f0a2,1f0a4,1f0c4,1f0c5
 STAY,1f0d6,1f0c5,1f0bd,,,,,1f0ad,1f0de
@@ -43323,7 +43323,7 @@ STAY,1f0b7,1f0b1,1f0dd,1f0a8,1f0ca,,,1f0c8,1f0d8
 STAY,1f0be,1f0a6,1f0da,1f0a5,1f0ad,,,1f0c1,1f0c5,1f0b6
 STAY,1f0c3,1f0d8,1f0da,1f0b9,1f0aa,1f0cd,1f0dd,1f0d2,1f0d5,1f0db
 STAY,1f0b3,1f0d3,1f0b4,1f0a3,1f0b7,,,1f0a1,1f0d1,1f0c8,1f0b9
-STAY,1f0a4,1f0aa,1f0da,1f0b8,1f0ce,,,1f0a1,1f0d1
+HIT,1f0a4,1f0aa,1f0da,1f0b8,1f0ce,,,1f0a1,1f0d1
 STAY,1f0d1,1f0d3,1f0a8,,,,,1f0d4,1f0d7,1f0ca
 STAY,1f0db,,,,,,,1f0a1,1f0a6,1f0bd
 STAY,1f0c7,1f0b3,1f0c6,,,,,1f0d2,1f0d5,1f0d6
@@ -43410,7 +43410,7 @@ STAY,1f0b1,1f0c3,1f0ad,1f0b3,1f0d9,,,1f0d3,1f0b4,1f0ba
 STAY,1f0a8,1f0a5,1f0bd,1f0d2,1f0de,,,1f0a6,1f0c6
 STAY,1f0ab,1f0d1,1f0a8,1f0a6,1f0ce,,,1f0c5,1f0c7
 STAY,1f0c9,1f0d1,1f0dd,1f0c4,1f0a6,,,1f0d3,1f0c8,1f0ae
-STAY,1f0ca,1f0b8,1f0dd,,,,,1f0a1,1f0d1
+HIT,1f0ca,1f0b8,1f0dd,,,,,1f0a1,1f0d1
 HIT,1f0cd,,,,,,,1f0d1,1f0c3
 STAY,1f0ba,,,,,,,1f0d1,1f0b4,1f0d5
 STAY,1f0bd,,,,,,,1f0b3,1f0d3,1f0c5,1f0ab
@@ -43470,7 +43470,7 @@ STAY,1f0a2,,,,,,,1f0db,1f0cd
 HIT,1f0b4,,,,,,,1f0b3,1f0b8
 HIT,1f0ba,1f0a3,1f0ca,1f0b5,1f0a7,,,1f0c1,1f0c4
 HIT,1f0c6,1f0b3,1f0c8,,,,,1f0a2,1f0b4
-STAY,1f0d3,1f0b1,1f0bb,1f0d5,1f0a6,1f0c6,1f0cb,1f0a1,1f0d1,1f0b3
+HIT,1f0d3,1f0b1,1f0bb,1f0d5,1f0a6,1f0c6,1f0cb,1f0a1,1f0d1,1f0b3
 STAY,1f0ad,,,,,,,1f0c1,1f0d3,1f0c7
 STAY,1f0a7,1f0a2,1f0cb,1f0a1,1f0a9,,,1f0c3,1f0b6,1f0ca
 STAY,1f0a4,1f0c3,1f0b6,1f0a9,1f0db,1f0a7,1f0d9,1f0d1,1f0d4,1f0ad
@@ -44081,7 +44081,7 @@ STAY,1f0c7,1f0d5,1f0a7,1f0d4,1f0c5,,,1f0b3,1f0a6,1f0b9
 HIT,1f0cb,,,,,,,1f0d2,1f0d9
 STAY,1f0bb,1f0a1,1f0b9,1f0b3,1f0a8,,,1f0d2,1f0a4,1f0a5,1f0be
 STAY,1f0c5,1f0b3,1f0b4,1f0a3,1f0dd,1f0b2,1f0c6,1f0a1,1f0a2,1f0c4,1f0b7
-STAY,1f0d5,1f0d6,1f0a9,,,,,1f0b1,1f0c1,1f0c5
+HIT,1f0d5,1f0d6,1f0a9,,,,,1f0b1,1f0c1,1f0c5
 STAY,1f0de,1f0d2,1f0be,1f0c6,1f0bd,1f0c3,1f0a6,1f0b4,1f0c7,1f0a9
 HIT,1f0ab,1f0c1,1f0b2,1f0c4,1f0d4,,,1f0c2,1f0d9
 STAY,1f0d6,1f0a2,1f0b8,1f0a6,1f0cb,1f0d3,1f0d5,1f0d2,1f0c3,1f0d7
@@ -44176,7 +44176,7 @@ STAY,1f0ce,,,,,,,1f0b1,1f0d6,1f0db
 STAY,1f0b3,1f0d1,1f0be,1f0a2,1f0d2,,,1f0a5,1f0de
 HIT,1f0d6,1f0ca,1f0ad,1f0d4,1f0a6,1f0ae,1f0de,1f0d1,1f0b2
 HIT,1f0a3,1f0b3,1f0c6,1f0ba,1f0ab,,,1f0d4,1f0b6
-STAY,1f0d8,1f0c6,1f0bd,,,,,1f0a1,1f0c1
+HIT,1f0d8,1f0c6,1f0bd,,,,,1f0a1,1f0c1
 STAY,1f0c2,1f0b4,1f0c7,1f0a9,1f0d9,1f0d1,1f0d3,1f0a4,1f0ae
 STAY,1f0d5,1f0d3,1f0be,,,,,1f0a2,1f0d2,1f0de
 HIT,1f0d6,,,,,,,1f0b4,1f0c4
@@ -44308,7 +44308,7 @@ HIT,1f0ab,1f0c4,1f0a7,,,,,1f0d2,1f0b5
 STAY,1f0bb,1f0b6,1f0b7,1f0b5,1f0aa,,,1f0b1,1f0ae
 STAY,1f0b6,,,,,,,1f0a8,1f0a9
 STAY,1f0a8,1f0a5,1f0c7,1f0c4,1f0bb,,,1f0c6,1f0da
-STAY,1f0ad,1f0a2,1f0b8,,,,,1f0a1,1f0d1,1f0d2,1f0d3
+HIT,1f0ad,1f0a2,1f0b8,,,,,1f0a1,1f0d1,1f0d2,1f0d3
 STAY,1f0c8,,,,,,,1f0d1,1f0b9,1f0cb
 STAY,1f0c8,1f0a4,1f0ae,,,,,1f0c4,1f0b6,1f0bd
 STAY,1f0d2,,,,,,,1f0b6,1f0a8
@@ -44407,7 +44407,7 @@ STAY,1f0a2,1f0aa,1f0ce,1f0b2,1f0b7,,,1f0d2,1f0b5,1f0da
 STAY,1f0a3,1f0be,1f0ce,1f0c3,1f0d6,1f0d2,1f0d5,1f0d3,1f0da
 STAY,1f0b9,1f0c7,1f0c9,1f0b3,1f0ca,,,1f0d3,1f0be
 STAY,1f0ab,,,,,,,1f0a8,1f0bd
-STAY,1f0b8,1f0a8,1f0cb,1f0b4,1f0bb,,,1f0b1,1f0c1
+HIT,1f0b8,1f0a8,1f0cb,1f0b4,1f0bb,,,1f0b1,1f0c1
 STAY,1f0ca,1f0a4,1f0c8,,,,,1f0d7,1f0ab
 STAY,1f0b1,,,,,,,1f0c1,1f0c5,1f0bb
 STAY,1f0a1,1f0b6,1f0d8,1f0d2,1f0da,,,1f0ad,1f0de
@@ -44489,7 +44489,7 @@ HIT,1f0b9,1f0a9,1f0ad,,,,,1f0b3,1f0b5
 STAY,1f0b3,1f0b7,1f0db,1f0d2,1f0ba,,,1f0c8,1f0aa
 HIT,1f0c3,1f0b4,1f0b9,,,,,1f0d1,1f0a2
 STAY,1f0be,1f0cb,1f0ae,1f0d1,1f0c2,,,1f0da,1f0bb
-STAY,1f0d8,1f0a5,1f0be,1f0a2,1f0d6,1f0b5,1f0aa,1f0c1,1f0d1
+HIT,1f0d8,1f0a5,1f0be,1f0a2,1f0d6,1f0b5,1f0aa,1f0c1,1f0d1
 STAY,1f0a2,1f0a1,1f0d9,,,,,1f0a6,1f0b7
 STAY,1f0b4,1f0b7,1f0cd,1f0c5,1f0b8,,,1f0a9,1f0aa
 STAY,1f0b5,1f0d6,1f0ce,1f0c5,1f0d9,,,1f0c1,1f0c3,1f0b4,1f0c9
@@ -45206,7 +45206,7 @@ STAY,1f0b5,1f0d1,1f0ca,1f0c4,1f0ba,,,1f0d2,1f0ad
 STAY,1f0da,1f0b3,1f0ab,,,,,1f0a6,1f0d7
 HIT,1f0a8,1f0aa,1f0ae,1f0b8,1f0ad,,,1f0b4,1f0b6
 STAY,1f0b7,1f0a2,1f0b6,1f0ba,1f0ce,1f0d7,1f0dd,1f0d2,1f0b8,1f0be
-STAY,1f0ad,1f0c9,1f0dd,1f0b2,1f0b7,,,1f0a1,1f0b1
+HIT,1f0ad,1f0c9,1f0dd,1f0b2,1f0b7,,,1f0a1,1f0b1
 STAY,1f0c9,,,,,,,1f0cb,1f0dd
 STAY,1f0b3,1f0b1,1f0b9,,,,,1f0c6,1f0c9
 HIT,1f0db,1f0b5,1f0c8,1f0b2,1f0de,1f0c7,1f0cd,1f0a2,1f0c2,1f0b4
@@ -45234,7 +45234,7 @@ STAY,1f0b2,1f0c1,1f0c5,1f0b4,1f0db,,,1f0b3,1f0c8,1f0bd
 HIT,1f0da,1f0c2,1f0ad,1f0a6,1f0ce,1f0d1,1f0b6,1f0d2,1f0a7
 STAY,1f0a7,1f0a3,1f0d8,,,,,1f0d1,1f0c6,1f0c7
 HIT,1f0d5,1f0a2,1f0ba,1f0c2,1f0cb,,,1f0d4,1f0a7
-STAY,1f0de,1f0a9,1f0aa,1f0d7,1f0cb,1f0b9,1f0ce,1f0a1,1f0c1,1f0d1
+HIT,1f0de,1f0a9,1f0aa,1f0d7,1f0cb,1f0b9,1f0ce,1f0a1,1f0c1,1f0d1
 STAY,1f0ab,1f0b5,1f0bd,1f0b3,1f0ce,1f0c7,1f0d8,1f0da,1f0ad
 STAY,1f0d9,1f0d3,1f0a4,1f0a8,1f0c8,1f0b2,1f0b6,1f0b5,1f0d8
 STAY,1f0ca,1f0b6,1f0cb,1f0c9,1f0db,1f0d7,1f0c8,1f0a2,1f0d9,1f0ce
@@ -45370,7 +45370,7 @@ STAY,1f0ad,1f0b3,1f0a8,1f0c8,1f0ca,1f0a4,1f0b8,1f0b4,1f0c5,1f0a9
 STAY,1f0b5,,,,,,,1f0a6,1f0bb
 STAY,1f0aa,,,,,,,1f0b5,1f0c7,1f0d8
 STAY,1f0c9,1f0b6,1f0ad,1f0d1,1f0d5,1f0a4,1f0d4,1f0d2,1f0be
-STAY,1f0b2,1f0b4,1f0b9,,,,,1f0b1,1f0c1,1f0a3
+HIT,1f0b2,1f0b4,1f0b9,,,,,1f0b1,1f0c1,1f0a3
 STAY,1f0ae,,,,,,,1f0b4,1f0c8
 STAY,1f0bb,,,,,,,1f0c2,1f0d9,1f0db
 STAY,1f0a1,1f0b3,1f0ce,,,,,1f0c3,1f0d6,1f0ae
@@ -45478,7 +45478,7 @@ STAY,1f0a4,,,,,,,1f0a6,1f0d8
 HIT,1f0c9,1f0a7,1f0bd,1f0a5,1f0ae,1f0c4,1f0bb,1f0b4,1f0a6
 STAY,1f0bb,1f0d7,1f0ca,1f0da,1f0cd,1f0d1,1f0b6,1f0d9,1f0aa
 STAY,1f0ad,1f0b1,1f0c9,1f0c5,1f0b8,,,1f0d1,1f0b3,1f0d4,1f0a6
-STAY,1f0c7,1f0c2,1f0c3,1f0d6,1f0cb,1f0d5,1f0ce,1f0c1,1f0d1,1f0a5
+HIT,1f0c7,1f0c2,1f0c3,1f0d6,1f0cb,1f0d5,1f0ce,1f0c1,1f0d1,1f0a5
 HIT,1f0d3,1f0db,1f0cd,1f0d1,1f0ad,1f0bd,1f0dd,1f0b1,1f0b3
 HIT,1f0c5,1f0a1,1f0a9,1f0d4,1f0c7,1f0a5,1f0c9,1f0d2,1f0b6
 STAY,1f0bb,1f0c1,1f0bd,,,,,1f0b3,1f0c4,1f0b9
@@ -45556,7 +45556,7 @@ STAY,1f0bb,,,,,,,1f0a5,1f0dd
 HIT,1f0c7,1f0c2,1f0c5,1f0d5,1f0a9,1f0b4,1f0d7,1f0d2,1f0d3
 STAY,1f0c2,1f0a1,1f0b1,1f0a3,1f0be,,,1f0a5,1f0c6,1f0b7
 STAY,1f0a7,1f0d4,1f0da,,,,,1f0a1,1f0d6,1f0c8
-STAY,1f0a5,1f0b8,1f0d8,1f0b3,1f0a8,1f0d4,1f0b7,1f0c1,1f0d1,1f0a2
+HIT,1f0a5,1f0b8,1f0d8,1f0b3,1f0a8,1f0d4,1f0b7,1f0c1,1f0d1,1f0a2
 HIT,1f0bb,,,,,,,1f0a1,1f0a3
 STAY,1f0d8,1f0a5,1f0c6,1f0a6,1f0a8,1f0d1,1f0a2,1f0b1,1f0b2,1f0c8,1f0cb
 STAY,1f0d5,,,,,,,1f0a1,1f0d1,1f0d6,1f0bb
@@ -45579,7 +45579,7 @@ STAY,1f0be,,,,,,,1f0b1,1f0b8,1f0bd
 STAY,1f0d9,1f0c3,1f0c5,1f0b8,1f0d8,,,1f0b6,1f0be
 STAY,1f0c7,1f0b4,1f0c9,1f0b6,1f0aa,1f0d1,1f0a8,1f0d4,1f0b8
 STAY,1f0be,1f0c8,1f0da,1f0db,1f0ae,1f0d4,1f0d7,1f0a6,1f0b6,1f0d9
-STAY,1f0a4,1f0b2,1f0b4,,,,,1f0a1,1f0b1
+HIT,1f0a4,1f0b2,1f0b4,,,,,1f0a1,1f0b1
 STAY,1f0d1,,,,,,,1f0d5,1f0c7,1f0d9
 STAY,1f0c4,1f0c1,1f0ba,1f0a3,1f0a7,,,1f0a1,1f0b2,1f0d2,1f0c3,1f0da
 STAY,1f0bb,1f0d2,1f0ab,1f0c2,1f0b9,1f0a2,1f0aa,1f0a3,1f0b7,1f0d9
@@ -45745,7 +45745,7 @@ STAY,1f0da,1f0b7,1f0bd,1f0d2,1f0aa,1f0d6,1f0cd,1f0c6,1f0c7,1f0d8
 STAY,1f0ce,1f0b3,1f0c9,1f0c5,1f0ba,,,1f0b8,1f0be
 STAY,1f0ca,1f0b4,1f0d4,1f0a5,1f0ae,1f0b2,1f0bd,1f0c1,1f0a9
 STAY,1f0d8,1f0d2,1f0c3,1f0b5,1f0b6,1f0b8,1f0ce,1f0b2,1f0a4,1f0a5,1f0c8
-STAY,1f0ae,1f0b1,1f0d7,1f0d4,1f0b9,1f0b7,1f0c8,1f0a1,1f0d1
+HIT,1f0ae,1f0b1,1f0d7,1f0d4,1f0b9,1f0b7,1f0c8,1f0a1,1f0d1
 HIT,1f0c9,,,,,,,1f0a2,1f0d5
 HIT,1f0b9,1f0c1,1f0bb,,,,,1f0a5,1f0b6
 STAY,1f0bd,,,,,,,1f0b7,1f0ae
@@ -45959,7 +45959,7 @@ STAY,1f0b2,1f0a3,1f0b3,,,,,1f0a4,1f0c6,1f0c7
 HIT,1f0d3,1f0b5,1f0ae,1f0c5,1f0b6,1f0c8,1f0bb,1f0a2,1f0d9
 STAY,1f0de,1f0a6,1f0db,1f0b1,1f0aa,,,1f0a1,1f0a2,1f0b4,1f0d4,1f0ae
 STAY,1f0c1,1f0be,1f0ce,1f0b4,1f0d5,1f0c2,1f0d7,1f0d4,1f0dd
-STAY,1f0a3,1f0d6,1f0dd,1f0b2,1f0d5,,,1f0c1,1f0d1
+HIT,1f0a3,1f0d6,1f0dd,1f0b2,1f0d5,,,1f0c1,1f0d1
 STAY,1f0b5,1f0a5,1f0c8,1f0d2,1f0b7,1f0da,1f0de,1f0c1,1f0d1,1f0c2,1f0cd
 STAY,1f0de,,,,,,,1f0b1,1f0d2,1f0da
 STAY,1f0d3,1f0c9,1f0aa,,,,,1f0b4,1f0c8,1f0b9
@@ -46239,7 +46239,7 @@ HIT,1f0d4,1f0c4,1f0ae,,,,,1f0c3,1f0c7
 STAY,1f0ad,1f0c7,1f0da,1f0d4,1f0d5,1f0d7,1f0b8,1f0c3,1f0ce
 STAY,1f0b6,,,,,,,1f0c8,1f0b9
 STAY,1f0d4,1f0d7,1f0bd,1f0d8,1f0be,1f0c5,1f0aa,1f0a7,1f0db
-STAY,1f0c3,1f0a6,1f0da,1f0c1,1f0b6,,,1f0a1,1f0b1
+HIT,1f0c3,1f0a6,1f0da,1f0c1,1f0b6,,,1f0a1,1f0b1
 STAY,1f0d7,1f0a7,1f0ab,1f0a6,1f0d6,1f0a8,1f0d9,1f0d2,1f0b7,1f0ae
 STAY,1f0a9,,,,,,,1f0a8,1f0bd
 STAY,1f0d1,1f0a4,1f0cd,1f0c4,1f0de,1f0c2,1f0d3,1f0d2,1f0ab
@@ -46345,7 +46345,7 @@ STAY,1f0da,1f0a1,1f0ca,,,,,1f0c2,1f0d5,1f0c6,1f0b7
 STAY,1f0da,,,,,,,1f0c1,1f0b9
 STAY,1f0b4,,,,,,,1f0d2,1f0ad
 STAY,1f0b2,1f0d2,1f0ae,1f0c3,1f0cb,,,1f0a1,1f0c2,1f0b3,1f0a5,1f0a6
-STAY,1f0a2,,,,,,,1f0a1,1f0c1
+HIT,1f0a2,,,,,,,1f0a1,1f0c1
 STAY,1f0be,,,,,,,1f0d3,1f0a9
 STAY,1f0d4,,,,,,,1f0d7,1f0de
 STAY,1f0a5,1f0b3,1f0de,,,,,1f0c2,1f0d4,1f0d9
@@ -46473,7 +46473,7 @@ STAY,1f0c5,1f0d1,1f0ba,1f0be,1f0de,,,1f0a2,1f0c7,1f0ca
 STAY,1f0d6,1f0d2,1f0b5,1f0a9,1f0aa,,,1f0a4,1f0d7,1f0ad
 STAY,1f0d6,,,,,,,1f0a7,1f0dd
 STAY,1f0d3,,,,,,,1f0a8,1f0ad
-STAY,1f0d9,1f0b5,1f0be,,,,,1f0a1,1f0b1,1f0c1
+HIT,1f0d9,1f0b5,1f0be,,,,,1f0a1,1f0b1,1f0c1
 STAY,1f0b8,1f0a1,1f0c6,,,,,1f0a3,1f0a4,1f0db
 HIT,1f0b7,1f0b1,1f0b8,1f0a1,1f0a2,1f0b2,1f0cb,1f0b5,1f0d5
 STAY,1f0c7,1f0b1,1f0c4,1f0a2,1f0ad,,,1f0c1,1f0c5,1f0a6,1f0c6
@@ -46582,7 +46582,7 @@ HIT,1f0ab,1f0a9,1f0d9,,,,,1f0b2,1f0b8
 STAY,1f0ad,,,,,,,1f0a1,1f0c4,1f0bd
 STAY,1f0dd,1f0b4,1f0cd,,,,,1f0c6,1f0ab
 HIT,1f0a1,1f0a2,1f0c8,,,,,1f0b2,1f0b8
-STAY,1f0a4,1f0c3,1f0bb,1f0ca,1f0ae,,,1f0a1,1f0c1,1f0a3
+HIT,1f0a4,1f0c3,1f0bb,1f0ca,1f0ae,,,1f0a1,1f0c1,1f0a3
 STAY,1f0be,1f0a4,1f0ae,1f0cb,1f0db,,,1f0d3,1f0a5,1f0b6
 STAY,1f0d6,1f0d4,1f0c6,,,,,1f0a1,1f0d1,1f0b2,1f0c7,1f0cb
 STAY,1f0ba,1f0b8,1f0d9,1f0c1,1f0d4,,,1f0d2,1f0c3,1f0d3,1f0a4
@@ -46610,7 +46610,7 @@ STAY,1f0d4,,,,,,,1f0a9,1f0dd
 STAY,1f0a3,1f0ad,1f0dd,1f0c6,1f0ae,1f0d6,1f0c7,1f0b5,1f0b7,1f0c8
 STAY,1f0c4,1f0d2,1f0aa,1f0b3,1f0c6,1f0a2,1f0c7,1f0d1,1f0d4,1f0b7
 STAY,1f0b7,1f0a5,1f0dd,,,,,1f0c3,1f0d7,1f0bb
-STAY,1f0cb,1f0b6,1f0ce,1f0d9,1f0ae,1f0c5,1f0bb,1f0a1,1f0b1
+HIT,1f0cb,1f0b6,1f0ce,1f0d9,1f0ae,1f0c5,1f0bb,1f0a1,1f0b1
 STAY,1f0aa,1f0c1,1f0c7,,,,,1f0ad,1f0be
 STAY,1f0b6,1f0b1,1f0d9,1f0a6,1f0ad,1f0c3,1f0d4,1f0a9,1f0dd
 STAY,1f0b6,1f0b1,1f0a9,1f0d6,1f0c8,,,1f0d4,1f0a6,1f0ba
@@ -46631,7 +46631,7 @@ STAY,1f0ad,,,,,,,1f0d7,1f0da
 STAY,1f0b4,1f0c5,1f0ca,1f0c3,1f0a7,,,1f0d1,1f0d4,1f0d6,1f0cd
 HIT,1f0d9,1f0c4,1f0ad,,,,,1f0a5,1f0c6
 HIT,1f0bb,1f0d1,1f0dd,1f0b7,1f0c7,,,1f0b4,1f0a5
-STAY,1f0a5,1f0d2,1f0c8,,,,,1f0c1,1f0d1
+HIT,1f0a5,1f0d2,1f0c8,,,,,1f0c1,1f0d1
 STAY,1f0dd,1f0a8,1f0d8,1f0d7,1f0cd,1f0b3,1f0ae,1f0a6,1f0d6,1f0b8
 STAY,1f0da,,,,,,,1f0a2,1f0c4,1f0a9
 STAY,1f0a9,1f0c1,1f0d8,,,,,1f0a1,1f0a8,1f0b9
@@ -46953,7 +46953,7 @@ STAY,1f0b1,1f0a1,1f0c2,1f0a5,1f0ab,,,1f0a6,1f0ca
 STAY,1f0c4,,,,,,,1f0c1,1f0c2,1f0ce
 STAY,1f0de,1f0c3,1f0d4,1f0b3,1f0a6,1f0d6,1f0da,1f0d2,1f0a4,1f0b5,1f0b8
 STAY,1f0ae,,,,,,,1f0a3,1f0b5,1f0cd
-STAY,1f0ab,,,,,,,1f0b1,1f0c1
+HIT,1f0ab,,,,,,,1f0b1,1f0c1
 STAY,1f0d5,1f0a5,1f0ae,,,,,1f0b4,1f0d4,1f0c9
 STAY,1f0b5,1f0b9,1f0ab,,,,,1f0b1,1f0c4,1f0a7,1f0a9
 STAY,1f0b3,,,,,,,1f0a2,1f0d6,1f0de
@@ -46977,7 +46977,7 @@ STAY,1f0b2,1f0cb,1f0de,,,,,1f0a1,1f0a7,1f0a9
 HIT,1f0a6,1f0d1,1f0aa,,,,,1f0a5,1f0b6
 HIT,1f0d4,,,,,,,1f0a3,1f0a5
 STAY,1f0d6,,,,,,,1f0c2,1f0b5,1f0d7
-STAY,1f0d2,1f0b5,1f0a8,,,,,1f0a1,1f0b1,1f0c2
+HIT,1f0d2,1f0b5,1f0a8,,,,,1f0a1,1f0b1,1f0c2
 STAY,1f0d9,,,,,,,1f0c9,1f0bb
 STAY,1f0de,1f0b8,1f0b9,1f0d2,1f0d5,,,1f0b3,1f0b5,1f0bd
 STAY,1f0c9,1f0c6,1f0bd,,,,,1f0b4,1f0bb
@@ -47429,7 +47429,7 @@ STAY,1f0ad,1f0d1,1f0a4,1f0b1,1f0c7,,,1f0d6,1f0d7
 STAY,1f0a7,,,,,,,1f0d3,1f0d4,1f0ce
 HIT,1f0d8,1f0c3,1f0a6,,,,,1f0a1,1f0d2
 STAY,1f0d7,1f0c8,1f0cb,,,,,1f0a2,1f0c2,1f0d2,1f0dd
-STAY,1f0c5,1f0b1,1f0a8,1f0aa,1f0ad,,,1f0a1,1f0d1
+HIT,1f0c5,1f0b1,1f0a8,1f0aa,1f0ad,,,1f0a1,1f0d1
 STAY,1f0a1,1f0d8,1f0c9,,,,,1f0c2,1f0d7,1f0ba
 STAY,1f0a2,1f0d2,1f0a7,1f0db,1f0de,1f0d6,1f0cd,1f0c9,1f0be
 HIT,1f0ba,1f0cb,1f0ce,1f0d1,1f0be,,,1f0b3,1f0a7
@@ -47506,7 +47506,7 @@ STAY,1f0c1,1f0bb,1f0ce,1f0b7,1f0cd,,,1f0b3,1f0a8,1f0ae
 STAY,1f0a7,1f0a8,1f0ca,,,,,1f0a3,1f0d4,1f0b9
 HIT,1f0ab,,,,,,,1f0d3,1f0c6
 STAY,1f0c9,1f0d4,1f0a6,1f0c6,1f0a8,,,1f0d1,1f0d5,1f0dd
-STAY,1f0bb,1f0c2,1f0a4,,,,,1f0b1,1f0d1
+HIT,1f0bb,1f0c2,1f0a4,,,,,1f0b1,1f0d1
 STAY,1f0ab,,,,,,,1f0d3,1f0a6,1f0ba
 STAY,1f0da,1f0b1,1f0c6,,,,,1f0b3,1f0b9
 STAY,1f0c5,1f0b4,1f0ab,1f0b6,1f0db,1f0a1,1f0d6,1f0b1,1f0c2,1f0a6
@@ -47528,7 +47528,7 @@ STAY,1f0cb,,,,,,,1f0d3,1f0ae
 HIT,1f0aa,1f0c4,1f0ba,1f0ca,1f0bd,,,1f0a3,1f0d4
 STAY,1f0b4,1f0b3,1f0a4,1f0cb,1f0be,,,1f0a2,1f0d7,1f0ba
 STAY,1f0da,1f0a1,1f0d5,1f0b6,1f0d6,,,1f0c2,1f0d3,1f0d7,1f0d8
-STAY,1f0ab,1f0aa,1f0bb,,,,,1f0a1,1f0c1,1f0c4
+HIT,1f0ab,1f0aa,1f0bb,,,,,1f0a1,1f0c1,1f0c4
 STAY,1f0a1,1f0a5,1f0d8,1f0a3,1f0c7,1f0d9,1f0db,1f0b4,1f0b8
 STAY,1f0d8,1f0a5,1f0de,1f0b1,1f0a2,,,1f0d6,1f0c8
 STAY,1f0cd,,,,,,,1f0c1,1f0d3,1f0aa
@@ -47817,7 +47817,7 @@ STAY,1f0cb,1f0a4,1f0ad,,,,,1f0d7,1f0ae
 STAY,1f0c1,1f0cb,1f0be,1f0b9,1f0db,,,1f0d7,1f0ab
 STAY,1f0a3,1f0aa,1f0ba,,,,,1f0d8,1f0cb
 STAY,1f0c2,,,,,,,1f0b1,1f0b9
-STAY,1f0b7,1f0c3,1f0aa,,,,,1f0b1,1f0d1,1f0d3
+HIT,1f0b7,1f0c3,1f0aa,,,,,1f0b1,1f0d1,1f0d3
 STAY,1f0a4,1f0ba,1f0de,1f0d8,1f0b9,,,1f0b2,1f0d3,1f0c8
 STAY,1f0d6,,,,,,,1f0a9,1f0ab
 STAY,1f0d3,1f0db,1f0cd,,,,,1f0a5,1f0c5,1f0ab
@@ -47874,7 +47874,7 @@ HIT,1f0a3,1f0a7,1f0bb,1f0a4,1f0c8,,,1f0d1,1f0b5
 HIT,1f0ad,1f0c7,1f0a8,1f0d3,1f0be,1f0da,1f0db,1f0a3,1f0b3
 STAY,1f0dd,1f0c3,1f0d6,,,,,1f0b1,1f0a2,1f0d2,1f0d9
 STAY,1f0de,1f0a1,1f0be,1f0c3,1f0ae,,,1f0c1,1f0a6,1f0db
-STAY,1f0bb,,,,,,,1f0a1,1f0d1
+HIT,1f0bb,,,,,,,1f0a1,1f0d1
 STAY,1f0da,,,,,,,1f0c6,1f0db
 STAY,1f0d1,,,,,,,1f0a5,1f0ba
 STAY,1f0a3,,,,,,,1f0c2,1f0c3,1f0ad
@@ -48163,7 +48163,7 @@ HIT,1f0b3,,,,,,,1f0d2,1f0a3
 HIT,1f0d7,1f0a5,1f0a6,,,,,1f0a3,1f0d5
 STAY,1f0cd,,,,,,,1f0aa,1f0cb
 STAY,1f0d8,1f0c4,1f0ce,1f0b2,1f0c5,1f0c3,1f0b5,1f0a2,1f0a4,1f0be
-STAY,1f0b5,1f0b1,1f0ab,1f0a4,1f0ad,1f0a3,1f0d4,1f0a1,1f0c1,1f0d3
+HIT,1f0b5,1f0b1,1f0ab,1f0a4,1f0ad,1f0a3,1f0d4,1f0a1,1f0c1,1f0d3
 HIT,1f0bb,,,,,,,1f0b4,1f0d5
 STAY,1f0cb,1f0c4,1f0b9,1f0b4,1f0da,1f0c7,1f0ad,1f0a1,1f0a8
 STAY,1f0b3,1f0d9,1f0ca,1f0aa,1f0de,1f0d3,1f0a9,1f0a3,1f0b6,1f0ad
@@ -48291,7 +48291,7 @@ STAY,1f0b9,1f0b5,1f0d7,1f0d4,1f0b8,,,1f0a1,1f0b3,1f0c3,1f0cd
 STAY,1f0be,1f0b3,1f0cd,1f0d1,1f0c9,1f0d5,1f0c6,1f0c2,1f0de
 STAY,1f0cd,1f0ab,1f0ad,1f0b4,1f0d6,,,1f0a2,1f0a4,1f0dd
 STAY,1f0de,1f0a3,1f0cb,1f0d9,1f0bd,,,1f0c8,1f0ab
-STAY,1f0a6,1f0b4,1f0b6,1f0d2,1f0ab,1f0b2,1f0a3,1f0b1,1f0c1
+HIT,1f0a6,1f0b4,1f0b6,1f0d2,1f0ab,1f0b2,1f0a3,1f0b1,1f0c1
 STAY,1f0dd,1f0aa,1f0ad,1f0d3,1f0b7,,,1f0b3,1f0c3,1f0b5,1f0ca
 STAY,1f0c3,1f0c4,1f0a9,1f0c1,1f0c2,1f0c5,1f0cd,1f0b4,1f0d4,1f0cb
 STAY,1f0c9,1f0a4,1f0ad,1f0b4,1f0d7,1f0d1,1f0a8,1f0c2,1f0c5,1f0a7
@@ -48306,7 +48306,7 @@ STAY,1f0b1,1f0d2,1f0c7,1f0c1,1f0aa,,,1f0a1,1f0c2,1f0a6
 STAY,1f0ca,1f0a4,1f0ae,,,,,1f0a1,1f0b4,1f0a6,1f0c7
 STAY,1f0ba,1f0ab,1f0cb,,,,,1f0b8,1f0db
 STAY,1f0bb,,,,,,,1f0d2,1f0b7,1f0c7
-STAY,1f0b5,1f0b3,1f0b9,,,,,1f0a1,1f0d1,1f0d4
+HIT,1f0b5,1f0b3,1f0b9,,,,,1f0a1,1f0d1,1f0d4
 STAY,1f0a7,1f0bb,1f0db,,,,,1f0b1,1f0d7
 STAY,1f0b2,,,,,,,1f0b1,1f0c1,1f0bb
 STAY,1f0b3,,,,,,,1f0d1,1f0c4,1f0a5,1f0b7
@@ -48439,12 +48439,12 @@ STAY,1f0b1,1f0a5,1f0d7,,,,,1f0c3,1f0db
 STAY,1f0a9,1f0c9,1f0dd,,,,,1f0a1,1f0ca
 STAY,1f0cb,1f0c3,1f0b9,,,,,1f0d1,1f0a8,1f0ba
 STAY,1f0a1,1f0b7,1f0d9,,,,,1f0b1,1f0c7
-STAY,1f0b1,1f0b6,1f0a8,1f0d3,1f0ae,,,1f0c1,1f0d1,1f0c2
+HIT,1f0b1,1f0b6,1f0a8,1f0d3,1f0ae,,,1f0c1,1f0d1,1f0c2
 STAY,1f0d6,,,,,,,1f0d5,1f0dd
 STAY,1f0bd,1f0c7,1f0d9,1f0d1,1f0a6,,,1f0c6,1f0a8
 HIT,1f0cd,1f0d4,1f0c8,,,,,1f0d1,1f0b3,1f0c3
 STAY,1f0b2,1f0ba,1f0cd,1f0d6,1f0a8,,,1f0a2,1f0c3,1f0d3,1f0a6
-STAY,1f0a1,1f0aa,1f0bd,1f0a7,1f0d9,1f0a4,1f0ce,1f0b1,1f0d1
+HIT,1f0a1,1f0aa,1f0bd,1f0a7,1f0d9,1f0a4,1f0ce,1f0b1,1f0d1
 HIT,1f0b4,1f0a5,1f0c6,1f0a2,1f0de,,,1f0b1,1f0d4
 STAY,1f0b6,1f0a1,1f0c8,1f0c1,1f0d4,1f0d5,1f0a7,1f0d9,1f0de
 STAY,1f0d3,1f0d5,1f0d6,1f0db,1f0bd,,,1f0c3,1f0c6,1f0cb
@@ -48587,7 +48587,7 @@ STAY,1f0ba,,,,,,,1f0a6,1f0aa
 HIT,1f0bd,1f0a5,1f0c9,,,,,1f0b3,1f0b5
 STAY,1f0b5,1f0a1,1f0b7,,,,,1f0a2,1f0b2,1f0c2,1f0cb
 STAY,1f0a1,1f0c1,1f0c2,1f0d3,1f0bd,,,1f0d1,1f0c3,1f0c5
-STAY,1f0d3,1f0a2,1f0ab,,,,,1f0a1,1f0b1,1f0d1
+HIT,1f0d3,1f0a2,1f0ab,,,,,1f0a1,1f0b1,1f0d1
 STAY,1f0b2,1f0c8,1f0bd,,,,,1f0b1,1f0ca
 STAY,1f0b5,1f0a5,1f0a6,1f0ba,1f0de,1f0d2,1f0be,1f0a2,1f0d6,1f0d8
 STAY,1f0a9,1f0d1,1f0da,,,,,1f0c2,1f0bd
@@ -48743,7 +48743,7 @@ STAY,1f0d3,,,,,,,1f0d1,1f0d4,1f0a5,1f0c8
 STAY,1f0c8,1f0b6,1f0a8,1f0a4,1f0c7,1f0c1,1f0c2,1f0d1,1f0a6,1f0a9
 STAY,1f0b6,1f0d1,1f0d4,1f0d2,1f0ca,1f0a8,1f0cd,1f0b3,1f0da
 STAY,1f0c3,1f0a6,1f0d8,1f0c4,1f0d5,1f0a7,1f0ce,1f0c8,1f0c9
-STAY,1f0a5,1f0d1,1f0da,,,,,1f0a1,1f0c1,1f0d3
+HIT,1f0a5,1f0d1,1f0da,,,,,1f0a1,1f0c1,1f0d3
 HIT,1f0a8,1f0d2,1f0a6,1f0b9,1f0ab,,,1f0c5,1f0d5
 STAY,1f0dd,1f0c6,1f0ae,,,,,1f0a1,1f0a6,1f0c8
 STAY,1f0be,1f0c5,1f0a6,1f0a7,1f0cd,1f0a2,1f0c3,1f0c7,1f0ca
@@ -48949,7 +48949,7 @@ STAY,1f0b7,1f0b1,1f0c8,1f0b4,1f0c4,,,1f0a1,1f0b5,1f0a6
 STAY,1f0c7,1f0ba,1f0de,,,,,1f0d5,1f0bd
 STAY,1f0d1,,,,,,,1f0c5,1f0db
 HIT,1f0b1,1f0c8,1f0db,,,,,1f0b3,1f0a4
-STAY,1f0b6,,,,,,,1f0b1,1f0c1,1f0d3
+HIT,1f0b6,,,,,,,1f0b1,1f0c1,1f0d3
 STAY,1f0d6,1f0d5,1f0da,1f0d1,1f0a7,,,1f0b1,1f0a6,1f0c9
 STAY,1f0c6,1f0a9,1f0bd,1f0b3,1f0d9,1f0a1,1f0a6,1f0b2,1f0b5,1f0ba
 STAY,1f0cb,1f0c8,1f0ba,1f0b5,1f0be,,,1f0c1,1f0bb
@@ -48965,7 +48965,7 @@ STAY,1f0da,1f0b8,1f0bb,1f0d1,1f0c3,1f0c2,1f0a4,1f0a1,1f0b5,1f0cd
 STAY,1f0db,1f0a2,1f0dd,,,,,1f0b4,1f0c6,1f0ba
 STAY,1f0ae,1f0aa,1f0ab,1f0d1,1f0b8,,,1f0d2,1f0dd
 STAY,1f0d1,1f0a1,1f0ca,,,,,1f0b1,1f0c1,1f0d9
-STAY,1f0d4,1f0d9,1f0ab,1f0c1,1f0a9,1f0c2,1f0c4,1f0a1,1f0d1
+HIT,1f0d4,1f0d9,1f0ab,1f0c1,1f0a9,1f0c2,1f0c4,1f0a1,1f0d1
 STAY,1f0a8,,,,,,,1f0d6,1f0b8
 HIT,1f0da,,,,,,,1f0b2,1f0d6
 STAY,1f0a7,,,,,,,1f0a1,1f0b2,1f0c3,1f0a6,1f0a9
@@ -49403,7 +49403,7 @@ STAY,1f0b2,,,,,,,1f0d4,1f0bd
 HIT,1f0b1,1f0d4,1f0dd,1f0d9,1f0bb,,,1f0b2,1f0c9
 STAY,1f0b3,1f0c7,1f0ca,,,,,1f0b1,1f0d2,1f0d3,1f0d4
 HIT,1f0b5,1f0ab,1f0bd,,,,,1f0a2,1f0c8
-STAY,1f0b9,1f0a7,1f0db,1f0d9,1f0be,,,1f0b1,1f0d1
+HIT,1f0b9,1f0a7,1f0db,1f0d9,1f0be,,,1f0b1,1f0d1
 HIT,1f0d2,,,,,,,1f0a3,1f0d7
 STAY,1f0bd,1f0d9,1f0dd,1f0a1,1f0ba,,,1f0c1,1f0a2,1f0c3,1f0ab
 STAY,1f0a8,1f0c6,1f0be,1f0b7,1f0ba,1f0b2,1f0a3,1f0d2,1f0c5,1f0ab
@@ -49828,7 +49828,7 @@ STAY,1f0a1,,,,,,,1f0d4,1f0ce
 HIT,1f0cb,1f0b8,1f0ba,1f0c1,1f0ae,1f0c6,1f0c8,1f0d3,1f0a5
 STAY,1f0b1,,,,,,,1f0a1,1f0a3,1f0a8
 STAY,1f0da,1f0a8,1f0d8,,,,,1f0aa,1f0dd
-STAY,1f0a8,1f0a3,1f0a4,1f0a5,1f0b5,,,1f0c1,1f0d1,1f0d4
+HIT,1f0a8,1f0a3,1f0a4,1f0a5,1f0b5,,,1f0c1,1f0d1,1f0d4
 STAY,1f0ce,1f0b1,1f0ca,,,,,1f0ba,1f0bb
 STAY,1f0da,1f0c4,1f0b9,,,,,1f0b2,1f0b6,1f0a8
 STAY,1f0cd,1f0d5,1f0de,1f0cb,1f0ad,1f0a4,1f0b8,1f0d2,1f0a3,1f0d3,1f0b6,1f0c6
@@ -49961,7 +49961,7 @@ STAY,1f0b9,1f0d3,1f0d5,1f0b1,1f0ae,1f0c4,1f0c7,1f0d1,1f0d4,1f0cd
 STAY,1f0d2,1f0a4,1f0aa,1f0d6,1f0b8,1f0a6,1f0cd,1f0c8,1f0bd
 STAY,1f0ad,1f0bd,1f0be,,,,,1f0a6,1f0c7
 STAY,1f0c6,1f0a7,1f0ca,,,,,1f0a2,1f0b5,1f0d5
-STAY,1f0c7,1f0aa,1f0bd,,,,,1f0a1,1f0b1,1f0c5
+HIT,1f0c7,1f0aa,1f0bd,,,,,1f0a1,1f0b1,1f0c5
 STAY,1f0ca,,,,,,,1f0c7,1f0bd
 STAY,1f0c9,,,,,,,1f0a6,1f0d9
 STAY,1f0d7,,,,,,,1f0c2,1f0b5,1f0b6,1f0a7
@@ -49990,7 +49990,7 @@ STAY,1f0a2,1f0a5,1f0bd,1f0b6,1f0c6,,,1f0bb,1f0de
 STAY,1f0c6,1f0d3,1f0b6,,,,,1f0c2,1f0d7,1f0b9
 STAY,1f0b6,1f0b8,1f0c9,1f0a4,1f0c5,,,1f0a9,1f0ad
 STAY,1f0c8,1f0b1,1f0c9,1f0db,1f0bd,1f0d2,1f0aa,1f0a3,1f0b7,1f0a8
-STAY,1f0ad,1f0d1,1f0d3,,,,,1f0a1,1f0c1,1f0b2,1f0a3
+HIT,1f0ad,1f0d1,1f0d3,,,,,1f0a1,1f0c1,1f0b2,1f0a3
 HIT,1f0cb,,,,,,,1f0a3,1f0c4
 STAY,1f0c7,1f0b7,1f0db,,,,,1f0b1,1f0b3,1f0ca
 STAY,1f0d3,1f0b1,1f0c8,1f0c2,1f0be,1f0a4,1f0c5,1f0d2,1f0c3,1f0c7

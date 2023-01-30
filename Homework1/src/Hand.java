@@ -26,28 +26,38 @@ public class Hand {
     }
 
     /**
-     * Returns the hard value of the hand (where ace value is 1)
+     * Returns the hard value of the hand, where all aces are
+     * counted as having a value of 1.
      * 
      * @return an integer representing the hard value of the hand 
      */
     public int getHard() {
         int total = 0;
         for (Card card: this.cards) {      //iterate through cards in hand
-            total += (card.getValue() == -1) ? 1 : card.getValue();
+            total += card.hardValue();
         }
         return total;
     }
 
     /**
-     * Returns the soft value of the hand (where ace value is 11)
+     * Returns the soft value of the hand, where if the hand has at
+     * least one ace, then one of the aces is counted as 11, and the
+     * other aces are counted as 1.
      * 
      * @return an integer representing the soft value of a hand 
      */
     public int getSoft() {
-        int total = 0;
-        for (Card card: this.cards) {      //iterate through cards in hand
-            total += (card.getValue() == -1) ? 11 : card.getValue();
-        }
-        return total;
+        // Adds ten to the total if the hand contains at least one ace.
+        return this.getHard() + (this.containsAce() ? 10 : 0);
     }
+
+    private boolean containsAce() {
+        for (Card card : this.cards) {
+            if (card.isAce()) {
+                return true;
+            }
+        }
+        return false;
+    }
+
 }

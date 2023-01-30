@@ -30,11 +30,10 @@ public class Card {
     private final Rank rank;
 
     /**
-     * Mapping of each rank to its respective numerical value.
-     * The only exception is ace, which is given a flagged value of -1.
+     * Mapping of each rank to its respective hard value.
      */
-    private final Map<Rank, Integer> values = Map.ofEntries(
-            Map.entry(Rank.ace, -1),
+    private final Map<Rank, Integer> hardValues = Map.ofEntries(
+            Map.entry(Rank.ace, 1),
             Map.entry(Rank.two, 2),
             Map.entry(Rank.three, 3),
             Map.entry(Rank.four, 4),
@@ -119,11 +118,16 @@ public class Card {
     }
 
     /**
-     * Returns the numerical value of the card, according to its rank.
+     * Returns the hard value of the card, according to its rank.
      *
-     * @return an integer representing the value of the card.
+     * @return an integer representing the hard value of the card.
      */
-    public int getValue() {
-        return values.get(this.rank);
+    public int hardValue() {
+        return hardValues.get(this.rank);
     }
+
+    public boolean isAce() {
+        return (this.rank == Rank.ace);
+    }
+
 }
