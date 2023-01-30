@@ -51,6 +51,11 @@ public class Hand {
         return this.getHard() + (this.containsAce() ? 10 : 0);
     }
 
+    /**
+     * Returns true iff the hand contains at least one ace.
+     *
+     * @return true iff the hand contains at least one ace
+     */
     private boolean containsAce() {
         for (Card card : this.cards) {
             if (card.isAce()) {

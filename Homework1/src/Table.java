@@ -12,7 +12,7 @@ public class Table {
     /**
      * The number of other players (doesn't include player 1 or the dealer).
      */
-    private final static int numOtherPlayers = 3;
+    private final static int NUM_OTHER_PLAYERS = 3;
 
     /**
      * The hands appear in the same order as the csv file.
@@ -37,7 +37,7 @@ public class Table {
         this.hands.add(new Hand(csvLine.substring(handStartIdx, handEndIdx)));
 
         // Add the other players' hands (excluding player 1).
-        for (int i = 0; i < numOtherPlayers; i++) {
+        for (int i = 0; i < NUM_OTHER_PLAYERS; i++) {
 
             int previousHandEndIdx = handEndIdx;
 

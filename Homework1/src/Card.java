@@ -126,6 +126,11 @@ public class Card {
         return hardValues.get(this.rank);
     }
 
+    /**
+     * Returns true iff the card is an ace.
+     *
+     * @return true iff the card is an ace
+     */
     public boolean isAce() {
         return (this.rank == Rank.ace);
     }
