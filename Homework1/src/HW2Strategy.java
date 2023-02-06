@@ -62,6 +62,8 @@ public class HW2Strategy {
             lines.append(csvLine);
         }
 
+        reader.close();
+
         List<String> keys = new ArrayList(lines.get(0).split(","));
         keys.remove(0);
         lines.remove(0);
@@ -71,13 +73,14 @@ public class HW2Strategy {
         for(line : lines){
             Map<Card.Rank, String> internal_map = new HashMap<>();
             values = line.split(",");
-            Card.Rank first_val = Card.cardMap().get(Card.Rank.class, values.get(0).split("+")[0]);
+            Card.Rank first_val = Card.string2RankMap().get(values.get(0).split("+")[0]);
             values.remove(0);
             for(int i = 0; i < keys.length(); i++){
-                internal_map.put(Enum.valueOf(Card.Rank.class, keys.get(i)), values.get(i));
+                internal_map.put(Card.string2RankMap().get(keys.get(i)), values.get(i));
             }
             ext_map.put(first_val, internal_map);
         }
+
 
 
         return ext_map;
@@ -100,19 +103,21 @@ public class HW2Strategy {
             lines.append(csvLine);
         }
 
+        reader.close();
+
         List<String> keys = new ArrayList(lines.get(0).split(","));
         keys.remove(0);
         lines.remove(0);
 
-        Map<Card.Rank, Map<Card.Rank, String>> ext_map = new HashMap<>();
+        Map<Card.Rank, Map<Integer, String>> ext_map = new HashMap<>();
 
         for(line : lines){
-            Map<Card.Rank, String> internal_map = new HashMap<>();
+            Map<Integer, String> internal_map = new HashMap<>();
             values = line.split(",");
-            Card.Rank first_val = Card.cardMap().get(Card.Rank.class, Integer.valueOf(values.get(0).substring(2)));
+            Card.Rank first_val = Card.string2RankMap().get(Integer.valueOf(values.get(0).substring(2)));
             values.remove(0);
             for(int i = 0; i < keys.length(); i++){
-                internal_map.put(Enum.valueOf(Card.Rank.class, keys.get(i)), values.get(i));
+                internal_map.put(Card.string2RankMap().get(keys.get(i)), values.get(i));
             }
             ext_map.put(first_val, internal_map);
         }
@@ -130,20 +135,34 @@ public class HW2Strategy {
      *         rather than type Card.Rank.
      */
     public static Map<Card.Rank, Map<Integer, String>> makeHardMap() {
-        List<String> lines = new ArrayList<>;
+        List<String> lines = new ArrayList<>();
 
         BufferedReader reader = new BufferedReader(new FileReader(srcDir + File.separator + "Wiki Strategy (Simplified) - hard.csv"));
         String csvLine;
         while ((csvLine = reader.readLine()) != null) {
             lines.append(csvLine);
         }
-        List<String> keys = new ArrayList(lines.get(0).split(","));
-        keys.remove(0);
+
+        reader.close();
+
+        List<String> dealerCards = new ArrayList(lines.get(0).split(","));
+        dealerCards.remove(0);
         lines.remove(0);
 
-        Map<Card.Rank, Map<Card.Rank, String>> ext_map = new HashMap<>();
+        Map<Card.Rank, Map<Integer, String>> ext_map = new HashMap<>();
 
+        for(line : lines){
+            Map<Integer, String> internal_map = new HashMap<>();
+            decisions = line.split(",");
+            Card.Rank first_val = Card.string2RankMap().get(Integer.valueOf(decisions.get(0)));
+            decisions.remove(0);
+            for(int i = 0; i < dealerCards.length(); i++){
+                internal_map.put(Card.string2RankMap().get(dealerCards.get(i)), decisions.get(i));
+            }
+            ext_map.put(first_val, internal_map);
+        }
 
+        return ext_map;
 
     }
 

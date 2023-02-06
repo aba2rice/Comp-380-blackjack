@@ -5,6 +5,8 @@ import java.util.Map;
  */
 public class Card {
 
+    public static final Map<String, Rank> string2RankMap =
+
     /**
      * Defines the possible suits of a card.
      */
@@ -135,24 +137,23 @@ public class Card {
         return (this.rank == Rank.ace);
     }
 
-    public Map<String, Rank> cardMap(){
-        ret_map = new HashMap();
-        ret_map.put(A, ace);
-        ret_map.put(K, king);
-        ret_map.put(Q, queen);
-        ret_map.put(J, jack);
-        ret_map.put(10, ten);
-        ret_map.put(9, nine);
-        ret_map.put(8, eight);
-        ret_map.put(7, seven);
-        ret_map.put(6, six);
-        ret_map.put(5, five);
-        ret_map.put(4, four);
-        ret_map.put(3, three);
-        ret_map.put(2, two);
+    private Map<String, Rank> createString2RankMap() {
+        Map<String, Rank> string2RankMap = new HashMap<>();
+        string2RankMap.put("A", Rank.ace);
+        string2RankMap.put("K", Rank.king);
+        string2RankMap.put("Q", Rank.queen);
+        string2RankMap.put("J", Rank.jack);
+        string2RankMap.put("10", Rank.ten);
+        string2RankMap.put("9", Rank.nine);
+        string2RankMap.put("8", Rank.eight);
+        string2RankMap.put("7", Rank.seven);
+        string2RankMap.put("6", Rank.six);
+        string2RankMap.put("5", Rank.five);
+        string2RankMap.put("4", Rank.four);
+        string2RankMap.put("3", Rank.three);
+        string2RankMap.put("2", Rank.two);
 
-        return ret_map;
-
+        return string2RankMap;
     }
 
 }
