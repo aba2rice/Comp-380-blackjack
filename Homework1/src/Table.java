@@ -64,6 +64,10 @@ public class Table {
         return this.hands.get(this.hands.size() - 1);
     }
 
+    public Card getDealerCard() {
+        return hands.get(0).get(0);
+    }
+
     /**
      * Returns the first index of a comma contained in the input
      * string, where the comma's index is strictly greater than the

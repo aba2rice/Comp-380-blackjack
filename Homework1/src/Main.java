@@ -16,7 +16,7 @@ public class Main {
         String csvLine;
         while ((csvLine = reader.readLine()) != null) {
             Table table = new Table(csvLine);
-            writer.write(HW1Strategy.strategy(table, csvLine) + "\n");
+            writer.write(HW2Strategy.strategy(table, csvLine) + "\n");
         }
 
         reader.close();

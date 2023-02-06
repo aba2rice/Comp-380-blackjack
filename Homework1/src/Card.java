@@ -135,4 +135,24 @@ public class Card {
         return (this.rank == Rank.ace);
     }
 
+    public Map<String, Rank> cardMap(){
+        ret_map = new HashMap();
+        ret_map.put(A, ace);
+        ret_map.put(K, king);
+        ret_map.put(Q, queen);
+        ret_map.put(J, jack);
+        ret_map.put(10, ten);
+        ret_map.put(9, nine);
+        ret_map.put(8, eight);
+        ret_map.put(7, seven);
+        ret_map.put(6, six);
+        ret_map.put(5, five);
+        ret_map.put(4, four);
+        ret_map.put(3, three);
+        ret_map.put(2, two);
+
+        return ret_map;
+
+    }
+
 }
