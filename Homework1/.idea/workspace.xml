@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="385d0287-0331-4710-99b5-df1719a7c667" name="Changes" comment="Added javadocs." />
+    <list id="4d6b45f1-76a0-429a-9422-97fc55d0731a" name="Changes by sammyboi15" comment="Changes by sammyboi15" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2Kk9XjJouQpYgZxL29ylapxYrgi" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "last_opened_file_path": "C:/Users/alexs/IntelliJ/Comp-380-blackjack/Homework1/src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Blackjack" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="385d0287-0331-4710-99b5-df1719a7c667" name="Changes" comment="" />
+      <created>1674507754988</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674507754988</updated>
+      <workItem from="1674507756327" duration="3856000" />
+      <workItem from="1674579156811" duration="4503000" />
+      <workItem from="1674597433189" duration="859000" />
+      <workItem from="1674618723984" duration="454000" />
+      <workItem from="1674666823549" duration="2409000" />
+      <workItem from="1674669270324" duration="79000" />
+      <workItem from="1674674602288" duration="860000" />
+      <workItem from="1674685220679" duration="4183000" />
+      <workItem from="1674696492227" duration="3750000" />
+      <workItem from="1674700311841" duration="66000" />
+      <workItem from="1675092648957" duration="705000" />
+      <workItem from="1675094737264" duration="818000" />
+      <workItem from="1675115850092" duration="118000" />
+      <workItem from="1675721195001" duration="786000" />
+      <workItem from="1675729653618" duration="1097000" />
+    </task>
+    <task id="LOCAL-00001" summary="Implemented Table constructor.">
+      <created>1674510922489</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674510922489</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Modified code according to new csv file in Drive.">
+      <created>1674583085873</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674583085873</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Tested the constructors and fixed them.">
+      <created>1674669312061</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674669312061</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Almost finished">
+      <created>1674689042460</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674689042460</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added csv files">
+      <created>1674689485620</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674689485620</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Closed the BufferedReader and BufferedWriter. Finished HW1!">
+      <created>1674699622204</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674699622204</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Fixed hand soft value to only count one of the aces as 11.">
+      <created>1675093346552</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1675093346552</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added javadocs.">
+      <created>1675094959508</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1675094959508</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Implemented Table constructor." />
+    <MESSAGE value="Modified code according to new csv file in Drive." />
+    <MESSAGE value="Tested the constructors and fixed them." />
+    <MESSAGE value="Almost finished" />
+    <MESSAGE value="Added csv files" />
+    <MESSAGE value="Closed the BufferedReader and BufferedWriter. Finished HW1!" />
+    <MESSAGE value="Fixed hand soft value to only count one of the aces as 11." />
+    <MESSAGE value="Added javadocs." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added javadocs." />
+  </component>
+</project>
