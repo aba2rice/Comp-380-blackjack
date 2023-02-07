@@ -1,3 +1,4 @@
+import java.util.HashMap;
 import java.util.Map;
 
 /**
@@ -5,19 +6,19 @@ import java.util.Map;
  */
 public class Card {
 
-    public static final Map<String, Rank> string2RankMap =
+    public static final Map<String, Rank> string2RankMap = createString2RankMap();
 
     /**
      * Defines the possible suits of a card.
      */
-    private enum Suit {
+    enum Suit {
         hearts, spades, clubs, diamonds
     }
 
     /**
      * Defines the possible ranks of a card.
      */
-    private enum Rank {
+    enum Rank {
         ace, two, three, four, five, six, seven, eight, nine, ten, jack, queen, king
     }
 
@@ -137,7 +138,7 @@ public class Card {
         return (this.rank == Rank.ace);
     }
 
-    private Map<String, Rank> createString2RankMap() {
+    private static Map<String, Rank> createString2RankMap() {
         Map<String, Rank> string2RankMap = new HashMap<>();
         string2RankMap.put("A", Rank.ace);
         string2RankMap.put("K", Rank.king);

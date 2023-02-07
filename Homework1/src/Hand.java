@@ -65,11 +65,11 @@ public class Hand {
         return false;
     }
 
-    private boolean isSoft() {
+    public boolean isSoft() {
         return containsAce();
     }
 
-    private boolean isPair() {
+    public boolean isPair() {
         return (this.handSize() == 2 &&
                 this.cards.get(0).getRank() == this.cards.get(1).getRank());
     }

@@ -65,7 +65,7 @@ public class Table {
     }
 
     public Card getDealerCard() {
-        return hands.get(0).get(0);
+        return hands.get(0).getCards().get(0);
     }
 
     /**

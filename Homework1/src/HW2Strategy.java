@@ -7,13 +7,31 @@
 /**
  * Class to implement the simplified Wiki Blackjack strategy of Homework 2.
  */
+import java.io.*;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
 public class HW2Strategy {
-    private static final Map<Card.Rank, Map<Card.Rank, String>> pairMap = makePairMap();
-    private static final Map<Card.Rank, Map<Integer, String>> softMap = makeSoftMap();
-    private static final Map<Card.Rank, Map<Integer, String>> hardMap = makeHardMap();
+
+    private static final String csvDir = System.getProperty("user.dir") + File.separator +
+            "CSV files";
+
+    private static final Map<Card.Rank, Map<Card.Rank, String>> pairMap;
+    private static final Map<Card.Rank, Map<Integer, String>> softMap;
+    private static final Map<Card.Rank, Map<Integer, String>> hardMap;
+
+    static {
+        try {
+            pairMap = makePairMap();
+            softMap = makeSoftMap();
+            hardMap = makeHardMap();
+        } catch (IOException e) {
+            throw new RuntimeException(e);
+        }
+    }
+
+
 
     /**
      * Prepends the decision (HIT or STAY) to the beginning of the
@@ -25,9 +43,11 @@ public class HW2Strategy {
      */
     public static String strategy(Table table, String csvLine) {
         Card dealerCard = table.getDealerCard();
+        Hand hand = table.getPlayer1Hand();
+
         String decision;
 
-        if(hand.isPair()) {     //if hand is pair use pair sheet
+        if (hand.isPair()) {     //if hand is pair use pair sheet
             decision = pairMap.get(dealerCard.getRank()).get(
                     table.getPlayer1Hand().getCards().get(0).getRank());
         } else if(hand.isSoft()) {      //if hand is soft (contains ace) use soft sheet
@@ -53,10 +73,10 @@ public class HW2Strategy {
      * @return a nested mapping of card ranks to strings that represents the PAIR TABLE
      *         of the wiki strategy.
      */
-    public static Map<Card.Rank, Map<Card.Rank, String>> makePairMap() {
-        List<String> lines = new ArrayList<>;
+    public static Map<Card.Rank, Map<Card.Rank, String>> makePairMap() throws IOException {
+        List<String> lines = new ArrayList<>();
 
-        BufferedReader reader = new BufferedReader(new FileReader(srcDir + File.separator + "Wiki Strategy (Simplified) - pairs.csv"));
+        BufferedReader reader = new BufferedReader(new FileReader(csvDir + File.separator + "Wiki Strategy (Simplified) - pairs.csv"));
         String csvLine;
         while ((csvLine = reader.readLine()) != null) {
             lines.append(csvLine);
@@ -64,19 +84,19 @@ public class HW2Strategy {
 
         reader.close();
 
-        List<String> keys = new ArrayList(lines.get(0).split(","));
+        List<String> keys = Arrays.asList(lines.get(0).split(","));
         keys.remove(0);
         lines.remove(0);
 
         Map<Card.Rank, Map<Card.Rank, String>> ext_map = new HashMap<>();
 
-        for(line : lines){
+        for(String line : lines){
             Map<Card.Rank, String> internal_map = new HashMap<>();
-            values = line.split(",");
-            Card.Rank first_val = Card.string2RankMap().get(values.get(0).split("+")[0]);
+            List<String> values = Arrays.asList(line.split(","));
+            Card.Rank first_val = Card.string2RankMap.get(values.get(0).split("\\+")[0]);
             values.remove(0);
-            for(int i = 0; i < keys.length(); i++){
-                internal_map.put(Card.string2RankMap().get(keys.get(i)), values.get(i));
+            for(int i = 0; i < keys.size(); i++){
+                internal_map.put(Card.string2RankMap.get(keys.get(i)), values.get(i));
             }
             ext_map.put(first_val, internal_map);
         }
@@ -94,30 +114,30 @@ public class HW2Strategy {
      *         NOTE: the type of the inner keys of the map (representing the player hand) is INTEGER
      *         rather than type Card.Rank.
      */
-    public static Map<Card.Rank, Map<Integer, String>> makeSoftMap() {
+    public static Map<Card.Rank, Map<Integer, String>> makeSoftMap() throws IOException {
         List<String> lines = new ArrayList<>();
 
-        BufferedReader reader = new BufferedReader(new FileReader(srcDir + File.separator + "Wiki Strategy (Simplified) - soft.csv"));
+        BufferedReader reader = new BufferedReader(new FileReader(csvDir + File.separator + "Wiki Strategy (Simplified) - soft.csv"));
         String csvLine;
         while ((csvLine = reader.readLine()) != null) {
-            lines.append(csvLine);
+            lines.add(csvLine);
         }
 
         reader.close();
 
-        List<String> keys = new ArrayList(lines.get(0).split(","));
+        List<String> keys = Arrays.asList(lines.get(0).split(","));
         keys.remove(0);
         lines.remove(0);
 
         Map<Card.Rank, Map<Integer, String>> ext_map = new HashMap<>();
 
-        for(line : lines){
+        for(String line : lines){
             Map<Integer, String> internal_map = new HashMap<>();
-            values = line.split(",");
-            Card.Rank first_val = Card.string2RankMap().get(Integer.valueOf(values.get(0).substring(2)));
+            List<String> values = Arrays.asList(line.split(","));
+            Card.Rank first_val = Card.string2RankMap.get(values.get(0).substring(2));
             values.remove(0);
-            for(int i = 0; i < keys.length(); i++){
-                internal_map.put(Card.string2RankMap().get(keys.get(i)), values.get(i));
+            for(int i = 0; i < keys.size(); i++){
+                internal_map.put(Integer.valueOf(keys.get(i)), values.get(i));
             }
             ext_map.put(first_val, internal_map);
         }

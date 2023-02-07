@@ -1,3 +1,8 @@
+import java.io.*;
+
+/**
+ * Main program for running an optimal Blackjack strategy
+ */
 public class Main {
 
     /**
@@ -8,9 +13,11 @@ public class Main {
                                              "Homework2";
 
     /**
+     * Reads a csv file and outputs a csv file which prepends a decision to the beginning
+     * of each line in the input csv file.
      *
-     * @param args comand line arguments
-     * @throws IOException
+     * @param args command line arguments
+     * @throws IOException if one of the files can't be read from or written to
      */
     public static void main(String[] args) throws IOException {
         BufferedReader reader = new BufferedReader(new FileReader(csvFileDir + File.separator + "table-samples-70000.csv"));
